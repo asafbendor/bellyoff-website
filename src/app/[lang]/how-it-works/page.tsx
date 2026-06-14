@@ -9,67 +9,53 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   return { title: tr.how_page_title, description: tr.how_page_sub };
 }
 
-const PHASES = [
-  {
-    letter: 'A',
-    color: '#6C63FF',
-    bg: 'bg-[#EEEDFE] dark:bg-[#1A1D40]',
-    minutes: '1-3',
-    labelKey: 'phase_a_label' as const,
-    titleKey: 'phase_a_title' as const,
-    descKey: 'phase_a_desc' as const,
-    details: [
-      'Diaphragmatic (belly) breathing activates the transverse abdominis — the muscle that acts as a natural corset.',
-      'Deep breathing lowers cortisol, the stress hormone that triggers visceral fat storage around the belly.',
-      'The nervous system shift from sympathetic (stress) to parasympathetic (rest) is essential for fat metabolism after 40.',
-    ],
-  },
-  {
-    letter: 'B',
-    color: '#00D4AA',
-    bg: 'bg-[#E1F5EE] dark:bg-[#0D2A28]',
-    minutes: '4-7',
-    labelKey: 'phase_b_label' as const,
-    titleKey: 'phase_b_title' as const,
-    descKey: 'phase_b_desc' as const,
-    details: [
-      'Anterior pelvic tilt — a forward tilt of the pelvis — pushes the belly forward, creating a protrusion that looks like belly fat but isn\'t.',
-      'Correcting pelvic tilt through targeted holds and stretches can visually reduce belly protrusion by 2-4 cm immediately.',
-      'Postural muscles (glutes, deep hip flexors, lower back) are strengthened in a safe, controlled range of motion.',
-    ],
-  },
-  {
-    letter: 'C',
-    color: '#F59E0B',
-    bg: 'bg-[#FAEEDA] dark:bg-[#2A1F0D]',
-    minutes: '8-10',
-    labelKey: 'phase_c_label' as const,
-    titleKey: 'phase_c_title' as const,
-    descKey: 'phase_c_desc' as const,
-    details: [
-      'Somatic walking patterns integrate the corrected posture into natural movement.',
-      'Gentle arm circles and hip mobility activate the lymphatic system for metabolic detox.',
-      'The cool-down breath sequence locks in the nervous system reset achieved in Phase A.',
-    ],
-  },
-];
-
-const FAQ = [
-  { q: 'How long until I see results from BellyOff?', a: 'Most users report postural improvements within 2-3 weeks. Visible belly reduction typically becomes noticeable after 4-6 weeks of daily practice.' },
-  { q: 'Is BellyOff safe for people with back pain?', a: 'Yes. BellyOff was specifically designed to avoid exercises that strain the lower back. The posture correction in Phase B actually reduces lower back pain for many users.' },
-  { q: 'Can I do BellyOff if I\'m not flexible?', a: 'Absolutely. No flexibility is required. All movements are within a comfortable, pain-free range of motion.' },
-  { q: 'Why 10 minutes specifically?', a: 'Research shows that short, consistent daily practice is more effective than longer sporadic workouts for building the nervous system habits necessary for postural change and cortisol reduction.' },
-];
-
 export default async function HowItWorksPage({ params }: { params: Promise<{ lang: string }> }) {
   const { lang: rawLang } = await params;
   const lang = rawLang as Lang;
   const tr = t(lang);
 
+  const phases = [
+    {
+      letter: 'A',
+      color: '#6C63FF',
+      bg: 'bg-[#EEEDFE] dark:bg-[#1A1D40]',
+      label: tr.phase_a_label,
+      title: tr.phase_a_title,
+      desc: tr.phase_a_desc,
+      details: [tr.phase_a_d1, tr.phase_a_d2, tr.phase_a_d3],
+    },
+    {
+      letter: 'B',
+      color: '#00D4AA',
+      bg: 'bg-[#E1F5EE] dark:bg-[#0D2A28]',
+      label: tr.phase_b_label,
+      title: tr.phase_b_title,
+      desc: tr.phase_b_desc,
+      details: [tr.phase_b_d1, tr.phase_b_d2, tr.phase_b_d3],
+    },
+    {
+      letter: 'C',
+      color: '#F59E0B',
+      bg: 'bg-[#FAEEDA] dark:bg-[#2A1F0D]',
+      label: tr.phase_c_label,
+      title: tr.phase_c_title,
+      desc: tr.phase_c_desc,
+      details: [tr.phase_c_d1, tr.phase_c_d2, tr.phase_c_d3],
+    },
+  ];
+
+  const faqs = [
+    { q: tr.faq_q1, a: tr.faq_a1 },
+    { q: tr.faq_q2, a: tr.faq_a2 },
+    { q: tr.faq_q3, a: tr.faq_a3 },
+    { q: tr.faq_q4, a: tr.faq_a4 },
+  ];
+
   const faqSchema = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: FAQ.map((f) => ({
+    inLanguage: lang,
+    mainEntity: faqs.map((f) => ({
       '@type': 'Question',
       name: f.q,
       acceptedAnswer: { '@type': 'Answer', text: f.a },
@@ -95,19 +81,21 @@ export default async function HowItWorksPage({ params }: { params: Promise<{ lan
           <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-8">{tr.method_title}</h2>
 
           <div className="space-y-10">
-            {PHASES.map((phase) => (
+            {phases.map((phase) => (
               <div key={phase.letter} className={`${phase.bg} rounded-2xl p-6 md:p-8`}>
                 <div className="flex items-center gap-3 mb-4">
-                  <div className="w-10 h-10 rounded-full flex items-center justify-center font-bold text-white text-lg"
-                    style={{ background: phase.color }}>
+                  <div
+                    className="w-10 h-10 rounded-full flex items-center justify-center font-bold text-white text-lg shrink-0"
+                    style={{ background: phase.color }}
+                  >
                     {phase.letter}
                   </div>
                   <div>
-                    <div className="text-sm font-medium" style={{ color: phase.color }}>{tr[phase.labelKey]}</div>
-                    <h3 className="text-xl font-bold text-gray-900 dark:text-white">{tr[phase.titleKey]}</h3>
+                    <div className="text-sm font-medium" style={{ color: phase.color }}>{phase.label}</div>
+                    <h3 className="text-xl font-bold text-gray-900 dark:text-white">{phase.title}</h3>
                   </div>
                 </div>
-                <p className="text-gray-600 dark:text-[#8A8A9A] mb-4">{tr[phase.descKey]}</p>
+                <p className="text-gray-600 dark:text-[#8A8A9A] mb-4">{phase.desc}</p>
                 <ul className="space-y-2">
                   {phase.details.map((d, i) => (
                     <li key={i} className="flex gap-2 text-sm text-gray-600 dark:text-[#8A8A9A]">
@@ -123,7 +111,7 @@ export default async function HowItWorksPage({ params }: { params: Promise<{ lan
           <div className="mt-16">
             <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-8">FAQ</h2>
             <div className="space-y-4">
-              {FAQ.map((f, i) => (
+              {faqs.map((f, i) => (
                 <div key={i} className="border border-gray-100 dark:border-white/5 rounded-xl p-5">
                   <h3 className="font-semibold text-gray-900 dark:text-white mb-2">{f.q}</h3>
                   <p className="text-sm text-gray-600 dark:text-[#8A8A9A] leading-relaxed">{f.a}</p>
