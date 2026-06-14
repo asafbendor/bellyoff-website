@@ -94,6 +94,9 @@ export const translations = {
     phone_phase_a: 'Phase A: Deep Activation',
     phone_phase_b: 'Phase B: Posture Reset',
     phone_min: 'min',
+    stat_minutes: 'min / day',
+    stat_phases: 'workout phases',
+    stat_age: 'optimized for 40+',
   },
 
   he: {
@@ -178,6 +181,9 @@ export const translations = {
     phone_phase_a: 'שלב א׳: הפעלה עמוקה',
     phone_phase_b: 'שלב ב׳: איפוס יציבה',
     phone_min: 'דק\'',
+    stat_minutes: 'דק׳ ביום',
+    stat_phases: 'שלבי אימון',
+    stat_age: 'מותאם ל-40+',
   },
 
   ar: {
@@ -261,6 +267,9 @@ export const translations = {
     phone_phase_a: 'المرحلة أ: التنشيط العميق',
     phone_phase_b: 'المرحلة ب: إعادة الوضعية',
     phone_min: 'دقيقة',
+    stat_minutes: 'دقيقة / يوم',
+    stat_phases: 'مراحل تمرين',
+    stat_age: 'مُحسَّن لـ 40+',
   },
 
   es: {
@@ -344,6 +353,9 @@ export const translations = {
     phone_phase_a: 'Fase A: Activación profunda',
     phone_phase_b: 'Fase B: Reinicio postural',
     phone_min: 'min',
+    stat_minutes: 'min / día',
+    stat_phases: 'fases de ejercicio',
+    stat_age: 'optimizado para 40+',
   },
 
   de: {
@@ -427,6 +439,9 @@ export const translations = {
     phone_phase_a: 'Phase A: Tiefenaktivierung',
     phone_phase_b: 'Phase B: Haltungsreset',
     phone_min: 'Min',
+    stat_minutes: 'Min / Tag',
+    stat_phases: 'Trainingsphasen',
+    stat_age: 'optimiert für 40+',
   },
 
   fr: {
@@ -510,6 +525,9 @@ export const translations = {
     phone_phase_a: 'Phase A: Activation profonde',
     phone_phase_b: 'Phase B: Réinitialisation posturale',
     phone_min: 'min',
+    stat_minutes: 'min / jour',
+    stat_phases: 'phases d\'entraînement',
+    stat_age: 'optimisé pour 40+',
   },
 } as const;
 

@@ -1,146 +1,100 @@
-import { Lang, t } from '@/i18n/translations';
-
-type Screen = 'summary' | 'maya' | 'alex';
-
 interface Props {
-  screen: Screen;
-  lang: Lang;
+  src: string;
+  width?: number;
   className?: string;
+  alt?: string;
 }
 
-function SummaryScreen({ tr }: { tr: ReturnType<typeof t> }) {
-  return (
-    <div className="absolute inset-0 flex flex-col bg-[#0D0F14] overflow-hidden">
-      <div className="px-4 pt-5 pb-3">
-        <div className="text-[9px] text-[#8A8A9A] mb-0.5">{tr.phone_streak}</div>
-        <div className="flex items-center gap-2">
-          <div className="text-2xl font-bold text-white">21</div>
-          <div className="text-[9px] text-[#6C63FF]">🔥</div>
-        </div>
-      </div>
-      <div className="px-4 pb-2">
-        <div className="text-[8px] text-[#8A8A9A] mb-1">{tr.phone_weight}</div>
-        <div className="h-16 relative">
-          <svg viewBox="0 0 120 48" className="w-full h-full" preserveAspectRatio="none">
-            <polyline
-              points="0,40 20,36 40,32 60,28 80,22 100,16 120,12"
-              fill="none"
-              stroke="#6C63FF"
-              strokeWidth="1.5"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            />
-            <polyline
-              points="0,40 20,36 40,32 60,28 80,22 100,16 120,12"
-              fill="url(#grad)"
-              stroke="none"
-              opacity="0.2"
-            />
-            <defs>
-              <linearGradient id="grad" x1="0" y1="0" x2="0" y2="1">
-                <stop offset="0%" stopColor="#6C63FF" />
-                <stop offset="100%" stopColor="#6C63FF" stopOpacity="0" />
-              </linearGradient>
-            </defs>
-          </svg>
-        </div>
-      </div>
-      <div className="mx-4 mb-3 bg-[#1A1D26] rounded-xl p-3">
-        <div className="text-[8px] text-[#8A8A9A] mb-1">{tr.phone_waist}</div>
-        <div className="flex items-center justify-between">
-          <div className="text-base font-bold text-[#00D4AA]">-3.4<span className="text-[8px] font-normal ml-0.5">cm</span></div>
-          <div className="w-16 h-2 bg-[#0D0F14] rounded-full overflow-hidden">
-            <div className="h-full bg-[#00D4AA] rounded-full" style={{ width: '68%' }} />
-          </div>
-        </div>
-      </div>
-      <div className="flex-1 mx-4 bg-[#1A1D26] rounded-xl p-3">
-        <div className="text-[8px] text-[#8A8A9A] mb-2">Workouts this week</div>
-        <div className="flex gap-1.5">
-          {[1,1,1,1,0,1,1].map((done, i) => (
-            <div key={i} className={`flex-1 h-5 rounded ${done ? 'bg-[#6C63FF]' : 'bg-[#0D0F14]'}`} />
-          ))}
-        </div>
-      </div>
-      <div className="h-4" />
-    </div>
-  );
-}
+export default function PhoneMockup({ src, width = 200, className = '', alt = 'BellyOff app screen' }: Props) {
+  const h = Math.round(width * 2.164);
+  const r = Math.round(width * 0.183);
+  const ri = r - 4;
 
-function WorkoutScreen({ trainer, phaseLabel, gradient, timerColor, tr }: {
-  trainer: string;
-  phaseLabel: string;
-  gradient: string;
-  timerColor: string;
-  tr: ReturnType<typeof t>;
-}) {
   return (
-    <div className={`absolute inset-0 flex flex-col ${gradient} overflow-hidden`}>
-      <div className="px-3 pt-4 flex items-center justify-between">
-        <div className={`text-[8px] font-semibold px-2 py-0.5 rounded-full ${timerColor} bg-white/10`}>
-          {phaseLabel}
-        </div>
-        <div className="text-[8px] text-white/60">3 / 10</div>
-      </div>
-      <div className="flex-1 flex items-center justify-center">
-        <div className="w-14 h-14 rounded-full bg-white/10 border border-white/20 flex items-center justify-center">
-          <span className="text-2xl">{trainer === 'maya' ? '🧘‍♀️' : '🧘‍♂️'}</span>
-        </div>
-      </div>
-      <div className="px-4 pb-3 text-center">
-        <div className="text-white text-[11px] font-semibold mb-1">
-          {trainer === 'maya' ? 'Deep Belly Breathing' : 'Pelvis Correction'}
-        </div>
-        <div className="flex items-center justify-center gap-2 mt-2">
-          <svg className="w-10 h-10" viewBox="0 0 40 40">
-            <circle cx="20" cy="20" r="16" fill="none" stroke="rgba(255,255,255,0.15)" strokeWidth="2.5" />
-            <circle
-              cx="20" cy="20" r="16" fill="none" stroke="white" strokeWidth="2.5"
-              strokeDasharray="100.5" strokeDashoffset="30"
-              strokeLinecap="round"
-              style={{ transformOrigin: '50% 50%', transform: 'rotate(-90deg)' }}
-            />
-            <text x="20" y="24" textAnchor="middle" fill="white" fontSize="9" fontWeight="600">0:42</text>
-          </svg>
-        </div>
-      </div>
-    </div>
-  );
-}
+    <div
+      className={`relative select-none shrink-0 ${className}`}
+      style={{ width: `${width}px`, height: `${h}px` }}
+    >
+      {/* Phone body */}
+      <div
+        className="absolute inset-0 bg-[#111111]"
+        style={{
+          borderRadius: `${r}px`,
+          boxShadow: '0 40px 100px rgba(0,0,0,0.75), 0 10px 30px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.06)',
+        }}
+      />
 
-export default function PhoneMockup({ screen, lang, className = '' }: Props) {
-  const tr = t(lang);
-  return (
-    <div className={`relative ${className}`}>
-      <div className="relative w-[120px] h-[220px] rounded-[20px] bg-[#0D0F14] border-2 border-[#2A2A3A] shadow-lg overflow-hidden">
-        <div className="absolute top-0 left-1/2 -translate-x-1/2 w-12 h-4 bg-[#0D0F14] border-b-2 border-[#2A2A3A] rounded-b-xl z-10" />
-        <div className="absolute inset-0 m-[3px] rounded-[18px] overflow-hidden">
-          {screen === 'summary' && <SummaryScreen tr={tr} />}
-          {screen === 'maya' && (
-            <WorkoutScreen
-              trainer="maya"
-              phaseLabel={tr.phone_phase_a}
-              gradient="bg-gradient-to-b from-[#1A2040] to-[#0D0F14]"
-              timerColor="text-[#9C95FF]"
-              tr={tr}
-            />
-          )}
-          {screen === 'alex' && (
-            <WorkoutScreen
-              trainer="alex"
-              phaseLabel={tr.phone_phase_b}
-              gradient="bg-gradient-to-b from-[#0D2A28] to-[#0D0F14]"
-              timerColor="text-[#00D4AA]"
-              tr={tr}
-            />
-          )}
-        </div>
+      {/* Volume up */}
+      <div
+        className="absolute bg-[#1E1E1E]"
+        style={{
+          left: '-3px',
+          top: `${Math.round(h * 0.155)}px`,
+          width: '3px',
+          height: `${Math.round(h * 0.065)}px`,
+          borderRadius: '2px 0 0 2px',
+        }}
+      />
+      {/* Volume down */}
+      <div
+        className="absolute bg-[#1E1E1E]"
+        style={{
+          left: '-3px',
+          top: `${Math.round(h * 0.245)}px`,
+          width: '3px',
+          height: `${Math.round(h * 0.1)}px`,
+          borderRadius: '2px 0 0 2px',
+        }}
+      />
+      {/* Power button */}
+      <div
+        className="absolute bg-[#1E1E1E]"
+        style={{
+          right: '-3px',
+          top: `${Math.round(h * 0.2)}px`,
+          width: '3px',
+          height: `${Math.round(h * 0.085)}px`,
+          borderRadius: '0 2px 2px 0',
+        }}
+      />
+
+      {/* Screen bezel */}
+      <div
+        className="absolute overflow-hidden bg-[#0D0F14]"
+        style={{ inset: '4px', borderRadius: `${ri}px` }}
+      >
+        {/* Camera pill cutout */}
+        <div
+          className="absolute bg-[#111111] z-10"
+          style={{
+            top: `${Math.round(h * 0.012)}px`,
+            left: '50%',
+            transform: 'translateX(-50%)',
+            width: `${Math.round(width * 0.3)}px`,
+            height: `${Math.round(width * 0.065)}px`,
+            borderRadius: `${Math.round(width * 0.033)}px`,
+          }}
+        />
+
+        {/* Screenshot */}
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={src}
+          alt={alt}
+          className="absolute inset-0 w-full h-full object-cover"
+          draggable={false}
+        />
       </div>
-      <div className="mt-2 text-center text-[10px] text-[#8A8A9A]">
-        {screen === 'summary' && tr.phone_label_summary}
-        {screen === 'maya' && tr.phone_label_maya}
-        {screen === 'alex' && tr.phone_label_alex}
-      </div>
+
+      {/* Glass sheen */}
+      <div
+        className="absolute pointer-events-none"
+        style={{
+          inset: '4px',
+          borderRadius: `${ri}px`,
+          background: 'linear-gradient(130deg, rgba(255,255,255,0.045) 0%, transparent 45%)',
+        }}
+      />
     </div>
   );
 }

@@ -1,0 +1,96 @@
+<svg viewBox="0 0 390 844" xmlns="http://www.w3.org/2000/svg" font-family="system-ui,-apple-system,sans-serif">
+  <defs>
+    <linearGradient id="bgM" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D1B3E"/>
+      <stop offset="100%" stop-color="#0D0F14"/>
+    </linearGradient>
+    <linearGradient id="timerGlow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6C63FF"/>
+      <stop offset="100%" stop-color="#4B44CC"/>
+    </linearGradient>
+    <clipPath id="screen"><rect width="390" height="844" rx="0"/></clipPath>
+  </defs>
+
+  <rect width="390" height="844" fill="url(#bgM)" clip-path="url(#screen)"/>
+
+  <!-- Status bar -->
+  <text x="20" y="26" fill="#ffffff" font-size="13" font-weight="600">9:41</text>
+  <!-- Signal dots -->
+  <rect x="320" y="16" width="3" height="6" rx="1" fill="#fff" opacity="0.4"/>
+  <rect x="325" y="14" width="3" height="8" rx="1" fill="#fff" opacity="0.6"/>
+  <rect x="330" y="12" width="3" height="10" rx="1" fill="#fff" opacity="0.8"/>
+  <rect x="335" y="10" width="3" height="12" rx="1" fill="#fff"/>
+  <!-- Wifi -->
+  <path d="M348 20 Q353 15 358 20" stroke="#fff" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <path d="M345 23 Q353 13 361 23" stroke="#fff" stroke-width="1.5" fill="none" opacity="0.4"/>
+  <circle cx="353" cy="24" r="1.5" fill="#fff"/>
+  <!-- Battery -->
+  <rect x="366" y="14" width="18" height="10" rx="2" stroke="#fff" stroke-width="1.2" fill="none"/>
+  <rect x="384" y="17" width="2" height="4" rx="1" fill="#fff" opacity="0.5"/>
+  <rect x="367.5" y="15.5" width="12" height="7" rx="1.2" fill="#fff"/>
+
+  <!-- Phase pill -->
+  <rect x="130" y="52" width="130" height="28" rx="14" fill="#6C63FF" opacity="0.2"/>
+  <rect x="130" y="52" width="130" height="28" rx="14" stroke="#6C63FF" stroke-width="1" fill="none"/>
+  <text x="195" y="71" fill="#9C95FF" font-size="12" font-weight="600" text-anchor="middle" letter-spacing="1">PHASE A · BREATHING</text>
+
+  <!-- Step counter -->
+  <text x="195" y="105" fill="#ffffff" font-size="13" text-anchor="middle" opacity="0.5">Step 3 of 10</text>
+
+  <!-- Trainer figure - Maya (female, breathing pose) -->
+  <!-- Body silhouette - seated breathing position -->
+  <g transform="translate(195, 300)">
+    <!-- Glow circle behind figure -->
+    <circle cx="0" cy="0" r="100" fill="#6C63FF" opacity="0.06"/>
+    <circle cx="0" cy="0" r="75" fill="#6C63FF" opacity="0.08"/>
+
+    <!-- Head -->
+    <ellipse cx="0" cy="-110" rx="22" ry="24" fill="#C8A882"/>
+    <!-- Hair -->
+    <ellipse cx="0" cy="-122" rx="23" ry="16" fill="#2C1810"/>
+    <path d="M-23 -118 Q-30 -100 -22 -85" stroke="#2C1810" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M23 -118 Q30 -100 22 -85" stroke="#2C1810" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <!-- Neck -->
+    <rect x="-8" y="-88" width="16" height="18" rx="4" fill="#C8A882"/>
+    <!-- Body / torso -->
+    <path d="M-28 -70 Q-30 -20 -28 20 L28 20 Q30 -20 28 -70 Z" fill="#6C63FF"/>
+    <!-- Arms raised for breathing -->
+    <path d="M-28 -60 Q-55 -80 -60 -100 Q-62 -110 -55 -108" stroke="#C8A882" stroke-width="14" fill="none" stroke-linecap="round"/>
+    <path d="M28 -60 Q55 -80 60 -100 Q62 -110 55 -108" stroke="#C8A882" stroke-width="14" fill="none" stroke-linecap="round"/>
+    <!-- Hands open -->
+    <circle cx="-55" cy="-109" r="8" fill="#C8A882"/>
+    <circle cx="55" cy="-109" r="8" fill="#C8A882"/>
+    <!-- Legs crossed/seated -->
+    <path d="M-28 20 Q-40 50 -25 70 Q-10 85 0 75 Q10 85 25 70 Q40 50 28 20 Z" fill="#2C3E7A"/>
+    <!-- Feet -->
+    <ellipse cx="-22" cy="76" rx="14" ry="8" fill="#C8A882" transform="rotate(-15 -22 76)"/>
+    <ellipse cx="22" cy="76" rx="14" ry="8" fill="#C8A882" transform="rotate(15 22 76)"/>
+
+    <!-- Breath indicator circles -->
+    <circle cx="0" cy="-50" r="6" fill="none" stroke="#6C63FF" stroke-width="2" opacity="0.9"/>
+    <circle cx="0" cy="-50" r="12" fill="none" stroke="#6C63FF" stroke-width="1.5" opacity="0.6"/>
+    <circle cx="0" cy="-50" r="20" fill="none" stroke="#6C63FF" stroke-width="1" opacity="0.3"/>
+  </g>
+
+  <!-- Step title -->
+  <text x="195" y="460" fill="#ffffff" font-size="22" font-weight="700" text-anchor="middle">Diaphragmatic Breathing</text>
+  <text x="195" y="488" fill="#9C95FF" font-size="13" text-anchor="middle">Inhale 4 counts · Exhale 6 counts</text>
+
+  <!-- Circular timer -->
+  <g transform="translate(195, 580)">
+    <circle cx="0" cy="0" r="58" fill="none" stroke="#1A1D40" stroke-width="8"/>
+    <circle cx="0" cy="0" r="58" fill="none" stroke="url(#timerGlow)" stroke-width="8"
+      stroke-dasharray="254" stroke-dashoffset="90" stroke-linecap="round"
+      transform="rotate(-90)"/>
+    <text x="0" y="8" fill="#ffffff" font-size="32" font-weight="700" text-anchor="middle">42</text>
+    <text x="0" y="26" fill="#9C95FF" font-size="11" text-anchor="middle">seconds</text>
+  </g>
+
+  <!-- Bottom pause button -->
+  <rect x="145" y="676" width="100" height="48" rx="24" fill="#6C63FF"/>
+  <rect x="186" y="693" width="5" height="14" rx="2" fill="#fff"/>
+  <rect x="199" y="693" width="5" height="14" rx="2" fill="#fff"/>
+
+  <!-- Home bar -->
+  <rect x="140" y="820" width="110" height="4" rx="2" fill="#fff" opacity="0.25"/>
+</svg>
