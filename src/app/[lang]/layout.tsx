@@ -58,20 +58,14 @@ export default async function LangLayout({
   };
 
   return (
-    <html lang={lang} dir={isRTL ? 'rtl' : 'ltr'}>
-      <head>
-        {hreflangLinks}
-        <link rel="alternate" hrefLang="x-default" href="https://bellyoff.app/en/" />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-        />
-      </head>
-      <body className="bg-white dark:bg-[#0D0F14] text-gray-900 dark:text-white min-h-screen flex flex-col">
-        <Header lang={lang} />
-        <main className="flex-1">{children}</main>
-        <Footer lang={lang} />
-      </body>
-    </html>
+    <div dir={isRTL ? 'rtl' : 'ltr'} lang={lang} className="bg-white dark:bg-[#0D0F14] text-gray-900 dark:text-white min-h-screen flex flex-col">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <Header lang={lang} />
+      <main className="flex-1">{children}</main>
+      <Footer lang={lang} />
+    </div>
   );
 }
