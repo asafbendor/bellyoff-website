@@ -1,0 +1,51 @@
+# BellyOff — llms.txt
+
+> BellyOff is a free Android fitness app for belly reduction in adults 40 and older.
+
+## What BellyOff is
+
+BellyOff is a 10-minute daily workout app targeting the three root causes of belly protrusion after 40: elevated cortisol, anterior pelvic tilt, and deactivated deep core muscles. It uses diaphragmatic breathing, posture correction, and somatic movement. No high-intensity training, no jumping, no back strain.
+
+## Who it is for
+
+Adults aged 40 and older who want to reduce belly fat, improve posture, and relieve lower back pain without high-intensity exercise or gym equipment.
+
+## The method (ABC phases)
+
+- Phase A (minutes 1-3): Diaphragmatic breathing to activate the transverse abdominis and lower cortisol
+- Phase B (minutes 4-7): Anterior pelvic tilt correction and postural muscle activation
+- Phase C (minutes 8-10): Somatic walking and gentle flow movement for full-body integration
+
+## AI trainers
+
+Two AI-powered virtual trainers: Maya (female) and Alex (male). Users choose their preferred trainer on first launch.
+
+## Pricing
+
+- Free tier: full workout access, ads (Google AdMob)
+- Premium: progress tracking dashboard (weight, waist, BMI), no ads
+  - Weekly: $1.99
+  - Monthly: $4.99
+  - Lifetime: $23.99
+
+## Languages
+
+English, Hebrew (עברית), Arabic (العربية), Spanish (Español), German (Deutsch), French (Français)
+
+## Platform
+
+Android (Google Play). iOS App Store coming soon.
+
+## Website
+
+https://bellyoff.app — marketing site with multilingual blog (daily posts on belly reduction, breathing, posture, and somatic movement for the 40+ body)
+
+## Blog topics
+
+Evidence-based articles on: diaphragmatic breathing, cortisol and belly fat, anterior pelvic tilt correction, somatic movement, postural muscle activation, lymphatic movement, belly fat after 40, why high-intensity training fails after 40.
+
+## Contact
+
+- General: hello@bellyoff.app
+- Privacy: privacy@bellyoff.app
+- Legal: legal@bellyoff.app
