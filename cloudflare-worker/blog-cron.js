@@ -95,6 +95,7 @@ Write a blog post following these rules:
 10. No keyword stuffing. Natural, helpful language for readers aged 40+.
 11. End with a brief CTA to try BellyOff (free download)
 12. NEVER use an em-dash or en-dash (— or –). Use a regular hyphen "-", a comma, or a colon instead.
+13. Write in gender-neutral language. Address the reader without assuming gender. In grammatically gendered languages (Hebrew, Arabic, Spanish, French), avoid masculine-only forms: prefer neutral phrasing, infinitives, plural address, or rephrasing. The text must read naturally for both women and men.
 
 Return your response using EXACTLY this delimiter format (no JSON, no code blocks):
 <<<TITLE>>>
@@ -192,6 +193,88 @@ async function commitToGitHub(content, lang, slug, date, env) {
   return path;
 }
 
+const LANG_FULL = { en: 'English', he: 'Hebrew', ar: 'Arabic', es: 'Spanish', de: 'German', fr: 'French' };
+const noDashFix = (s) => s.replace(/\s*[—–]\s*/g, ' - ').replace(/[—–]/g, '-');
+
+async function ghHeaders(env) {
+  return { Authorization: `token ${env.GITHUB_TOKEN}`, 'User-Agent': 'BellyOff-Blog-Cron/1.0' };
+}
+
+async function ghListMd(dirPath, env) {
+  const r = await fetch(`https://api.github.com/repos/${env.GITHUB_OWNER}/${env.GITHUB_REPO}/contents/${dirPath}`, { headers: await ghHeaders(env) });
+  if (!r.ok) throw new Error(`list ${dirPath}: ${r.status}`);
+  const arr = await r.json();
+  return arr.filter((f) => f.type === 'file' && f.name.endsWith('.md')).map((f) => f.path);
+}
+
+async function ghGetFile(path, env) {
+  const r = await fetch(`https://api.github.com/repos/${env.GITHUB_OWNER}/${env.GITHUB_REPO}/contents/${path}`, { headers: await ghHeaders(env) });
+  if (!r.ok) throw new Error(`get ${path}: ${r.status}`);
+  const j = await r.json();
+  const content = decodeURIComponent(escape(atob(j.content.replace(/\n/g, ''))));
+  return { content, sha: j.sha };
+}
+
+async function ghPutFile(path, content, sha, message, env) {
+  const encoded = btoa(unescape(encodeURIComponent(content)));
+  const r = await fetch(`https://api.github.com/repos/${env.GITHUB_OWNER}/${env.GITHUB_REPO}/contents/${path}`, {
+    method: 'PUT',
+    headers: { ...(await ghHeaders(env)), 'Content-Type': 'application/json' },
+    body: JSON.stringify({ message, content: encoded, sha }),
+  });
+  if (!r.ok) throw new Error(`put ${path}: ${r.status} ${await r.text()}`);
+}
+
+// Rewrite one post to gender-neutral language, preserving frontmatter slug/date/lang/category.
+async function buildNeutralFile(lang, path, env) {
+  const { content, sha } = await ghGetFile(path, env);
+  const m = content.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+  if (!m) throw new Error(`bad frontmatter ${path}`);
+  const fm = m[1];
+  const body = m[2].replace(/^\s+/, '');
+  const field = (k) => { const mm = fm.match(new RegExp(`^${k}:\\s*"?(.*?)"?\\s*$`, 'm')); return mm ? mm[1] : ''; };
+  const title = field('title'), excerpt = field('excerpt'), date = field('date'), category = field('category'), slug = field('slug');
+
+  const prompt = `Rewrite this ${LANG_FULL[lang]} blog content to use gender-neutral address, so it reads naturally for both women and men. Keep the meaning, structure, markdown headings (## and ###), lists, and length the same. Only change gendered wording (verbs, pronouns, adjectives that address the reader). Never use an em-dash or en-dash; use a regular hyphen "-" instead.
+
+Return EXACTLY this format, nothing else:
+<<<TITLE>>>
+(neutral title)
+<<<EXCERPT>>>
+(neutral excerpt)
+<<<CONTENT>>>
+(full neutral markdown body, NO frontmatter)
+<<<END>>>
+
+TITLE: ${title}
+EXCERPT: ${excerpt}
+CONTENT:
+${body}`;
+
+  const resp = await fetch('https://api.anthropic.com/v1/messages', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json', 'x-api-key': env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01' },
+    body: JSON.stringify({ model: 'claude-haiku-4-5-20251001', max_tokens: 5000, messages: [{ role: 'user', content: prompt }] }),
+  });
+  const data = await resp.json();
+  const text = data.content[0].text;
+  const ex = (tag) => { const mm = text.match(new RegExp(`<<<${tag}>>>\\s*([\\s\\S]*?)(?=<<<|$)`)); if (!mm) throw new Error(`missing ${tag} in ${path}`); return mm[1].trim(); };
+  const nTitle = noDashFix(ex('TITLE')), nExcerpt = noDashFix(ex('EXCERPT')), nContent = noDashFix(ex('CONTENT'));
+
+  const newFile = `---
+title: "${nTitle.replace(/"/g, '\\"')}"
+date: "${date}"
+lang: "${lang}"
+category: "${category}"
+excerpt: "${nExcerpt.replace(/"/g, '\\"')}"
+slug: "${slug}"
+---
+
+${nContent}`;
+
+  return { path, sha, newFile };
+}
+
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
@@ -202,6 +285,31 @@ export default {
         status: 200,
         headers: { 'Content-Type': 'application/json' },
       });
+    }
+
+    // One-time maintenance: rewrite existing posts in a language to gender-neutral.
+    // Call once per language: /neutralize?lang=he
+    if (url.pathname === '/neutralize') {
+      const lang = url.searchParams.get('lang');
+      if (!lang || !LANG_FULL[lang]) {
+        return new Response('pass ?lang=he|ar|es|fr|de|en', { status: 400 });
+      }
+      let files = [];
+      try { files = await ghListMd(`content/blog/${lang}`, env); }
+      catch (e) { return new Response(JSON.stringify({ lang, error: e.message }), { status: 500 }); }
+
+      const built = await Promise.all(files.map(async (p) => {
+        try { return await buildNeutralFile(lang, p, env); }
+        catch (e) { return { path: p, error: e.message }; }
+      }));
+
+      const results = [];
+      for (const b of built) {
+        if (b.error) { results.push({ path: b.path, status: 'error', error: b.error }); continue; }
+        try { await ghPutFile(b.path, b.newFile, b.sha, `blog: gender-neutral rewrite ${lang}`, env); results.push({ path: b.path, status: 'ok' }); }
+        catch (e) { results.push({ path: b.path, status: 'error', error: e.message }); }
+      }
+      return new Response(JSON.stringify(results, null, 2), { status: 200, headers: { 'Content-Type': 'application/json' } });
     }
 
     return new Response('Not found', { status: 404 });
