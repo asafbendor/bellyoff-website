@@ -5,7 +5,7 @@ export default function Hero({ lang }: { lang: Lang }) {
   const tr = t(lang);
 
   return (
-    <section className="bg-[#0D0F14] relative overflow-hidden">
+    <section className="bg-[#0D0F14] relative overflow-x-hidden">
       {/* Background glows */}
       <div className="absolute top-[-100px] left-[-150px] w-[600px] h-[600px] bg-[#6C63FF] rounded-full opacity-[0.06] blur-[100px] pointer-events-none" />
       <div className="absolute bottom-[-50px] right-[-80px] w-[450px] h-[450px] bg-[#00D4AA] rounded-full opacity-[0.04] blur-[90px] pointer-events-none" />
@@ -51,24 +51,23 @@ export default function Hero({ lang }: { lang: Lang }) {
             </div>
 
             {/* CTA */}
-            <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
+            <div className="flex items-center">
               <a
                 href="https://play.google.com/store"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-3 bg-[#6C63FF] hover:bg-[#5A52E0] active:bg-[#4A43C0] text-white px-8 py-4 rounded-full font-bold text-base transition-all duration-200 shadow-lg shadow-[#6C63FF]/20 hover:-translate-y-0.5"
+                className="inline-flex items-center gap-3 bg-[#6C63FF] hover:bg-[#5A52E0] active:bg-[#4A43C0] text-white px-10 py-5 rounded-full font-bold text-lg transition-all duration-200 shadow-xl shadow-[#6C63FF]/40 hover:-translate-y-1 hover:shadow-2xl hover:shadow-[#6C63FF]/50"
               >
-                <svg viewBox="0 0 24 24" className="w-5 h-5 fill-white shrink-0" aria-hidden="true">
+                <svg viewBox="0 0 24 24" className="w-6 h-6 fill-white shrink-0" aria-hidden="true">
                   <path d="M3 20.5v-17c0-.83 1-1.28 1.6-.75l14 8.5c.53.32.53 1.18 0 1.5l-14 8.5c-.6.53-1.6.08-1.6-.75z" />
                 </svg>
                 {tr.hero_cta}
               </a>
-              <p className="text-sm text-[#444]">{tr.hero_sub}</p>
             </div>
           </div>
 
-          {/* Phones column */}
-          <div className="relative flex items-end justify-center pb-0 pt-4 lg:pt-0">
+          {/* Phones column - dir="ltr" keeps physical transforms correct in RTL page layout */}
+          <div className="relative flex items-end justify-center pb-0 pt-4 lg:pt-0" dir="ltr">
             {/* Glow */}
             <div className="absolute inset-0 flex items-center justify-center pointer-events-none">
               <div className="w-[380px] h-[380px] bg-[#6C63FF] rounded-full opacity-[0.07] blur-[70px]" />
