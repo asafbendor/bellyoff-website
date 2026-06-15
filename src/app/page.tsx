@@ -1,12 +1,28 @@
 'use client';
 import { useEffect } from 'react';
 
-// Static-export safe redirect to the default locale.
-// Cloudflare Pages serves a server-side 302 via public/_redirects;
-// this client redirect is the fallback for direct static hosting.
+const SUPPORTED = ['en', 'he', 'ar', 'es', 'de', 'fr'];
+
+// Static-export safe root redirect with browser-language detection.
+// Order of preference: previously chosen language -> browser language -> English.
 export default function RootPage() {
   useEffect(() => {
-    window.location.replace('/en/');
+    let pick = 'en';
+    try {
+      const stored = localStorage.getItem('bellyoff_lang');
+      if (stored && SUPPORTED.includes(stored)) {
+        pick = stored;
+      } else {
+        const prefs = (navigator.languages && navigator.languages.length
+          ? navigator.languages
+          : [navigator.language || 'en']
+        ).map((l) => l.toLowerCase().split('-')[0]);
+        pick = prefs.find((l) => SUPPORTED.includes(l)) || 'en';
+      }
+    } catch {
+      pick = 'en';
+    }
+    window.location.replace(`/${pick}/`);
   }, []);
 
   return (

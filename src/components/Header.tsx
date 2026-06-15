@@ -18,6 +18,14 @@ export default function Header({ lang }: { lang: Lang }) {
     return segments.join('/');
   }
 
+  function rememberLang(newLang: Lang) {
+    try {
+      localStorage.setItem('bellyoff_lang', newLang);
+    } catch {
+      /* ignore */
+    }
+  }
+
   const navLinks = (
     <>
       <Link href={`/${lang}/`} className="hover:text-white transition-colors">{tr.nav_home}</Link>
@@ -45,6 +53,7 @@ export default function Header({ lang }: { lang: Lang }) {
               <Link
                 key={l}
                 href={switchLang(l)}
+                onClick={() => rememberLang(l)}
                 className={`px-2 py-1 rounded text-xs font-medium transition-colors ${
                   l === lang
                     ? 'bg-[#6C63FF] text-white'
@@ -60,7 +69,7 @@ export default function Header({ lang }: { lang: Lang }) {
           <select
             className="block sm:hidden bg-[#1A1D26] border border-white/10 text-[#8A8A9A] text-xs rounded px-2 py-1.5 focus:outline-none focus:border-[#6C63FF]"
             value={lang}
-            onChange={(e) => { window.location.href = switchLang(e.target.value as Lang); }}
+            onChange={(e) => { rememberLang(e.target.value as Lang); window.location.href = switchLang(e.target.value as Lang); }}
           >
             {LANGS.map((l) => (
               <option key={l} value={l}>{LANG_LABELS[l]}</option>
