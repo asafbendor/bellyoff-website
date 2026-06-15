@@ -41,7 +41,7 @@ Consacrez au minimum 1-2 minutes par jour à des exercices de posture. Cela peut
 
 ### Phase C : le mouvement régulier
 
-La Phase C (movement) est ce qui crée et maintient la transformation visible. À titre de maintenance, vous pouvez réduire vos séances de mouvement dynamique, mais ne les abandonner pas complètement. Trois séances hebdomadaires de 10 minutes suffisent pour préserver vos résultats musculaires et continuer à brûler des calories de manière efficace.
+La Phase C (movement) est ce qui crée et maintient la transformation visible. À titre de maintenance, vous pouvez réduire vos séances de mouvement dynamique, mais ne les abandonnez pas complètement. Trois séances hebdomadaires de 10 minutes suffisent pour préserver vos résultats musculaires et continuer à brûler des calories de manière efficace.
 
 ## Les habitudes alimentaires parallèles
 
