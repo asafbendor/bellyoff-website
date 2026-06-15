@@ -2,8 +2,9 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import DownloadCTA from '@/components/DownloadCTA';
-import { Lang, t } from '@/i18n/translations';
+import { Lang, RTL_LANGS, t } from '@/i18n/translations';
 import { getBlogPost, getAllStaticParams } from '@/lib/blog';
+import { categoryImage } from '@/lib/blogImages';
 
 export async function generateStaticParams() {
   return getAllStaticParams();
@@ -36,6 +37,8 @@ export default async function BlogPostPage({
   if (!post) notFound();
 
   const tr = t(lang);
+  const isRTL = RTL_LANGS.includes(lang);
+  const heroImage = categoryImage(post.category);
 
   const articleSchema = {
     '@context': 'https://schema.org',
@@ -44,6 +47,7 @@ export default async function BlogPostPage({
     description: post.excerpt,
     datePublished: post.date,
     inLanguage: lang,
+    image: `https://bellyoff.app${heroImage}`,
     publisher: {
       '@type': 'Organization',
       name: 'BellyOff',
@@ -70,10 +74,20 @@ export default async function BlogPostPage({
         </div>
       </section>
 
+      <section className="bg-[#0D0F14] pb-2">
+        <div className="max-w-3xl mx-auto px-4">
+          <div className="aspect-[1200/630] rounded-2xl overflow-hidden border border-white/5">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src={heroImage} alt={post.title} className="w-full h-full object-cover" />
+          </div>
+        </div>
+      </section>
+
       <section className="py-10 bg-white dark:bg-[#111216]">
         <div className="max-w-3xl mx-auto px-4">
           <div
-            className="prose prose-lg dark:prose-invert prose-headings:font-bold prose-p:text-gray-600 dark:prose-p:text-[#8A8A9A] prose-a:text-[#6C63FF] max-w-none"
+            className="article-content"
+            dir={isRTL ? 'rtl' : 'ltr'}
             dangerouslySetInnerHTML={{ __html: post.contentHtml }}
           />
         </div>

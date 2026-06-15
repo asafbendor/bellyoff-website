@@ -7,15 +7,15 @@ excerpt: "Después de los 40, la grasa abdominal no es principalmente un problem
 slug: "por-que-la-grasa-abdominal-es-diferente-despues-de-40"
 ---
 
-Después de los 40, la grasa abdominal no es principalmente un problema de calorías — es un problema de cortisol, postura y hormonas. Por eso el consejo estándar (come menos, muévete más, haz abdominales) falla tan consistentemente para las personas en sus 40s y 50s.
+Después de los 40, la grasa abdominal no es principalmente un problema de calorías - es un problema de cortisol, postura y hormonas. Por eso el consejo estándar (come menos, muévete más, haz abdominales) falla tan consistentemente para las personas en sus 40s y 50s.
 
 ## Las tres causas raíz de la prominencia abdominal después de los 40
 
 ### 1. Almacenamiento de grasa visceral impulsado por el cortisol
 
-A medida que el estrógeno y la testosterona disminuyen con la edad, el cortisol — la hormona del estrés — se vuelve cada vez más dominante. Los niveles crónicamente elevados de cortisol indican a tu cuerpo que almacene grasa específicamente alrededor de los órganos: grasa visceral. Esta es la grasa abdominal que se asienta profundamente dentro del abdomen.
+A medida que el estrógeno y la testosterona disminuyen con la edad, el cortisol - la hormona del estrés - se vuelve cada vez más dominante. Los niveles crónicamente elevados de cortisol indican a tu cuerpo que almacene grasa específicamente alrededor de los órganos: grasa visceral. Esta es la grasa abdominal que se asienta profundamente dentro del abdomen.
 
-El ejercicio de alta intensidad — paradójicamente — empeora esto. El entrenamiento intenso eleva el cortisol. Si tu sistema nervioso ya está en modo de estrés, una sesión de cardio de 45 minutos puede desencadenar más almacenamiento de grasa.
+El ejercicio de alta intensidad - paradójicamente - empeora esto. El entrenamiento intenso eleva el cortisol. Si tu sistema nervioso ya está en modo de estrés, una sesión de cardio de 45 minutos puede desencadenar más almacenamiento de grasa.
 
 ### 2. Inclinación pélvica anterior
 
@@ -27,13 +27,13 @@ Los estudios sugieren que corregir la inclinación pélvica por sí solo puede r
 
 El transverso abdominal (TVA) es el músculo abdominal más profundo. Actúa como un corsé natural, manteniendo tus órganos en su lugar y tu vientre plano. Después de los 40, el estilo de vida sedentario hace que el TVA se vuelva crónicamente inactivo.
 
-Los abdominales y crunches no activan el TVA — trabajan el recto abdominal, a menudo mientras comprimen la columna vertebral.
+Los abdominales y crunches no activan el TVA - trabajan el recto abdominal, a menudo mientras comprimen la columna vertebral.
 
 ## Lo que realmente funciona
 
-1. **Respiración diafragmática** — activa el TVA directamente y reduce el cortisol
-2. **Corrección postural** — libera los flexores de cadera y restablece la inclinación pélvica
-3. **Movimiento somático** — movimiento de baja intensidad que construye hábitos posturales sin elevar el cortisol
+1. **Respiración diafragmática** - activa el TVA directamente y reduce el cortisol
+2. **Corrección postural** - libera los flexores de cadera y restablece la inclinación pélvica
+3. **Movimiento somático** - movimiento de baja intensidad que construye hábitos posturales sin elevar el cortisol
 
 Diez minutos de esto, diariamente, produce cambios visibles y medibles en 4-6 semanas.
 

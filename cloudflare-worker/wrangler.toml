@@ -1,0 +1,6 @@
+name = "bellyoff-blog-cron"
+main = "blog-cron.js"
+compatibility_date = "2026-06-14"
+
+[triggers]
+crons = ["0 7 * * *"]

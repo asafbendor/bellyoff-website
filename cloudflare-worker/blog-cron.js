@@ -85,14 +85,16 @@ ${langInstruction}
 Write a blog post following these rules:
 1. Title: question-form or "How to..." for featured snippet eligibility
 2. First 100 words: direct answer to the title question (for AI engine extraction)
-3. H2 sections for major topics, H3 for subsections
-4. Include a FAQ section at the end with 3-4 Q&A pairs
-5. Word count: 900-1200 words
-6. Category: ${topic.category}
-7. Mention BellyOff naturally 2-3 times (not spammy)
-8. Internal references: mention the 3-phase method (Phase A breathing, Phase B posture, Phase C movement)
-9. No keyword stuffing. Natural, helpful language.
-10. End with a brief CTA to try BellyOff (free download)
+3. Structure with markdown headings: use ## for major sections (H2) and ### for subsections (H3). Put a blank line before and after every heading.
+4. Write in short, readable paragraphs (2-4 sentences each), separated by blank lines. Use bullet lists (- item) where it helps scanning.
+5. Include a FAQ section at the end (## FAQ) with 3-4 Q&A pairs, each question as ### .
+6. Word count: 900-1200 words
+7. Category: ${topic.category}
+8. Mention BellyOff naturally 2-3 times (not spammy)
+9. Internal references: mention the 3-phase method (Phase A breathing, Phase B posture, Phase C movement)
+10. No keyword stuffing. Natural, helpful language for readers aged 40+.
+11. End with a brief CTA to try BellyOff (free download)
+12. NEVER use an em-dash or en-dash (— or –). Use a regular hyphen "-", a comma, or a colon instead.
 
 Return your response using EXACTLY this delimiter format (no JSON, no code blocks):
 <<<TITLE>>>
@@ -128,11 +130,14 @@ Return your response using EXACTLY this delimiter format (no JSON, no code block
     return m[1].trim();
   };
 
+  // Never allow em-dash / en-dash in any output. Replace with a regular hyphen.
+  const noDash = (s) => s.replace(/\s*[—–]\s*/g, ' - ').replace(/[—–]/g, '-');
+
   const post = {
-    title: extract('TITLE'),
-    excerpt: extract('EXCERPT'),
+    title: noDash(extract('TITLE')),
+    excerpt: noDash(extract('EXCERPT')),
     slug: extract('SLUG'),
-    content: extract('CONTENT'),
+    content: noDash(extract('CONTENT')),
   };
 
   const frontmatter = `---

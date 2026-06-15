@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Mindset and calm">
+  <defs>
+    <linearGradient id="bgD" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0e2340"/>
+      <stop offset="0.55" stop-color="#14315a"/>
+      <stop offset="1" stop-color="#0D0F14"/>
+    </linearGradient>
+    <radialGradient id="glowD" cx="0.5" cy="0.4" r="0.6">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgD)"/>
+  <rect width="1200" height="630" fill="url(#glowD)"/>
+  <g fill="none" stroke="#7FB2F7" stroke-linecap="round">
+    <g stroke-opacity="0.6" stroke-width="2.5">
+      <path d="M360 360 Q480 300 600 360 T840 360"/>
+      <path d="M360 410 Q480 350 600 410 T840 410" stroke-opacity="0.4"/>
+      <path d="M360 310 Q480 250 600 310 T840 310" stroke-opacity="0.4"/>
+    </g>
+    <path d="M600 165 C540 165 505 215 520 268 C470 285 470 350 525 362 L675 362 C730 350 730 285 680 268 C695 215 660 165 600 165 Z"
+          stroke="#A9CDFB" stroke-opacity="0.85" stroke-width="3.5"/>
+  </g>
+  <circle cx="600" cy="262" r="6" fill="#A9CDFB" fill-opacity="0.8"/>
+</svg>

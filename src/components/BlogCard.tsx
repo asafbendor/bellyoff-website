@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import type { BlogPostMeta } from '@/lib/blog';
 import { Lang, t } from '@/i18n/translations';
+import { categoryImage } from '@/lib/blogImages';
 
 const CATEGORY_COLORS: Record<string, string> = {
   breathing: 'bg-[#EEEDFE] text-[#534AB7]',
@@ -19,15 +20,14 @@ export default function BlogCard({ post, lang }: { post: BlogPostMeta; lang: Lan
       href={`/${lang}/blog/${post.slug}/`}
       className="group block bg-white dark:bg-[#1A1D26] border border-gray-100 dark:border-white/5 rounded-2xl overflow-hidden hover:border-[#6C63FF]/40 transition-colors"
     >
-      <div className={`h-28 flex items-center justify-center ${colorClass.split(' ')[0]}`}>
-        <span className={`text-4xl ${colorClass.split(' ')[1]} opacity-60`}>
-          {post.category === 'breathing' && '🫁'}
-          {post.category === 'posture' && '🦴'}
-          {post.category === 'metabolism' && '⚡'}
-          {post.category === 'movement' && '🚶'}
-          {post.category === 'mindset' && '🧠'}
-          {post.category === 'general' && '📖'}
-        </span>
+      <div className="aspect-[1200/630] overflow-hidden bg-[#0D0F14]">
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src={categoryImage(post.category)}
+          alt={post.title}
+          loading="lazy"
+          className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-300"
+        />
       </div>
       <div className="p-5">
         <div className="flex items-center gap-2 mb-2">

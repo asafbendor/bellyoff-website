@@ -23,7 +23,7 @@ BellyOff está diseñado específicamente para ayudarte a mantener esta consiste
 
 No cometas el error de quedarte estancado con los mismos ejercicios. Tu cuerpo se adapta rápidamente, lo que significa que necesitas variar tus entrenamientos para continuar viendo resultados. Introduce progresiones graduales: aumenta repeticiones, ajusta tu ritmo o prueba variaciones de movimientos que ya dominas.
 
-Las tres fases del método de BellyOff—**Phase A (respiración), Phase B (postura) y Phase C (movimiento)**—están diseñadas para proporcionar exactamente esta progresión natural. Puedes regresar a fases anteriores para reforzar fundamentos, o avanzar a desafíos más complejos.
+Las tres fases del método de BellyOff - **Phase A (respiración), Phase B (postura) y Phase C (movimiento)** - están diseñadas para proporcionar exactamente esta progresión natural. Puedes regresar a fases anteriores para reforzar fundamentos, o avanzar a desafíos más complejos.
 
 ## Optimiza tu nutrición para sostener cambios
 
@@ -89,7 +89,7 @@ Pésate o toma medidas cada 2-4 semanas, no diariamente. Esto te da una perspect
 
 ### Comunidad y accountability
 
-Compartir tus objetivos con otros—ya sea familia, amigos o una comunidad en línea—aumenta significativamente tu probabilidad de éxito. Considera encontrar un compañero de entrenamiento o unirte a un grupo con intereses similares.
+Compartir tus objetivos con otros - ya sea familia, amigos o una comunidad en línea - aumenta significativamente tu probabilidad de éxito. Considera encontrar un compañero de entrenamiento o unirte a un grupo con intereses similares.
 
 ### Celebra los hitos
 
@@ -113,6 +113,6 @@ No necesariamente. Variación y consistencia son más importantes que intensidad
 
 ---
 
-Mantener tus resultados de reducción abdominal es un viaje, no un destino. Con dedicación a estos principios—ejercicio consistente, nutrición inteligente, sueño de calidad y manejo del estrés—puedes disfrutar de los beneficios de tu trabajo duro durante años. 
+Mantener tus resultados de reducción abdominal es un viaje, no un destino. Con dedicación a estos principios - ejercicio consistente, nutrición inteligente, sueño de calidad y manejo del estrés - puedes disfrutar de los beneficios de tu trabajo duro durante años. 
 
 **¿Listo para empezar o continuar tu viaje?** Descarga BellyOff gratis hoy y accede a entrenamientos de 10 minutos diseñados específicamente para mantener y mejorar tus resultados a los 40 y más. Tu cuerpo te lo agradecerá.

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Somatic movement">
+  <defs>
+    <linearGradient id="bgV" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a1430"/>
+      <stop offset="0.55" stop-color="#3d1b45"/>
+      <stop offset="1" stop-color="#0D0F14"/>
+    </linearGradient>
+    <radialGradient id="glowV" cx="0.62" cy="0.45" r="0.6">
+      <stop offset="0" stop-color="#C054A0" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#C054A0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgV)"/>
+  <rect width="1200" height="630" fill="url(#glowV)"/>
+  <g fill="none" stroke-linecap="round">
+    <g stroke="#E08AC4" stroke-opacity="0.18" stroke-width="3">
+      <path d="M470 360 L520 250 M455 470 L470 360"/>
+    </g>
+    <g stroke="#E08AC4" stroke-opacity="0.4" stroke-width="3">
+      <circle cx="560" cy="150" r="30"/>
+      <path d="M560 180 L575 320 M575 320 L545 460 M575 320 L630 450"/>
+      <path d="M575 230 L500 300 M575 230 L660 270"/>
+    </g>
+    <g stroke="#F0A8D6" stroke-opacity="0.85" stroke-width="4">
+      <circle cx="690" cy="140" r="32"/>
+      <path d="M690 172 L705 330 M705 330 L670 480 M705 330 L770 460"/>
+      <path d="M705 235 L620 300 M705 235 L795 280"/>
+    </g>
+  </g>
+</svg>
