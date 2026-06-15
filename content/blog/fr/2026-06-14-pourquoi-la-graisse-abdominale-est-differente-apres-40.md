@@ -13,9 +13,9 @@ Après 40 ans, la graisse abdominale n'est pas principalement un problème de ca
 
 ### 1. Stockage de graisse viscérale induit par le cortisol
 
-À mesure que l'estrogène et la testostérone diminuent avec l'âge, le cortisol - l'hormone du stress - devient de plus en plus dominant. Des niveaux de cortisol chroniquement élevés indiquent à votre corps de stocker les graisses spécifiquement autour des organes : la graisse viscérale. C'est la graisse abdominale qui siège profondément dans l'abdomen.
+À mesure que l'estrogène et la testostérone diminuent avec l'âge, le cortisol - l'hormone du stress - devient de plus en plus dominant. Des niveaux de cortisol chroniquement élevés indiquent au corps de stocker les graisses spécifiquement autour des organes : la graisse viscérale. C'est la graisse abdominale qui siège profondément dans l'abdomen.
 
-L'exercice à haute intensité - paradoxalement - aggrave les choses. L'entraînement intensif élève le cortisol. Si votre système nerveux est déjà en mode stress, une séance de cardio de 45 minutes peut déclencher davantage de stockage de graisses.
+L'exercice à haute intensité - paradoxalement - aggrave les choses. L'entraînement intensif élève le cortisol. Si le système nerveux est déjà en mode stress, une séance de cardio de 45 minutes peut déclencher davantage de stockage de graisses.
 
 ### 2. Antéversion du bassin
 
