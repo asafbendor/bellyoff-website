@@ -113,6 +113,6 @@ No necesariamente. Variación y consistencia son más importantes que intensidad
 
 ---
 
-Mantener tus resultados de reducción abdominal es un viaje, no un destino. Con dedicación a estos principios - ejercicio consistente, nutrición inteligente, sueño de calidad y manejo del estrés - puedes disfrutar de los beneficios de tu trabajo duro durante años. 
+Mantener tus resultados de reducción abdominal es un viaje, no un destino. Con dedicación a estos principios - ejercicio consistente, nutrición inteligente, sueño de calidad y manejo del estrés - puedes disfrutar de los beneficios de tu trabajo duro durante años.
 
 **¿Listo para empezar o continuar tu viaje?** Descarga BellyOff gratis hoy y accede a entrenamientos de 10 minutos diseñados específicamente para mantener y mejorar tus resultados a los 40 y más. Tu cuerpo te lo agradecerá.
