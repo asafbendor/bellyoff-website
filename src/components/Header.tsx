@@ -30,6 +30,7 @@ export default function Header({ lang }: { lang: Lang }) {
         </nav>
 
         <div className={`flex items-center gap-3 ${isRTL ? 'flex-row-reverse' : ''}`}>
+          {/* Desktop lang pills */}
           <div className="hidden sm:flex items-center gap-1">
             {LANGS.map((l) => (
               <Link
@@ -45,6 +46,18 @@ export default function Header({ lang }: { lang: Lang }) {
               </Link>
             ))}
           </div>
+
+          {/* Mobile lang select */}
+          <select
+            className="block sm:hidden bg-[#1A1D26] border border-white/10 text-[#8A8A9A] text-xs rounded px-2 py-1.5 focus:outline-none focus:border-[#6C63FF]"
+            value={lang}
+            onChange={(e) => { window.location.href = switchLang(e.target.value as Lang); }}
+          >
+            {LANGS.map((l) => (
+              <option key={l} value={l}>{LANG_LABELS[l]}</option>
+            ))}
+          </select>
+
           <a
             href="https://play.google.com/store"
             target="_blank"
