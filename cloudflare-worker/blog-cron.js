@@ -94,13 +94,16 @@ Write a blog post following these rules:
 9. No keyword stuffing. Natural, helpful language.
 10. End with a brief CTA to try BellyOff (free download)
 
-Return ONLY a valid JSON object with these exact fields:
-{
-  "title": "...",
-  "excerpt": "...(1-2 sentences summarizing the post)",
-  "slug": "...(kebab-case, max 60 chars, in the target language romanized if needed)",
-  "content": "...(full markdown body, NO frontmatter)"
-}`;
+Return your response using EXACTLY this delimiter format (no JSON, no code blocks):
+<<<TITLE>>>
+(your title here)
+<<<EXCERPT>>>
+(1-2 sentence excerpt)
+<<<SLUG>>>
+(kebab-case slug, max 60 chars, romanized if needed)
+<<<CONTENT>>>
+(full markdown body, NO frontmatter)
+<<<END>>>`;
 
   const response = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
@@ -111,7 +114,7 @@ Return ONLY a valid JSON object with these exact fields:
     },
     body: JSON.stringify({
       model: 'claude-haiku-4-5-20251001',
-      max_tokens: 2000,
+      max_tokens: 4000,
       messages: [{ role: 'user', content: prompt }],
     }),
   });
@@ -119,10 +122,18 @@ Return ONLY a valid JSON object with these exact fields:
   const data = await response.json();
   const text = data.content[0].text;
 
-  const jsonMatch = text.match(/\{[\s\S]*\}/);
-  if (!jsonMatch) throw new Error(`No JSON in response for lang=${lang}`);
+  const extract = (tag) => {
+    const m = text.match(new RegExp(`<<<${tag}>>>\\s*([\\s\\S]*?)(?=<<<|$)`));
+    if (!m) throw new Error(`Missing <<<${tag}>>> in response for lang=${lang}`);
+    return m[1].trim();
+  };
 
-  const post = JSON.parse(jsonMatch[0]);
+  const post = {
+    title: extract('TITLE'),
+    excerpt: extract('EXCERPT'),
+    slug: extract('SLUG'),
+    content: extract('CONTENT'),
+  };
 
   const frontmatter = `---
 title: "${post.title.replace(/"/g, '\\"')}"
@@ -163,6 +174,11 @@ async function commitToGitHub(content, lang, slug, date, env) {
     }
   );
 
+  if (response.status === 422) {
+    // File already exists for today - skip silently
+    return path + ' (already exists, skipped)';
+  }
+
   if (!response.ok) {
     const err = await response.text();
     throw new Error(`GitHub commit failed for ${lang}: ${response.status} ${err}`);
@@ -172,25 +188,55 @@ async function commitToGitHub(content, lang, slug, date, env) {
 }
 
 export default {
+  async fetch(request, env, ctx) {
+    const url = new URL(request.url);
+
+    if (url.pathname === '/test-cron') {
+      const results = await this.scheduled({}, env, ctx);
+      return new Response(JSON.stringify(results, null, 2), {
+        status: 200,
+        headers: { 'Content-Type': 'application/json' },
+      });
+    }
+
+    return new Response('Not found', { status: 404 });
+  },
+
   async scheduled(event, env, ctx) {
     const date = new Date();
     const dayOfYear = getDayOfYear(date);
     const topic = TOPICS[dayOfYear % TOPICS.length];
 
-    const results = [];
+    // Generate all posts in parallel (fast), then commit sequentially (avoids GitHub 409 race)
+    const generated = await Promise.all(
+      LANGS.map(async (lang) => {
+        try {
+          const { frontmatter, slug } = await generatePost(topic, lang, date, env);
+          return { lang, status: 'generated', frontmatter, slug };
+        } catch (err) {
+          console.error(`[blog-cron] generate error for ${lang}:`, err.message);
+          return { lang, status: 'error', error: err.message };
+        }
+      })
+    );
 
-    for (const lang of LANGS) {
+    const results = [];
+    for (const item of generated) {
+      if (item.status === 'error') {
+        results.push({ lang: item.lang, status: 'error', error: item.error });
+        continue;
+      }
       try {
-        const { frontmatter, slug } = await generatePost(topic, lang, date, env);
-        const path = await commitToGitHub(frontmatter, lang, slug, date, env);
-        results.push({ lang, status: 'ok', path });
+        const path = await commitToGitHub(item.frontmatter, item.lang, item.slug, date, env);
         console.log(`[blog-cron] committed ${path}`);
+        results.push({ lang: item.lang, status: 'ok', path });
       } catch (err) {
-        results.push({ lang, status: 'error', error: err.message });
-        console.error(`[blog-cron] error for ${lang}:`, err.message);
+        console.error(`[blog-cron] commit error for ${item.lang}:`, err.message);
+        results.push({ lang: item.lang, status: 'error', error: err.message });
       }
     }
 
     console.log('[blog-cron] done:', JSON.stringify(results));
+    return results;
   },
 };
