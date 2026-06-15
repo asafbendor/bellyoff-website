@@ -5,7 +5,7 @@ export default function Hero({ lang }: { lang: Lang }) {
   const tr = t(lang);
 
   return (
-    <section className="bg-[#0D0F14] relative overflow-x-hidden">
+    <section className="bg-[#0D0F14] relative overflow-hidden">
       {/* Background glows */}
       <div className="absolute top-[-100px] left-[-150px] w-[600px] h-[600px] bg-[#6C63FF] rounded-full opacity-[0.06] blur-[100px] pointer-events-none" />
       <div className="absolute bottom-[-50px] right-[-80px] w-[450px] h-[450px] bg-[#00D4AA] rounded-full opacity-[0.04] blur-[90px] pointer-events-none" />
