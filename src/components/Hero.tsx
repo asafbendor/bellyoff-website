@@ -73,7 +73,7 @@ export default function Hero({ lang }: { lang: Lang }) {
               <div className="w-[380px] h-[380px] bg-[#6C63FF] rounded-full opacity-[0.07] blur-[70px]" />
             </div>
 
-            <div className="relative flex items-end justify-center">
+            <div className="relative flex items-end justify-center scale-[0.72] sm:scale-[0.8] lg:scale-[0.7] xl:scale-100 origin-bottom">
               {/* Left - Maya */}
               <div className="hidden sm:block relative z-0 -translate-x-3 translate-y-12 -rotate-[7deg] origin-bottom">
                 <PhoneMockup src="/screenshots/screen-maya.svg" width={180} alt="Maya workout screen" />
