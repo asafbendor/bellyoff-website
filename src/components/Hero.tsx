@@ -76,17 +76,17 @@ export default function Hero({ lang }: { lang: Lang }) {
             <div className="relative flex items-end justify-center scale-[0.72] sm:scale-[0.8] lg:scale-[0.7] xl:scale-100 origin-bottom">
               {/* Left - Maya */}
               <div className="hidden sm:block relative z-0 -translate-x-3 translate-y-12 -rotate-[7deg] origin-bottom">
-                <PhoneMockup src="/screenshots/screen-maya.svg" width={180} alt="Maya workout screen" />
+                <PhoneMockup src={`/screenshots/${lang}/screen-maya.png`} width={180} alt={tr.phone_label_maya} />
               </div>
 
               {/* Center - Premium */}
               <div className="relative z-10 -mx-4 sm:-mx-8">
-                <PhoneMockup src="/screenshots/screen-premium.svg" width={224} alt="BellyOff premium dashboard" />
+                <PhoneMockup src={`/screenshots/${lang}/screen-premium.png`} width={224} alt={tr.phone_label_summary} />
               </div>
 
               {/* Right - Alex */}
               <div className="hidden sm:block relative z-0 translate-x-3 translate-y-12 rotate-[7deg] origin-bottom">
-                <PhoneMockup src="/screenshots/screen-alex.svg" width={180} alt="Alex workout screen" />
+                <PhoneMockup src={`/screenshots/${lang}/screen-alex.png`} width={180} alt={tr.phone_label_alex} />
               </div>
             </div>
           </div>
