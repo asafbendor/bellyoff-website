@@ -216,7 +216,7 @@ export const translations = {
 
     phone_label_summary: 'לוח בקרה פרימיום',
     phone_label_maya: 'מאיה - נשימה עמוקה',
-    phone_label_alex: 'אלכס - איפוס יציבה',
+    phone_label_alex: 'אלכס - שחרור והתכנסות',
     phone_streak: 'רצף 21 יום',
     phone_weight: 'משקל: -2.1 ק"ג',
     phone_waist: 'מותניים: -3.4 ס"מ',
