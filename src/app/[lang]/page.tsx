@@ -9,6 +9,8 @@ import Link from 'next/link';
 import { Lang, t } from '@/i18n/translations';
 import { getAllBlogMeta } from '@/lib/blog';
 
+const LANGS = ['en', 'he', 'ar', 'es', 'de', 'fr'] as const;
+
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
   const { lang: rawLang } = await params;
   const lang = rawLang as Lang;
@@ -16,6 +18,13 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   return {
     title: tr.hero_title,
     description: tr.hero_subtitle,
+    alternates: {
+      canonical: `https://bellyoff.app/${lang}/`,
+      languages: {
+        ...Object.fromEntries(LANGS.map((l) => [l, `https://bellyoff.app/${l}/`])),
+        'x-default': 'https://bellyoff.app/en/',
+      },
+    },
   };
 }
 

@@ -1,10 +1,21 @@
 import type { Metadata } from 'next';
 import { Lang, t } from '@/i18n/translations';
 
+const LANGS = ['en', 'he', 'ar', 'es', 'de', 'fr'] as const;
+
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
   const { lang: rawLang } = await params;
   const lang = rawLang as Lang;
-  return { title: t(lang).privacy_title };
+  return {
+    title: t(lang).privacy_title,
+    alternates: {
+      canonical: `https://bellyoff.app/${lang}/privacy/`,
+      languages: {
+        ...Object.fromEntries(LANGS.map((l) => [l, `https://bellyoff.app/${l}/privacy/`])),
+        'x-default': 'https://bellyoff.app/en/privacy/',
+      },
+    },
+  };
 }
 
 export default async function PrivacyPage({ params }: { params: Promise<{ lang: string }> }) {

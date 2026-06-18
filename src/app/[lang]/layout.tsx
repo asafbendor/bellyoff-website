@@ -10,21 +10,34 @@ export async function generateStaticParams() {
   return LANGS.map((lang) => ({ lang }));
 }
 
+const OG_IMAGE = {
+  url: 'https://bellyoff.app/images/og-image.png',
+  width: 1200,
+  height: 630,
+  alt: 'BellyOff - 10 minutes a day for a flatter belly after 40',
+};
+
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
   const { lang: rawLang } = await params;
   const lang = rawLang as Lang;
   const tr = t(lang);
   return {
-    title: { default: `${tr.app_name} — ${tr.hero_title}`, template: `%s | ${tr.app_name}` },
+    title: { default: `${tr.app_name} - ${tr.hero_title}`, template: `%s | ${tr.app_name}` },
     description: tr.hero_subtitle,
     alternates: {
-      languages: Object.fromEntries(
-        LANGS.map((l) => [l, `https://bellyoff.app/${l}/`])
-      ),
+      languages: {
+        ...Object.fromEntries(LANGS.map((l) => [l, `https://bellyoff.app/${l}/`])),
+        'x-default': 'https://bellyoff.app/en/',
+      },
     },
     openGraph: {
       siteName: 'BellyOff',
       type: 'website',
+      images: [OG_IMAGE],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      images: [OG_IMAGE.url],
     },
   };
 }
@@ -47,14 +60,16 @@ export default async function LangLayout({
 
   const jsonLd = {
     '@context': 'https://schema.org',
-    '@type': 'WebApplication',
+    '@type': 'MobileApplication',
     name: 'BellyOff',
     url: 'https://bellyoff.app',
+    downloadUrl: 'https://play.google.com/store',
     applicationCategory: 'HealthApplication',
     operatingSystem: 'Android',
     description: t(lang).hero_subtitle,
     offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
     inLanguage: lang,
+    publisher: { '@type': 'Organization', name: 'BellyOff', url: 'https://bellyoff.app' },
   };
 
   return (

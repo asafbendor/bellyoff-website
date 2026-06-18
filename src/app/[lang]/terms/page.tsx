@@ -1,10 +1,21 @@
 import type { Metadata } from 'next';
 import { Lang, t } from '@/i18n/translations';
 
+const LANGS = ['en', 'he', 'ar', 'es', 'de', 'fr'] as const;
+
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
   const { lang: rawLang } = await params;
   const lang = rawLang as Lang;
-  return { title: t(lang).terms_title };
+  return {
+    title: t(lang).terms_title,
+    alternates: {
+      canonical: `https://bellyoff.app/${lang}/terms/`,
+      languages: {
+        ...Object.fromEntries(LANGS.map((l) => [l, `https://bellyoff.app/${l}/terms/`])),
+        'x-default': 'https://bellyoff.app/en/terms/',
+      },
+    },
+  };
 }
 
 export default async function TermsPage({ params }: { params: Promise<{ lang: string }> }) {

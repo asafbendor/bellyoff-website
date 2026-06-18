@@ -2,11 +2,23 @@ import type { Metadata } from 'next';
 import DownloadCTA from '@/components/DownloadCTA';
 import { Lang, t } from '@/i18n/translations';
 
+const LANGS = ['en', 'he', 'ar', 'es', 'de', 'fr'] as const;
+
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
   const { lang: rawLang } = await params;
   const lang = rawLang as Lang;
   const tr = t(lang);
-  return { title: tr.how_page_title, description: tr.how_page_sub };
+  return {
+    title: tr.how_page_title,
+    description: tr.how_page_sub,
+    alternates: {
+      canonical: `https://bellyoff.app/${lang}/how-it-works/`,
+      languages: {
+        ...Object.fromEntries(LANGS.map((l) => [l, `https://bellyoff.app/${l}/how-it-works/`])),
+        'x-default': 'https://bellyoff.app/en/how-it-works/',
+      },
+    },
+  };
 }
 
 export default async function HowItWorksPage({ params }: { params: Promise<{ lang: string }> }) {

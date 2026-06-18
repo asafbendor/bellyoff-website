@@ -3,11 +3,23 @@ import BlogCard from '@/components/BlogCard';
 import { Lang, t } from '@/i18n/translations';
 import { getAllBlogMeta } from '@/lib/blog';
 
+const LANGS = ['en', 'he', 'ar', 'es', 'de', 'fr'] as const;
+
 export async function generateMetadata({ params }: { params: Promise<{ lang: string }> }): Promise<Metadata> {
   const { lang: rawLang } = await params;
   const lang = rawLang as Lang;
   const tr = t(lang);
-  return { title: tr.blog_title, description: tr.blog_sub };
+  return {
+    title: tr.blog_title,
+    description: tr.blog_sub,
+    alternates: {
+      canonical: `https://bellyoff.app/${lang}/blog/`,
+      languages: {
+        ...Object.fromEntries(LANGS.map((l) => [l, `https://bellyoff.app/${l}/blog/`])),
+        'x-default': 'https://bellyoff.app/en/blog/',
+      },
+    },
+  };
 }
 
 export default async function BlogPage({ params }: { params: Promise<{ lang: string }> }) {

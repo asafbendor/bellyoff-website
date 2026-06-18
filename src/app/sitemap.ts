@@ -1,4 +1,5 @@
 import { MetadataRoute } from 'next';
+import { getBlogSlugs, getBlogMeta } from '@/lib/blog';
 
 export const dynamic = 'force-static';
 
@@ -21,6 +22,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
             LANGS.map((l) => [l, `${BASE_URL}/${l}${route}/`])
           ),
         },
+      });
+    }
+  }
+
+  for (const lang of LANGS) {
+    const slugs = getBlogSlugs(lang);
+    for (const slug of slugs) {
+      const meta = getBlogMeta(lang, slug);
+      entries.push({
+        url: `${BASE_URL}/${lang}/blog/${slug}/`,
+        lastModified: meta?.date ? new Date(meta.date) : new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.6,
       });
     }
   }

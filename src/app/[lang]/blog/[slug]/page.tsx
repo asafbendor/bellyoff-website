@@ -22,7 +22,15 @@ export async function generateMetadata({
   return {
     title: post.title,
     description: post.excerpt,
-    openGraph: { title: post.title, description: post.excerpt, type: 'article' },
+    alternates: {
+      canonical: `https://bellyoff.app/${lang}/blog/${slug}/`,
+    },
+    openGraph: {
+      title: post.title,
+      description: post.excerpt,
+      type: 'article',
+      images: [{ url: 'https://bellyoff.app/images/og-image.png', width: 1200, height: 630 }],
+    },
   };
 }
 
