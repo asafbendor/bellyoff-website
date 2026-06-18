@@ -63,19 +63,6 @@ export default function PhoneMockup({ src, width = 200, className = '', alt = 'B
         className="absolute overflow-hidden bg-[#0D0F14]"
         style={{ inset: '4px', borderRadius: `${ri}px` }}
       >
-        {/* Camera pill cutout */}
-        <div
-          className="absolute bg-[#111111] z-10"
-          style={{
-            top: `${Math.round(h * 0.012)}px`,
-            left: '50%',
-            transform: 'translateX(-50%)',
-            width: `${Math.round(width * 0.3)}px`,
-            height: `${Math.round(width * 0.065)}px`,
-            borderRadius: `${Math.round(width * 0.033)}px`,
-          }}
-        />
-
         {/* Screenshot */}
         {/* eslint-disable-next-line @next/next/no-img-element */}
         <img
