@@ -1,5 +1,5 @@
 import PhoneMockup from './PhoneMockup';
-import { Lang, t } from '@/i18n/translations';
+import { Lang, t, PLAY_STORE_URL } from '@/i18n/translations';
 
 export default function Hero({ lang }: { lang: Lang }) {
   const tr = t(lang);
@@ -53,7 +53,7 @@ export default function Hero({ lang }: { lang: Lang }) {
             {/* CTA */}
             <div className="flex items-center">
               <a
-                href="https://play.google.com/store"
+                href={PLAY_STORE_URL}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-3 bg-[#6C63FF] hover:bg-[#5A52E0] active:bg-[#4A43C0] text-white px-10 py-5 rounded-full font-bold text-lg transition-all duration-200 shadow-xl shadow-[#6C63FF]/40 hover:-translate-y-1 hover:shadow-2xl hover:shadow-[#6C63FF]/50"

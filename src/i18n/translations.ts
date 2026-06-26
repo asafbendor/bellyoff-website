@@ -2,6 +2,8 @@ export type Lang = 'en' | 'he' | 'ar' | 'es' | 'de' | 'fr';
 
 export const RTL_LANGS: Lang[] = ['he', 'ar'];
 
+export const PLAY_STORE_URL = 'https://play.google.com/store/apps/details?id=com.bellyoff.bellyoff';
+
 export const LANG_LABELS: Record<Lang, string> = {
   en: 'EN', he: 'HE', ar: 'AR', es: 'ES', de: 'DE', fr: 'FR',
 };

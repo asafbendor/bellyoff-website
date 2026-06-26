@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import { Lang, RTL_LANGS, t, LANG_NAMES } from '@/i18n/translations';
+import { Lang, RTL_LANGS, t, LANG_NAMES, PLAY_STORE_URL } from '@/i18n/translations';
 
 const LANGS: Lang[] = ['en', 'he', 'ar', 'es', 'de', 'fr'];
 
@@ -63,7 +63,7 @@ export default async function LangLayout({
     '@type': 'MobileApplication',
     name: 'BellyOff',
     url: 'https://bellyoff.app',
-    downloadUrl: 'https://play.google.com/store',
+    downloadUrl: PLAY_STORE_URL,
     applicationCategory: 'HealthApplication',
     operatingSystem: 'Android',
     description: t(lang).hero_subtitle,

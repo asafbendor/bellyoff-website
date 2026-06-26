@@ -1,4 +1,4 @@
-import { Lang, t } from '@/i18n/translations';
+import { Lang, t, PLAY_STORE_URL } from '@/i18n/translations';
 
 export default function DownloadCTA({ lang }: { lang: Lang }) {
   const tr = t(lang);
@@ -10,7 +10,7 @@ export default function DownloadCTA({ lang }: { lang: Lang }) {
         <p className="text-[#8A8A9A] mb-8">{tr.cta_sub}</p>
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
           <a
-            href="https://play.google.com/store"
+            href={PLAY_STORE_URL}
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-[#6C63FF] hover:bg-[#5A52E0] text-white px-8 py-3.5 rounded-full font-semibold transition-colors"

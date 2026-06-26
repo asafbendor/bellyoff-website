@@ -2,7 +2,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Lang, LANG_LABELS, RTL_LANGS, t } from '@/i18n/translations';
+import { Lang, LANG_LABELS, RTL_LANGS, t, PLAY_STORE_URL } from '@/i18n/translations';
 
 const LANGS: Lang[] = ['en', 'he', 'ar', 'es', 'de', 'fr'];
 
@@ -77,7 +77,7 @@ export default function Header({ lang }: { lang: Lang }) {
           </select>
 
           <a
-            href="https://play.google.com/store"
+            href={PLAY_STORE_URL}
             target="_blank"
             rel="noopener noreferrer"
             className="hidden sm:inline-flex bg-[#6C63FF] hover:bg-[#5A52E0] text-white text-sm px-4 py-2 rounded-full font-medium transition-colors shrink-0"
@@ -112,7 +112,7 @@ export default function Header({ lang }: { lang: Lang }) {
         >
           {navLinks}
           <a
-            href="https://play.google.com/store"
+            href={PLAY_STORE_URL}
             target="_blank"
             rel="noopener noreferrer"
             className="bg-[#6C63FF] hover:bg-[#5A52E0] text-white text-sm px-4 py-2.5 rounded-full font-medium transition-colors text-center mt-1"

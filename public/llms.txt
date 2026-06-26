@@ -36,6 +36,8 @@ English, Hebrew (עברית), Arabic (العربية), Spanish (Español), Germa
 
 Android (Google Play). iOS App Store coming soon.
 
+Download: https://play.google.com/store/apps/details?id=com.bellyoff.bellyoff
+
 ## Website
 
 https://bellyoff.app — marketing site with multilingual blog (daily posts on belly reduction, breathing, posture, and somatic movement for the 40+ body)
