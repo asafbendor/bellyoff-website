@@ -1,6 +1,7 @@
 /**
  * BellyOff Blog Cron Worker
- * Triggers daily at 07:00 UTC via Cloudflare Cron.
+ * Triggers daily at 07:00 UTC via Cloudflare Cron, but publishes only once
+ * every 3 days (guard in scheduled(), based on days since the Unix epoch).
  * Generates blog posts in 6 languages using Claude Haiku and commits them to GitHub.
  *
  * Required secrets (set via wrangler secret put):
@@ -11,6 +12,9 @@
  *
  * wrangler.toml crons:  [triggers] crons = ["0 7 * * *"]
  */
+
+// Publish cadence: one post-set every N days. Change this to adjust frequency.
+const PUBLISH_EVERY_DAYS = 3;
 
 const LANGS = ['en', 'he', 'ar', 'es', 'de', 'fr'];
 
@@ -56,11 +60,10 @@ const LANG_INSTRUCTIONS = {
   fr: 'Write in French (Français).',
 };
 
-function getDayOfYear(date) {
-  const start = new Date(date.getFullYear(), 0, 0);
-  const diff = date - start;
-  const oneDay = 1000 * 60 * 60 * 24;
-  return Math.floor(diff / oneDay);
+// Whole days since the Unix epoch (UTC). Stable across month/year boundaries,
+// which keeps the every-3-days cadence perfectly regular.
+function getEpochDay(date) {
+  return Math.floor(date.getTime() / 86400000);
 }
 
 function slugify(text) {
@@ -317,8 +320,16 @@ export default {
 
   async scheduled(event, env, ctx) {
     const date = new Date();
-    const dayOfYear = getDayOfYear(date);
-    const topic = TOPICS[dayOfYear % TOPICS.length];
+    const epochDay = getEpochDay(date);
+
+    // Publish only once every PUBLISH_EVERY_DAYS days. On off-days, do nothing.
+    if (epochDay % PUBLISH_EVERY_DAYS !== 0) {
+      console.log(`[blog-cron] skipped: not a publish day (every ${PUBLISH_EVERY_DAYS} days). epochDay=${epochDay}`);
+      return [{ status: 'skipped', reason: 'not-a-publish-day', epochDay }];
+    }
+
+    // Advance one topic per publish so all TOPICS are used in rotation.
+    const topic = TOPICS[Math.floor(epochDay / PUBLISH_EVERY_DAYS) % TOPICS.length];
 
     // Generate all posts in parallel (fast), then commit sequentially (avoids GitHub 409 race)
     const generated = await Promise.all(
