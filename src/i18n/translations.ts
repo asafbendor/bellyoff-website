@@ -109,6 +109,7 @@ export const translations = {
     footer_terms: 'Terms of Service',
     footer_contact: 'Contact',
     footer_copy: '© 2026 BellyOff. All rights reserved.',
+    footer_goai: 'Made by GoAI',
 
     phone_label_summary: 'Premium dashboard',
     phone_label_maya: 'Maya - Deep breathing',
@@ -215,6 +216,7 @@ export const translations = {
     footer_terms: 'תנאי שימוש',
     footer_contact: 'צור קשר',
     footer_copy: '© 2026 BellyOff. כל הזכויות שמורות.',
+    footer_goai: 'נבנתה במעבדה של GoAI',
 
     phone_label_summary: 'לוח בקרה פרימיום',
     phone_label_maya: 'מאיה - נשימה עמוקה',
@@ -321,6 +323,7 @@ export const translations = {
     footer_terms: 'شروط الخدمة',
     footer_contact: 'اتصل بنا',
     footer_copy: '© 2026 BellyOff. جميع الحقوق محفوظة.',
+    footer_goai: 'من صنع GoAI',
 
     phone_label_summary: 'لوحة التحكم المميزة',
     phone_label_maya: 'مايا - تنفس عميق',
@@ -427,6 +430,7 @@ export const translations = {
     footer_terms: 'Términos de Servicio',
     footer_contact: 'Contacto',
     footer_copy: '© 2026 BellyOff. Todos los derechos reservados.',
+    footer_goai: 'Creado por GoAI',
 
     phone_label_summary: 'Panel premium',
     phone_label_maya: 'Maya - Respiración profunda',
@@ -533,6 +537,7 @@ export const translations = {
     footer_terms: 'Nutzungsbedingungen',
     footer_contact: 'Kontakt',
     footer_copy: '© 2026 BellyOff. Alle Rechte vorbehalten.',
+    footer_goai: 'Von GoAI entwickelt',
 
     phone_label_summary: 'Premium-Dashboard',
     phone_label_maya: 'Maya - Tiefes Atmen',
@@ -639,6 +644,7 @@ export const translations = {
     footer_terms: "Conditions d'Utilisation",
     footer_contact: 'Contact',
     footer_copy: '© 2026 BellyOff. Tous droits réservés.',
+    footer_goai: 'Conçu par GoAI',
 
     phone_label_summary: 'Tableau de bord premium',
     phone_label_maya: 'Maya - Respiration profonde',

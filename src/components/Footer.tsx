@@ -18,7 +18,17 @@ export default function Footer({ lang }: { lang: Lang }) {
             <Link href={`/${lang}/terms/`} className="hover:text-white transition-colors">{tr.footer_terms}</Link>
             <a href="mailto:hello@bellyoff.app" className="hover:text-white transition-colors">{tr.footer_contact}</a>
           </nav>
-          <div className="text-xs text-[#444]">{tr.footer_copy}</div>
+          <div className="text-xs text-[#444] flex flex-col items-center md:items-end gap-2">
+            <span>{tr.footer_copy}</span>
+            <a
+              href="https://www.goai.co.il"
+              target="_blank"
+              rel="noopener"
+              className="inline-flex items-center min-h-[48px] text-[#6C63FF] hover:text-white transition-colors"
+            >
+              {tr.footer_goai}
+            </a>
+          </div>
         </div>
       </div>
     </footer>
