@@ -54,9 +54,10 @@ export default async function LangLayout({
   if (!LANGS.includes(lang)) notFound();
   const isRTL = RTL_LANGS.includes(lang);
 
-  const hreflangLinks = LANGS.map((l) => (
-    <link key={l} rel="alternate" hrefLang={l} href={`https://bellyoff.app/${l}/`} />
-  ));
+  // No hreflang is built here on purpose. A layout does not know which page it is
+  // wrapping, so the only thing it could point at is the home page, which is wrong
+  // on every other route. Each page declares its own alternates in generateMetadata,
+  // and blog posts declare none because a post has no translation to point at.
 
   const jsonLd = {
     '@context': 'https://schema.org',

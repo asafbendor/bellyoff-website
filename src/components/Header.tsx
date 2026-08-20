@@ -12,9 +12,18 @@ export default function Header({ lang }: { lang: Lang }) {
   const isRTL = RTL_LANGS.includes(lang);
   const [menuOpen, setMenuOpen] = useState(false);
 
+  // Swapping only the locale segment works for the pages that exist under the same
+  // path in every language, and breaks on blog posts: each language writes its own
+  // post with its own slug, so /en/blog/deep-breathing-posture-improvement/ became
+  // /he/blog/deep-breathing-posture-improvement/, which does not exist. Googlebot
+  // followed those links and collected 272 dead URLs. There is no post-to-post
+  // translation map to consult, so a post falls back to that language's blog index,
+  // which is a real page about the same subject.
   function switchLang(newLang: Lang) {
     const segments = pathname.split('/');
     segments[1] = newLang;
+    const isBlogPost = segments[2] === 'blog' && Boolean(segments[3]);
+    if (isBlogPost) return `/${newLang}/blog/`;
     return segments.join('/');
   }
 
