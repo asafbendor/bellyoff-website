@@ -2,7 +2,7 @@ name = "bellyoff-blog-cron"
 main = "blog-cron.js"
 compatibility_date = "2026-06-14"
 
-# Fires daily at 07:00 UTC; the worker itself publishes only once every 3 days
-# (guard in scheduled(), PUBLISH_EVERY_DAYS in blog-cron.js).
-[triggers]
-crons = ["0 7 * * *"]
+# Cron disabled on 2026-09-02. Post generation moved to the Claude scheduled task
+# "bellyoff-blog", which runs on the subscription instead of a paid Anthropic key.
+# [triggers]
+# crons = ["0 7 * * *"]
