@@ -14,6 +14,11 @@ export default function Footer({ lang }: { lang: Lang }) {
             <div className="text-sm text-[#555]">{tr.footer_tagline}</div>
           </div>
           <nav className="flex flex-wrap justify-center gap-6 text-sm text-[#8A8A9A]">
+            {(lang === 'en' || lang === 'he') && (
+              <Link href={`/${lang}/guides/`} className="hover:text-white transition-colors">
+                {lang === 'he' ? 'מדריכים' : 'Guides'}
+              </Link>
+            )}
             <Link href={`/${lang}/privacy/`} className="hover:text-white transition-colors">{tr.footer_privacy}</Link>
             <Link href={`/${lang}/terms/`} className="hover:text-white transition-colors">{tr.footer_terms}</Link>
             <a href="mailto:hello@bellyoff.app" className="hover:text-white transition-colors">{tr.footer_contact}</a>
