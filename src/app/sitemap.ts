@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { getBlogSlugs, getBlogMeta } from '@/lib/blog';
+import { GUIDES, GUIDE_LANGS } from '@/lib/guides';
 
 export const dynamic = 'force-static';
 
@@ -35,6 +36,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
         lastModified: meta?.date ? new Date(meta.date) : new Date(),
         changeFrequency: 'monthly',
         priority: 0.6,
+      });
+    }
+  }
+
+  // Guide engine: hub + one page per guide, English and Hebrew only.
+  for (const lang of GUIDE_LANGS) {
+    entries.push({
+      url: `${BASE_URL}/${lang}/guides/`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+      alternates: {
+        languages: Object.fromEntries(GUIDE_LANGS.map((l) => [l, `${BASE_URL}/${l}/guides/`])),
+      },
+    });
+    for (const g of GUIDES) {
+      entries.push({
+        url: `${BASE_URL}/${lang}/guides/${g.slug}/`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.6,
+        alternates: {
+          languages: Object.fromEntries(GUIDE_LANGS.map((l) => [l, `${BASE_URL}/${l}/guides/${g.slug}/`])),
+        },
       });
     }
   }
