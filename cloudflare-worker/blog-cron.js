@@ -119,14 +119,16 @@ Return your response using EXACTLY this delimiter format (no JSON, no code block
       'anthropic-version': '2023-06-01',
     },
     body: JSON.stringify({
-      model: 'claude-haiku-4-5-20251001',
-      max_tokens: 4000,
+      model: 'claude-haiku-5-5',
+      max_tokens: 5200,
+      output_config: { effort: 'low' },
       messages: [{ role: 'user', content: prompt }],
     }),
   });
 
   const data = await response.json();
-  const text = data.content[0].text;
+  if (data.stop_reason === 'refusal') throw new Error(`Generation refused for lang=${lang}`);
+  const text = (data.content || []).filter((b) => b.type === 'text').map((b) => b.text).join('');
 
   const extract = (tag) => {
     const m = text.match(new RegExp(`<<<${tag}>>>\\s*([\\s\\S]*?)(?=<<<|$)`));
@@ -257,10 +259,11 @@ ${body}`;
   const resp = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: { 'Content-Type': 'application/json', 'x-api-key': env.ANTHROPIC_API_KEY, 'anthropic-version': '2023-06-01' },
-    body: JSON.stringify({ model: 'claude-haiku-4-5-20251001', max_tokens: 5000, messages: [{ role: 'user', content: prompt }] }),
+    body: JSON.stringify({ model: 'claude-haiku-5-5', max_tokens: 6500, output_config: { effort: 'low' }, messages: [{ role: 'user', content: prompt }] }),
   });
   const data = await resp.json();
-  const text = data.content[0].text;
+  if (data.stop_reason === 'refusal') throw new Error(`generation refused in ${path}`);
+  const text = (data.content || []).filter((b) => b.type === 'text').map((b) => b.text).join('');
   const ex = (tag) => { const mm = text.match(new RegExp(`<<<${tag}>>>\\s*([\\s\\S]*?)(?=<<<|$)`)); if (!mm) throw new Error(`missing ${tag} in ${path}`); return mm[1].trim(); };
   const nTitle = noDashFix(ex('TITLE')), nExcerpt = noDashFix(ex('EXCERPT')), nContent = noDashFix(ex('CONTENT'));
 
