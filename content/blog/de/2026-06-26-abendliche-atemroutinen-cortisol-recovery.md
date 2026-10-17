@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Abendliche Atemübungen senken den Cortisolspiegel und bereiten den Körper auf Erholung vor. Erfahren Sie, wie gezielte Atemtechniken Ihren Schlaf verbessern und Bauchfett reduzieren."
 slug: "abendliche-atemroutinen-cortisol-recovery"
+image: "/blog/breathing-exercises-for-sleep.jpg"
+image_alt: "Atemübungen zum Einschlafen: ein gedämpft beleuchtetes Schlafzimmer am Abend, eine Frau sitzt mit geschlossenen Augen auf dem Bett und atmet langsam, eine warme Lampe neben ihr"
+image_caption: "Atemübungen zum Einschlafen bringen das Cortisol auf seinen Tiefpunkt, dorthin, wo es nachts hingehört."
 ---
 
 ## Wie wirken abendliche Atemroutinen gegen erhöhte Cortisolwerte?

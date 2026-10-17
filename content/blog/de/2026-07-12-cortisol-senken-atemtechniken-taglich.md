@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Einfache Atemtechniken können Ihren Cortisol-Spiegel deutlich senken und damit Bauchfett reduzieren - erfahren Sie, welche Atemweisen den ganzen Tag über wirken."
 slug: "cortisol-senken-atemtechniken-taglich"
+image: "/blog/breathing-exercises-for-stress.jpg"
+image_alt: "Atemübungen gegen Stress: eine Frau am Schreibtisch zu Hause, Laptop zugeklappt, Augen geschlossen, atmet langsam"
+image_caption: "Atemübungen gegen Stress wirken am besten als kurze Pausen über den Tag verteilt."
 ---
 
 ## Wie senken Sie Ihren Cortisol-Spiegel durch Atemtechniken während des Tages?

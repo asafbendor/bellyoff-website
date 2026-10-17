@@ -5,6 +5,9 @@ lang: "de"
 category: "metabolism"
 excerpt: "Das Lymphsystem transportiert Abfallstoffe und Flüssigkeit aus dem Gewebe, und es wird mit den Jahren träger. So zeigt sich das als vollerer Bauch nach 40, und das bringt es wirklich wieder in Gang."
 slug: "lymphsystem-bauchfett-nach-40"
+image: "/blog/lymphatic-drainage-belly-fat-3.jpg"
+image_alt: "Lymphdrainage: eine Frau massiert sanft Hals und Schlüsselbein, ein Handtuch über der Schulter"
+image_caption: "Lymphdrainage bewegt Flüssigkeit, die den Bauch größer wirken lässt, als er ist."
 ---
 
 ## Wie beeinflusst das Lymphsystem das Bauchfett nach 40?

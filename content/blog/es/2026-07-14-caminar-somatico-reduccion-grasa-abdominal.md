@@ -5,6 +5,9 @@ lang: "es"
 category: "movement"
 excerpt: "El caminar somático es una técnica olvidada que conecta la conciencia corporal con el movimiento, activando los músculos profundos del abdomen y mejorando la postura para reducir la barriga de forma natural."
 slug: "caminar-somatico-reduccion-grasa-abdominal"
+image: "/blog/walking-to-lose-belly-fat.jpg"
+image_alt: "caminar para perder barriga: una pareja de mediana edad caminando a ritmo tranquilo por un sendero arbolado, luz de última hora de la tarde"
+image_caption: "Caminar para perder barriga funciona porque baja el cortisol en lugar de subirlo."
 ---
 
 ## ¿Cómo reduce el caminar somático la grasa abdominal en adultos de 40+?

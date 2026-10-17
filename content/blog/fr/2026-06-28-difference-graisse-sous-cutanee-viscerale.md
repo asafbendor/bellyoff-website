@@ -5,6 +5,9 @@ lang: "fr"
 category: "metabolism"
 excerpt: "Comprendre la différence entre ces deux types de graisse abdominale est essentiel pour adopter la bonne stratégie de fitness après 40 ans."
 slug: "difference-graisse-sous-cutanee-viscerale"
+image: "/blog/subcutaneous-vs-visceral-fat.jpg"
+image_alt: "graisse sous-cutanée: gros plan d'un mètre ruban passé sans serrer autour d'une taille sur un haut uni"
+image_caption: "La graisse sous-cutanée est la couche que l'on peut pincer ; la couche profonde est celle qui compte pour la santé."
 ---
 
 ## Quelle est la différence entre la graisse sous-cutanée et la graisse viscérale ?

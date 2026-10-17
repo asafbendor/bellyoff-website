@@ -5,6 +5,9 @@ lang: "es"
 category: "movement"
 excerpt: "La caminata somática combina movimiento consciente con respiración profunda para activar los músculos estabilizadores del abdomen, reduciendo grasa visceral de forma natural y sostenible."
 slug: "caminata-somatica-grasa-abdominal"
+image: "/blog/walking-to-lose-belly-fat-2.jpg"
+image_alt: "caminar para perder barriga: una pareja de mediana edad caminando a ritmo tranquilo por un sendero arbolado, luz de última hora de la tarde"
+image_caption: "Caminar para perder barriga funciona porque baja el cortisol en lugar de subirlo."
 ---
 
 ## ¿Cómo reduce la caminata somática la grasa abdominal en mayores de 40?

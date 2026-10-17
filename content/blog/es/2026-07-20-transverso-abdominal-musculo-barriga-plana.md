@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "El transverso abdominal es el músculo más profundo del abdomen y es responsable de comprimir y sostener los órganos internos. Activarlo correctamente es fundamental para lograr una barriga plana y es el enfoque principal que muchos programas de ejercicio pasan por alto."
 slug: "transverso-abdominal-musculo-barriga-plana"
+image: "/blog/transverse-abdominis-exercises-3.jpg"
+image_alt: "transverso abdominal ejercicios: primer plano de una mujer sentada en una esterilla con una mano sobre el bajo vientre, una planta y una ventana detrás"
+image_caption: "Los ejercicios de transverso abdominal empiezan con una mano en el vientre y una exhalación lenta, no con un abdominal."
 ---
 
 ## ¿Qué es el transverso abdominal y por qué importa?

@@ -5,6 +5,9 @@ lang: "de"
 category: "metabolism"
 excerpt: "Morgentraining reguliert den Cortisolspiegel natürlich und unterstützt den Fettabbau. Erfahren Sie, warum die frühe Trainingszeit für Menschen ab 40 Jahren besonders wirksam ist."
 slug: "morgentraining-cortisol-bauchfett"
+image: "/blog/morning-exercise-cortisol-2.jpg"
+image_alt: "Sport am Morgen: ein Mann in den Fünfzigern dehnt sich sanft auf dem Balkon bei Sonnenaufgang"
+image_caption: "Sport am Morgen arbeitet mit dem natürlichen Cortisolhoch statt dagegen."
 ---
 
 ## Wie wirkt sich Morgentraining auf Cortisol aus?

@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "La respiración profunda activa los músculos centrales y realinea naturalmente la columna vertebral, mejorando la postura de forma pasiva sin necesidad de ejercicios complicados."
 slug: "respiracion-profunda-mejora-postura"
+image: "/blog/deep-breathing-benefits-posture-3.jpg"
+image_alt: "beneficios de la respiración profunda: una mujer tumbada boca arriba en una esterilla con un cojín bajo las rodillas, respirando con calma"
+image_caption: "Los beneficios de la respiración profunda empiezan en la postura: las costillas se asientan y la columna sigue."
 ---
 
 ## ¿Cómo la respiración profunda mejora tu postura sin esfuerzo?

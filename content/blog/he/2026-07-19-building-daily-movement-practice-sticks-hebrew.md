@@ -5,6 +5,9 @@ lang: "he"
 category: "mindset"
 excerpt: "בניית שגרת תנועה עקבית דורשת התחלה קטנה, קביעת זמן קבוע, והבנת הקשר בין תנועה קטנה לשינוי ממשי בגוף ובנפש."
 slug: "building-daily-movement-practice-sticks-hebrew"
+image: "/blog/daily-exercise-habit-that-sticks-2.jpg"
+image_alt: "הרגל אימון יומי: אישה פורשת מזרן יוגה באותה פינה בסלון, צמח וחלון לידה"
+image_caption: "הרגל אימון יומי נשאר כשהוא קצר, באותו מקום ובאותה שעה."
 ---
 
 ## כיצד בונים שגרת תנועה יומית שנשמרת לאורך זמן?

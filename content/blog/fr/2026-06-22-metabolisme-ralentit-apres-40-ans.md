@@ -5,6 +5,9 @@ lang: "fr"
 category: "metabolism"
 excerpt: "Après 40 ans, le métabolisme ralentit naturellement, mais pas seulement à cause de l'âge. Découvrez les vrais facteurs et comment les combattre efficacement."
 slug: "metabolisme-ralentit-apres-40-ans"
+image: "/blog/slow-metabolism-after-40.jpg"
+image_alt: "métabolisme lent après 40 ans: une assiette avec du poisson grillé, des légumes rôtis et une petite portion de riz sur une table en bois"
+image_caption: "Un métabolisme lent après 40 ans, c'est surtout du muscle perdu, et le muscle se reconstruit en douceur."
 ---
 
 Après 40 ans, beaucoup de personnes remarquent qu'il devient plus difficile de maintenir leur poids, même sans changer leurs habitudes alimentaires. Le métabolisme ralentit réellement avec l'âge, mais la science montre que ce ralentissement n'est pas une fatalité inexorable. Plusieurs facteurs biologiques et comportementaux contribuent à ce changement : la perte de masse musculaire, la baisse des hormones, une activité physique réduite, et des modifications dans la qualité du sommeil. La bonne nouvelle ? En comprenant ces mécanismes, vous pouvez agir pour maintenir votre énergie et gérer votre poids plus efficacement.

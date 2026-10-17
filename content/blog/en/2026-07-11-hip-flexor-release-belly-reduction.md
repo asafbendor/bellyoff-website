@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Tight hip flexors pull your pelvis forward, creating a protruding belly posture. Releasing these muscles realigns your core, improves posture, and activates your deep abdominal muscles for genuine belly reduction."
 slug: "hip-flexor-release-belly-reduction"
+image: "/blog/hip-flexor-stretch-belly.jpg"
+image_alt: "hip flexor stretch: a man doing a low lunge hip flexor stretch on a mat near a window, shoulders relaxed"
+image_caption: "A hip flexor stretch lets the pelvis drop back, and the belly drops back with it."
 ---
 
 ## How Does Hip Flexor Release Help Reduce Belly Fat?

@@ -5,6 +5,9 @@ lang: "en"
 category: "movement"
 excerpt: "A structured 30-day belly reduction journey shows measurable progress each week, from improved breathing and posture to visible fat loss and increased energy levels."
 slug: "30-day-belly-reduction-weekly-expectations"
+image: "/blog/30-day-belly-challenge-2.jpg"
+image_alt: "30 day challenge: a wall calendar with a pen hanging beside it and a rolled yoga mat leaning on the wall below"
+image_caption: "A 30 day challenge works when every week asks a little more than the last, never a lot more."
 ---
 
 ## What Should You Expect in Your First 30 Days of Belly Reduction?

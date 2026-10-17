@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "El transverso abdominal es el músculo profundo que sostiene tu vientre. Aprende técnicas de respiración y movimiento simples para activarlo sin crunch tradicionales."
 slug: "activar-transverso-abdominal-sin-crunch"
+image: "/blog/transverse-abdominis-exercises-2.jpg"
+image_alt: "transverso abdominal ejercicios: primer plano de una mujer sentada en una esterilla con una mano sobre el bajo vientre, una planta y una ventana detrás"
+image_caption: "Los ejercicios de transverso abdominal empiezan con una mano en el vientre y una exhalación lenta, no con un abdominal."
 ---
 
 ## ¿Cómo activar el transverso abdominal sin hacer abdominales?

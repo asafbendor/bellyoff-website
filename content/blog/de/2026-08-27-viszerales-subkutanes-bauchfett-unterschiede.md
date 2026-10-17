@@ -5,6 +5,9 @@ lang: "de"
 category: "metabolism"
 excerpt: "Bauchfett ist nicht gleich Bauchfett. Erfahren Sie, warum viszerales Fett gefährlicher ist als subkutanes Fett und wie Sie gezielt beide Arten reduzieren können."
 slug: "viszerales-subkutanes-bauchfett-unterschiede"
+image: "/blog/subcutaneous-vs-visceral-fat-3.jpg"
+image_alt: "subkutanes Fett: Nahaufnahme eines locker um die Taille gelegten Maßbands über einem schlichten Oberteil"
+image_caption: "Subkutanes Fett ist die Schicht, die man greifen kann; die tiefere Schicht ist die, die für die Gesundheit zählt."
 ---
 
 ## Was ist der Unterschied zwischen viszeralem und subkutanem Bauchfett?

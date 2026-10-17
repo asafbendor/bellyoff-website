@@ -5,6 +5,9 @@ lang: "de"
 category: "movement"
 excerpt: "Kurze, intensive Workouts passen besser zu den biologischen Veränderungen ab 40 und fördern gezielt den Fettabbau im Bauchbereich."
 slug: "10-minuten-effektiver-als-60-minuten-40plus"
+image: "/blog/10-minute-workout-after-40.jpg"
+image_alt: "10 Minuten Training: ein Küchentimer und eine zusammengerollte Yogamatte auf einem Holzboden, daneben ein Paar Turnschuhe"
+image_caption: "Ein tägliches 10-Minuten-Training schlägt eine Stunde, die der Körper vor Stress nicht durchhält."
 ---
 
 ## Warum 10 Minuten effektiver sind als 60 Minuten für den Körper 40+

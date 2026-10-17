@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Poor posture compresses your core, weakens abdominal muscles, and encourages fat storage around the midsection. Fixing your posture activates dormant core muscles, improves digestion, and creates the foundation for visible belly reduction."
 slug: "posture-belly-reduction-missing-link"
+image: "/blog/posture-and-belly-fat-2.jpg"
+image_alt: "posture and belly fat: a man standing tall in profile in a living room, shoulders relaxed, stacking his posture"
+image_caption: "Posture and belly fat are tied together: stack the spine and the belly already looks smaller."
 ---
 
 ## Why Most Belly Reduction Programs Miss the Posture Connection

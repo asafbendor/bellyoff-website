@@ -5,6 +5,9 @@ lang: "fr"
 category: "mindset"
 excerpt: "Le sommeil insuffisant perturbe vos hormones et ralentit votre métabolisme, favorisant l'accumulation de graisse au niveau du ventre. Découvrez pourquoi et comment retrouver un sommeil réparateur."
 slug: "sommeil-graisse-abdominale-apres-40-ans"
+image: "/blog/lack-of-sleep-belly-fat-2.jpg"
+image_alt: "manque de sommeil prise de poids: un lit défait dans la lumière douce du petit matin, une lampe de chevet et un verre d'eau sur la table de nuit"
+image_caption: "Manque de sommeil et prise de poids sont liés par un cortisol qui ne redescend jamais la nuit."
 ---
 
 ## Comment le manque de sommeil augmente la graisse abdominale après 40 ans ?

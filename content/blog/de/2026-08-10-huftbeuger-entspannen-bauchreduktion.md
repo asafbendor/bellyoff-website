@@ -5,6 +5,9 @@ lang: "de"
 category: "posture"
 excerpt: "Verspannte Hüftbeuger drücken das Becken nach vorne und lassen den Bauch hervortreten. Durch gezielte Dehnübungen können Sie diese Muskeln entspannen und eine bessere Körperhaltung erreichen."
 slug: "huftbeuger-entspannen-bauchreduktion"
+image: "/blog/hip-flexor-stretch-belly-2.jpg"
+image_alt: "Hüftbeuger dehnen: ein Mann dehnt die Hüftbeuger im tiefen Ausfallschritt auf einer Matte am Fenster, Schultern locker"
+image_caption: "Hüftbeuger dehnen lässt das Becken zurückkippen, und der Bauch geht mit."
 ---
 
 ## Wie lockert man die Hüftbeuger, um den Bauch zu reduzieren?

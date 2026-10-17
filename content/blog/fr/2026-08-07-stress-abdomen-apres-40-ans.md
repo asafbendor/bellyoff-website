@@ -5,6 +5,9 @@ lang: "fr"
 category: "mindset"
 excerpt: "Après 40 ans, le stress crée une réaction hormonale qui favorise le stockage de graisse viscérale autour du ventre. Découvrez comment gérer cette accumulation naturelle."
 slug: "stress-abdomen-apres-40-ans"
+image: "/blog/stress-belly-fat-mind-body-4.jpg"
+image_alt: "ventre de stress: une femme au plan de travail de la cuisine marque une pause, une main sur le ventre, lumière de milieu de matinée"
+image_caption: "Le ventre de stress, c'est le corps qui stocke une longue journée là où les récepteurs au cortisol sont les plus denses."
 ---
 
 ## Comment le stress s'accumule-t-il dans l'abdomen après 40 ans ?

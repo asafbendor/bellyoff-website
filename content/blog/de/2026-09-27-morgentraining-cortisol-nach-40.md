@@ -5,6 +5,9 @@ lang: "de"
 category: "metabolism"
 excerpt: "Cortisol erreicht in der ersten Stunde nach dem Aufwachen seinen Höhepunkt. Sanfte Bewegung am Morgen arbeitet mit diesem natürlichen Rhythmus, hilft dem Cortisol, rechtzeitig zu sinken, und macht Fetteinlagerung am Bauch weniger wahrscheinlich."
 slug: "morgentraining-cortisol-nach-40"
+image: "/blog/morning-exercise-cortisol-3.jpg"
+image_alt: "Sport am Morgen: ein Mann in den Fünfzigern dehnt sich sanft auf dem Balkon bei Sonnenaufgang"
+image_caption: "Sport am Morgen arbeitet mit dem natürlichen Cortisolhoch statt dagegen."
 ---
 
 ## Warum ist Bewegung am Morgen so wichtig für den Cortisolspiegel nach 40?

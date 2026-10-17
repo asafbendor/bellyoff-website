@@ -5,6 +5,9 @@ lang: "es"
 category: "metabolism"
 excerpt: "El cortisol es una hormona del estrés que, cuando se eleva crónicamente después de los 40, promueve el almacenamiento de grasa en el abdomen. Comprender esta conexión es clave para reducir la barriga de forma efectiva."
 slug: "cortisol-grasa-abdominal-despues-40"
+image: "/blog/cortisol-belly-fat-after-40-3.jpg"
+image_alt: "cortisol y grasa abdominal: un hombre de mediana edad sentado en el borde de la cama al amanecer con una taza de té, tranquilo, luz suave de la ventana"
+image_caption: "El cortisol y la grasa abdominal van juntos cuando la hormona del estrés se mantiene alta todo el día."
 ---
 
 ## ¿Cómo el cortisol afecta la acumulación de grasa abdominal después de los 40?

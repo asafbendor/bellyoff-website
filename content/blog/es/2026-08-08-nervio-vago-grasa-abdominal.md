@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "El nervio vago controla funciones digestivas y metabólicas clave. Activarlo mediante técnicas de respiración específicas puede acelerar la pérdida de grasa abdominal en adultos mayores de 40 años."
 slug: "nervio-vago-grasa-abdominal"
+image: "/blog/vagus-nerve-belly-fat-2.jpg"
+image_alt: "nervio vago: una mujer sentada con las piernas cruzadas en el sofá, ojos cerrados, una mano sobre la parte alta del pecho"
+image_caption: "El nervio vago es el interruptor que una exhalación larga pasa de estrés a recuperación."
 ---
 
 ## ¿Cómo activa el nervio vago la reducción de grasa abdominal?

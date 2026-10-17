@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "After 40, hormonal shifts naturally redirect fat storage toward the belly. Understanding visceral fat and hormonal decline helps you take control of your health with targeted strategies."
 slug: "belly-fat-hormonal-decline-after-40"
+image: "/blog/visceral-fat-after-40-3.jpg"
+image_alt: "visceral fat: a woman in her forties looking thoughtfully into a bathroom mirror, one hand on her waist"
+image_caption: "Visceral fat grows after 40 as estrogen and testosterone fall and cortisol sensitivity rises."
 ---
 
 ## Why Does Belly Fat Increase After 40? The Hormonal Science Explained

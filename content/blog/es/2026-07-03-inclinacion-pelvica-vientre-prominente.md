@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "La inclinación pélvica anterior es una de las razones más comunes por las que el vientre parece más prominente, especialmente después de los 40 años. Reconocer los signos te ayudará a corregir tu postura y reducir la apariencia de barriga."
 slug: "inclinacion-pelvica-vientre-prominente"
+image: "/blog/pelvic-tilt-symptoms-belly.jpg"
+image_alt: "síntomas de anteversión pélvica: una mujer de perfil junto a una ventana con las manos en las caderas, una ligera curva en la zona lumbar"
+image_caption: "Los síntomas de anteversión pélvica se ven en el espejo antes de sentirse como dolor."
 ---
 
 ## ¿Cómo identificar si tu inclinación pélvica causa protuberancia abdominal?

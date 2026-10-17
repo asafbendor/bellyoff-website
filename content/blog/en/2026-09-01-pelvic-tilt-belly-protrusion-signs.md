@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Poor pelvic alignment pushes your belly forward, creating the appearance of excess weight even when you're fit. Recognizing these five signs can help you correct your posture and reduce belly protrusion naturally."
 slug: "pelvic-tilt-belly-protrusion-signs"
+image: "/blog/pelvic-tilt-symptoms-belly-3.jpg"
+image_alt: "pelvic tilt symptoms: a woman standing in profile by a window with hands on her hips, a slight sway in her lower back"
+image_caption: "Pelvic tilt symptoms show up in the mirror before they show up as pain."
 ---
 
 ## How Can Pelvic Tilt Cause Belly to Protrude? The Direct Answer

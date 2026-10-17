@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Poor pelvic alignment pushes your belly forward, making it harder to reduce belly fat even with exercise. Learn the five key signs your pelvic tilt needs correction."
 slug: "pelvic-tilt-belly-protrusion-signs"
+image: "/blog/pelvic-tilt-symptoms-belly-2.jpg"
+image_alt: "pelvic tilt symptoms: a woman standing in profile by a window with hands on her hips, a slight sway in her lower back"
+image_caption: "Pelvic tilt symptoms show up in the mirror before they show up as pain."
 ---
 
 ## How Can Pelvic Tilt Cause Your Belly to Protrude?

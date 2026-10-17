@@ -5,6 +5,9 @@ lang: "en"
 category: "movement"
 excerpt: "Both somatic movement and high-intensity exercise can reduce belly fat, but they work differently. Somatic movement builds awareness and engages deep core muscles through gentle, mindful motion, while HIIT burns calories quickly through intense bursts."
 slug: "somatic-vs-hiit-belly-reduction"
+image: "/blog/somatic-exercise-vs-hiit.jpg"
+image_alt: "somatic exercises: a woman doing a slow, gentle floor movement on a mat in a living room, relaxed, daylight"
+image_caption: "Somatic exercises build the belly down without the cortisol spike of a hard workout."
 ---
 
 ## How to Choose Between Somatic Movement and High-Intensity Exercise for Belly Reduction

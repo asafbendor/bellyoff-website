@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "Evening breathing routines activate your parasympathetic nervous system, signaling your body to lower cortisol levels after a stressful day. This simple practice helps you sleep better, reduce belly fat storage, and wake refreshed."
 slug: "evening-breathing-cortisol-recovery"
+image: "/blog/breathing-exercises-for-sleep-3.jpg"
+image_alt: "breathing exercises for sleep: a dim bedroom in the evening, a woman sitting on the bed with eyes closed breathing slowly, a warm lamp beside her"
+image_caption: "Breathing exercises for sleep bring cortisol to its lowest point of the day, where it belongs at night."
 ---
 
 ## How Can Evening Breathing Routines Help You Recover from Cortisol Stress?

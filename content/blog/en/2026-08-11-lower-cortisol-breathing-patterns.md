@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "Discover evidence-based breathing techniques that reduce stress hormones and belly fat throughout your day."
 slug: "lower-cortisol-breathing-patterns"
+image: "/blog/breathing-exercises-for-stress-2.jpg"
+image_alt: "breathing exercises for stress: a woman at a home desk with the laptop closed, eyes closed, taking a slow breath"
+image_caption: "Breathing exercises for stress work best as short breaks spread through the day."
 ---
 
 ## How to Lower Cortisol with Breathing Patterns: A Daily Guide for Adults 40+

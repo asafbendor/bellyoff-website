@@ -5,6 +5,9 @@ lang: "en"
 category: "movement"
 excerpt: "A realistic week-by-week breakdown of belly reduction progress, from initial breathing work through visible changes, showing what typically happens when you commit to 10 minutes daily."
 slug: "30-day-belly-reduction-expectations"
+image: "/blog/30-day-belly-challenge-3.jpg"
+image_alt: "30 day challenge: a wall calendar with a pen hanging beside it and a rolled yoga mat leaning on the wall below"
+image_caption: "A 30 day challenge works when every week asks a little more than the last, never a lot more."
 ---
 
 ## What Should You Expect in Your First 30 Days of Belly Reduction?

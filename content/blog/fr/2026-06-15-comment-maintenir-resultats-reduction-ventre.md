@@ -5,6 +5,9 @@ lang: "fr"
 category: "movement"
 excerpt: "Découvrez comment préserver les résultats obtenus grâce à vos efforts quotidiens de réduction du ventre. Nous partageons des stratégies éprouvées pour maintenir vos progrès à long terme."
 slug: "comment-maintenir-resultats-reduction-ventre"
+image: "/blog/keep-belly-fat-off-long-term.jpg"
+image_alt: "stabiliser son poids après un régime: un mètre ruban et un petit carnet sur la table de la cuisine, une pomme et un verre d'eau à côté"
+image_caption: "Stabiliser son poids après un régime : une courte pratique quotidienne dure plus que tout programme à date de fin."
 ---
 
 ## Réponse directe

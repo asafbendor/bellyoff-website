@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "La respiración diafragmática es la clave para activar los músculos profundos del abdomen. Aprende cómo esta técnica transforma tu core y reduce la grasa abdominal."
 slug: "respiracion-diafragmatica-activa-nucleo-profundo"
+image: "/blog/diaphragmatic-breathing-deep-core-4.jpg"
+image_alt: "respiración diafragmática: una mujer tumbada en una esterilla en un salón luminoso, una mano en el pecho y otra en el vientre, respirando con calma"
+image_caption: "La respiración diafragmática despierta el core profundo desde dentro, sin un solo abdominal."
 ---
 
 ## ¿Cómo la respiración diafragmática activa el núcleo profundo?

@@ -5,6 +5,9 @@ lang: "fr"
 category: "mindset"
 excerpt: "Le stress chronique et les pensées négatives activent des mécanismes hormonaux qui favorisent l'accumulation de graisse au niveau du ventre. En travaillant la connexion esprit-corps, on peut inverser ce processus naturellement."
 slug: "connexion-esprit-corps-graisse-abdominale"
+image: "/blog/stress-belly-fat-mind-body-5.jpg"
+image_alt: "ventre de stress: une femme au plan de travail de la cuisine marque une pause, une main sur le ventre, lumière de milieu de matinée"
+image_caption: "Le ventre de stress, c'est le corps qui stocke une longue journée là où les récepteurs au cortisol sont les plus denses."
 ---
 
 ## Comment la connexion esprit-corps influence-t-elle le stockage des graisses abdominales ?

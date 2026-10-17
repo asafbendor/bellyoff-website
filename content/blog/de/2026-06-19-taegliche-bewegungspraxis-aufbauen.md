@@ -5,6 +5,9 @@ lang: "de"
 category: "mindset"
 excerpt: "Eine nachhaltige Bewegungspraxis entsteht nicht durch Willenskraft allein, sondern durch kleine, bewusste Entscheidungen und die richtige Struktur. Hier sind die wichtigsten Strategien, um eine Routine zu schaffen, die im Alltag bleibt."
 slug: "taegliche-bewegungspraxis-aufbauen"
+image: "/blog/daily-exercise-habit-that-sticks.jpg"
+image_alt: "tägliche Bewegung Gewohnheit: eine Frau rollt in derselben Ecke ihres Wohnzimmers eine Yogamatte aus, Pflanze und Fenster daneben"
+image_caption: "Eine tägliche Bewegungsgewohnheit hält, wenn sie kurz ist, am selben Ort, zur selben Zeit."
 ---
 
 ## Wie baue ich eine tägliche Bewegungspraxis auf, die wirklich hält?

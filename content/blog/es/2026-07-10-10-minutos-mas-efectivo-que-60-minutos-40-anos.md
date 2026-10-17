@@ -5,6 +5,9 @@ lang: "es"
 category: "movement"
 excerpt: "Descubre por qué los entrenamientos cortos y enfocados funcionan mejor que las sesiones largas para reducir la grasa abdominal en adultos mayores de 40 años."
 slug: "10-minutos-mas-efectivo-que-60-minutos-40-anos"
+image: "/blog/10-minute-workout-after-40.jpg"
+image_alt: "ejercicio de 10 minutos: un temporizador de cocina y una esterilla enrollada sobre un suelo de madera, unas zapatillas al lado"
+image_caption: "Un ejercicio de 10 minutos a diario supera a una hora que el cuerpo está demasiado estresado para terminar."
 ---
 
 ## ¿Por qué 10 minutos es más efectivo que 60 minutos para el cuerpo después de los 40?

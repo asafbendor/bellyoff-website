@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Tiefes Atmen aktiviert deine Rumpfmuskulatur und dehnt deine Wirbelsäule, wodurch sich deine Haltung automatisch aufrichtet - ohne dass du dich anstrengen musst."
 slug: "tiefes-atmen-haltung-veraendern"
+image: "/blog/deep-breathing-benefits-posture.jpg"
+image_alt: "tiefes Atmen Wirkung: eine Frau liegt auf dem Rücken auf einer Matte, ein Kissen unter den Knien, atmet ruhig"
+image_caption: "Tiefes Atmen wirkt zuerst auf die Haltung: Die Rippen senken sich, die Wirbelsäule folgt."
 ---
 
 ## Wie verändert tiefes Atmen deine Körperhaltung mühelos?

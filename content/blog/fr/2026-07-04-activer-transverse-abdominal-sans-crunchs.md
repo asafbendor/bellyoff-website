@@ -5,6 +5,9 @@ lang: "fr"
 category: "breathing"
 excerpt: "Découvrez comment renforcer votre transverse abdominal, le muscle profond de la sangle abdominale, grâce à des techniques de respiration et de posture simples, sans crunchs ni mouvements violents."
 slug: "activer-transverse-abdominal-sans-crunchs"
+image: "/blog/transverse-abdominis-exercises-2.jpg"
+image_alt: "transverse abdominal exercices: gros plan d'une femme assise sur un tapis, une main posée sur le bas du ventre, une plante et une fenêtre derrière elle"
+image_caption: "Les exercices du transverse abdominal commencent par une main sur le ventre et une expiration lente, pas par un crunch."
 ---
 
 ## Comment activer votre transverse abdominal sans faire de crunchs ?

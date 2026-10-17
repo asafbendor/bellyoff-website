@@ -5,6 +5,9 @@ lang: "es"
 category: "mindset"
 excerpt: "Descubre los secretos para establecer una rutina de ejercicio consistente que se adapte a tu vida y te mantenga motivado a largo plazo."
 slug: "practica-diaria-movimiento-que-perdure"
+image: "/blog/daily-exercise-habit-that-sticks-3.jpg"
+image_alt: "hábito de ejercicio diario: una mujer desenrollando una esterilla en el mismo rincón del salón, una planta y una ventana al lado"
+image_caption: "Un hábito de ejercicio diario se mantiene cuando es corto, en el mismo sitio y a la misma hora."
 ---
 
 ## ¿Cómo crear una práctica diaria de movimiento que perdure?

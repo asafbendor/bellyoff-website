@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Desk work doesn't have to lead to belly protrusion. With proper posture, breathing techniques, and strategic movement breaks, you can reduce abdominal expansion and build a stronger core throughout your workday."
 slug: "reduce-belly-sitting-desk"
+image: "/blog/sitting-posture-desk-belly.jpg"
+image_alt: "sitting posture: a woman sitting upright at a home desk, feet flat on the floor, the monitor at eye level"
+image_caption: "Sitting posture decides where the belly goes for eight hours a day."
 ---
 
 Belly protrusion at a desk is one of the most common complaints from adults 40 and older. The good news: you don't have to accept it as inevitable. By combining intentional posture adjustments, conscious breathing, and brief movement intervals, you can meaningfully reduce how your belly looks and feels while working. The key is understanding that desk posture directly impacts core engagement. When you slouch or lean forward, your abdominal muscles relax and your belly naturally protrudes. Conversely, when you sit upright with proper spinal alignment, your core muscles activate automatically. This isn't about sucking in your stomach all day - that's unsustainable. Instead, it's about creating conditions where your body naturally engages its stabilizer muscles. Most people find visible results within 2-3 weeks of consistent desk-based adjustments, especially when paired with short daily workouts like those in BellyOff's 10-minute program.

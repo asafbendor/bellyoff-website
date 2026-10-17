@@ -5,6 +5,9 @@ lang: "es"
 category: "mindset"
 excerpt: "La conexión entre el estrés mental y la acumulación de grasa en el abdomen es más profunda de lo que muchos creen. Descubre cómo tu mente influye directamente en dónde y cómo tu cuerpo almacena grasa."
 slug: "mente-grasa-abdominal-conexion"
+image: "/blog/stress-belly-fat-mind-body-5.jpg"
+image_alt: "estrés y grasa abdominal: una mujer en la encimera de la cocina, detenida un instante con una mano en el estómago, luz de media mañana"
+image_caption: "El estrés y la grasa abdominal se unen donde los receptores de cortisol son más densos."
 ---
 
 ## ¿Cómo afecta la mente al almacenamiento de grasa abdominal?

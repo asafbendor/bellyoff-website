@@ -5,6 +5,9 @@ lang: "es"
 category: "metabolism"
 excerpt: "El cortisol elevado es uno de los principales culpables del aumento de grasa abdominal en adultos mayores de 40. Descubre cómo controlar este hormona del estrés para reducir la barriga."
 slug: "cortisol-grasa-abdominal-despues-40"
+image: "/blog/cortisol-belly-fat-after-40.jpg"
+image_alt: "cortisol y grasa abdominal: un hombre de mediana edad sentado en el borde de la cama al amanecer con una taza de té, tranquilo, luz suave de la ventana"
+image_caption: "El cortisol y la grasa abdominal van juntos cuando la hormona del estrés se mantiene alta todo el día."
 ---
 
 ## ¿Cómo afecta el cortisol la grasa abdominal después de los 40?

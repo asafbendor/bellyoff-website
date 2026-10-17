@@ -5,6 +5,9 @@ lang: "fr"
 category: "posture"
 excerpt: "La libération des fléchisseurs de la hanche améliore la posture, réduit la tension abdominale et facilite une meilleure respiration. C'est un élément clé pour réduire le ventre chez les adultes de 40 ans et plus."
 slug: "liberation-flechisseurs-hanche-ventre"
+image: "/blog/hip-flexor-stretch-belly.jpg"
+image_alt: "étirement psoas: un homme en fente basse étire ses fléchisseurs de hanche sur un tapis près d'une fenêtre, épaules détendues"
+image_caption: "L'étirement du psoas laisse le bassin revenir en arrière, et le ventre suit."
 ---
 
 ## Comment la libération des fléchisseurs de la hanche réduit le ventre ?

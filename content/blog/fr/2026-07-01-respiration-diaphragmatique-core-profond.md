@@ -5,6 +5,9 @@ lang: "fr"
 category: "breathing"
 excerpt: "La respiration diaphragmatique engage directement le diaphragme et les muscles stabilisateurs profonds, créant une activation naturelle de la sangle abdominale sans effort excessif."
 slug: "respiration-diaphragmatique-core-profond"
+image: "/blog/diaphragmatic-breathing-deep-core-2.jpg"
+image_alt: "respiration diaphragmatique: une femme allongée sur un tapis de yoga dans un salon lumineux, une main sur la poitrine et une sur le ventre, respire calmement"
+image_caption: "La respiration diaphragmatique réveille le centre profond de l'intérieur, sans un seul crunch."
 ---
 
 La respiration diaphragmatique est bien plus qu'une simple technique de relaxation. Elle active les muscles profonds de votre abdomen, notamment le transverse de l'abdomen, les muscles du plancher pelvien et le diaphragme lui-même. Lorsque vous respirez correctement en utilisant le diaphragme plutôt que les muscles accessoires du cou et de la poitrine, vous créez une contraction musculaire douce mais efficace dans votre core. Cette activation constante, pratiquée quotidiennement pendant quelques minutes seulement, renforce progressivement la stabilité de votre tronc et contribue à la réduction du tour de taille. La clé réside dans la compréhension du mouvement naturel du diaphragme et la manière dont ce mouvement engage toute la chaîne musculaire profonde.

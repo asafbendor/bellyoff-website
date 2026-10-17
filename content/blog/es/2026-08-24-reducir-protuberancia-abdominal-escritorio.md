@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "Reducir la protuberancia abdominal mientras estás sentado es posible mediante la corrección de la postura, ejercicios de respiración consciente y movimiento regular durante el día laboral."
 slug: "reducir-protuberancia-abdominal-escritorio"
+image: "/blog/sitting-posture-desk-belly-3.jpg"
+image_alt: "postura correcta para sentarse: una mujer sentada erguida en un escritorio en casa, pies apoyados en el suelo, el monitor a la altura de los ojos"
+image_caption: "La postura correcta para sentarse decide dónde va el abdomen durante ocho horas al día."
 ---
 
 ## ¿Cómo reducir la protuberancia abdominal mientras trabajas sentado?

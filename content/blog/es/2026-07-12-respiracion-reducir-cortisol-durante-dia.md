@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "Aprende técnicas de respiración científicamente comprobadas para bajar los niveles de cortisol y reducir la acumulación de grasa abdominal en adultos mayores de 40 años."
 slug: "respiracion-reducir-cortisol-durante-dia"
+image: "/blog/breathing-exercises-for-stress.jpg"
+image_alt: "ejercicios de respiración para el estrés: una mujer en un escritorio en casa con el portátil cerrado, ojos cerrados, tomando una respiración lenta"
+image_caption: "Los ejercicios de respiración para el estrés funcionan mejor como pausas cortas repartidas en el día."
 ---
 
 ## ¿Cómo reducir el cortisol con patrones de respiración durante el día?

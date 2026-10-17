@@ -5,6 +5,9 @@ lang: "fr"
 category: "metabolism"
 excerpt: "Découvrez pourquoi faire de l'exercice le matin est la clé pour équilibrer votre cortisol et transformer votre silhouette après 40 ans."
 slug: "exercice-matinal-cortisol-graisse-abdominale"
+image: "/blog/morning-exercise-cortisol.jpg"
+image_alt: "sport le matin: un homme d'une cinquantaine d'années s'étire doucement sur un balcon au lever du soleil"
+image_caption: "Le sport le matin accompagne le pic naturel de cortisol au lieu de le combattre."
 ---
 
 ## Pourquoi l'exercice matinal régule mieux le cortisol ?

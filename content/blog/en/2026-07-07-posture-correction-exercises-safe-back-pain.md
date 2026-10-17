@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Learn which posture correction exercises are safe for back pain, and how to strengthen your core without aggravating existing discomfort."
 slug: "posture-correction-exercises-safe-back-pain"
+image: "/blog/posture-exercises-back-pain.jpg"
+image_alt: "posture exercises for back pain: a man lying on a mat with knees bent, hands supporting his lower back, in a sunny room"
+image_caption: "Posture exercises for back pain stay close to the floor, where the spine is supported."
 ---
 
 ## How to Correct Your Posture When You Have Back Pain

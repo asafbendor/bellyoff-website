@@ -5,6 +5,9 @@ lang: "en"
 category: "mindset"
 excerpt: "After 40, your body stores stress differently, and the abdomen becomes a primary target for cortisol-driven fat accumulation. Understanding this shift is the first step to reclaiming your body."
 slug: "stress-belly-fat-after-40"
+image: "/blog/stress-belly-fat-mind-body-4.jpg"
+image_alt: "stress belly: a woman at a kitchen counter pausing with a hand on her stomach, mid-morning light"
+image_caption: "A stress belly is the body storing a long day where cortisol receptors are densest."
 ---
 
 ## Why Does Stress Accumulate in Your Belly After 40?

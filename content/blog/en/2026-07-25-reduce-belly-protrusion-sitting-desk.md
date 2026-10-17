@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Belly protrusion while sitting is often caused by poor posture and weak core muscles. By adjusting your sitting position, engaging your core, and taking movement breaks throughout the day, you can significantly reduce belly bulge even during your desk hours."
 slug: "reduce-belly-protrusion-sitting-desk"
+image: "/blog/sitting-posture-desk-belly-2.jpg"
+image_alt: "sitting posture: a woman sitting upright at a home desk, feet flat on the floor, the monitor at eye level"
+image_caption: "Sitting posture decides where the belly goes for eight hours a day."
 ---
 
 ## How to Reduce Belly Protrusion While Sitting at a Desk

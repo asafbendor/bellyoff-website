@@ -5,6 +5,9 @@ lang: "ar"
 category: "metabolism"
 excerpt: "تعرف على الفرق بين نوعي الدهون في منطقة البطن وأيهما أكثر خطورة على صحتك."
 slug: "subcutaneous-vs-visceral-belly-fat-ar"
+image: "/blog/subcutaneous-vs-visceral-fat-2.jpg"
+image_alt: "الدهون تحت الجلد: لقطة قريبة لشريط قياس ملفوف بارتخاء حول الخصر فوق قميص سادة"
+image_caption: "الدهون تحت الجلد هي الطبقة التي يمكن قرصها؛ أما الطبقة الأعمق فهي الأهم للصحة."
 ---
 
 ## ما الفرق بين دهون البطن تحت الجلد والدهون الحشوية؟

@@ -5,6 +5,9 @@ lang: "es"
 category: "movement"
 excerpt: "Durante 30 días de ejercicio consistente con BellyOff, verás cambios progresivos en tu energía, postura y composición corporal, con resultados más notables a partir de la segunda semana."
 slug: "30-dias-reduccion-vientre-que-esperar"
+image: "/blog/30-day-belly-challenge-2.jpg"
+image_alt: "reto de 30 días: un calendario de pared con un bolígrafo colgado al lado y una esterilla enrollada apoyada en la pared debajo"
+image_caption: "Un reto de 30 días funciona cuando cada semana pide un poco más que la anterior, nunca mucho más."
 ---
 
 ## ¿Qué esperar en 30 días de reducción de vientre? Semana a semana

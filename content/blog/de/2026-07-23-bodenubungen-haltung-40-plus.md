@@ -5,6 +5,9 @@ lang: "de"
 category: "posture"
 excerpt: "Bodengestützte Haltungsübungen sind ideal für Menschen über 40, da sie die Wirbelsäule stabilisieren, ohne übermäßige Belastung zu erzeugen. Mit den richtigen Techniken können diese Übungen täglich sicher durchgeführt werden."
 slug: "bodenubungen-haltung-40-plus"
+image: "/blog/floor-exercises-posture-40-2.jpg"
+image_alt: "Bodenübungen: ein Mann macht eine sanfte Brücke auf einer Matte auf Holzboden in einem hellen Raum"
+image_caption: "Bodenübungen lassen den Körper Haltung lernen, während die Wirbelsäule voll gestützt ist."
 ---
 
 ## Wie führe ich sichere Bodenübungen für die Körperhaltung ab 40 Jahren durch?

@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "La inclinación pélvica anterior empuja los órganos internos hacia adelante, creando una apariencia de vientre prominente incluso sin exceso de grasa. Corregir la alineación pélvica es clave para reducir la protuberancia abdominal."
 slug: "inclinacion-pelvica-anterior-vientre-protuberancia"
+image: "/blog/anterior-pelvic-tilt-belly-2.jpg"
+image_alt: "anteversión pélvica: una mujer de cuarenta y tantos de perfil frente a una pared lisa, una mano en la zona lumbar, revisando su postura"
+image_caption: "La anteversión pélvica empuja el abdomen hacia delante aunque haya poca grasa."
 ---
 
 ## ¿Cómo la inclinación pélvica anterior causa protuberancia abdominal?

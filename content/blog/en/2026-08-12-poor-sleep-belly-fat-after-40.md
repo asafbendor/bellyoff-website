@@ -5,6 +5,9 @@ lang: "en"
 category: "mindset"
 excerpt: "Poor sleep disrupts hormones that control hunger and fat storage, making your body more likely to accumulate belly fat after 40. Understanding this connection is the first step to reclaiming your health."
 slug: "poor-sleep-belly-fat-after-40"
+image: "/blog/lack-of-sleep-belly-fat-2.jpg"
+image_alt: "lack of sleep weight gain: an unmade bed in soft early morning light, a bedside lamp and a glass of water on the nightstand"
+image_caption: "Lack of sleep and weight gain are linked through cortisol that never gets to fall at night."
 ---
 
 ## Why Does Poor Sleep Cause Belly Fat After 40?

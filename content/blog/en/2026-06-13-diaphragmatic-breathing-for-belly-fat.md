@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "Diaphragmatic breathing activates the deepest abdominal muscle and lowers cortisol - making it one of the most effective tools for belly reduction after 40."
 slug: "diaphragmatic-breathing-for-belly-fat"
+image: "/blog/diaphragmatic-breathing-deep-core.jpg"
+image_alt: "diaphragmatic breathing: a woman lying on a yoga mat in a bright living room, one hand on her chest and one on her belly, breathing calmly"
+image_caption: "Diaphragmatic breathing wakes up the deep core from the inside, without a single crunch."
 ---
 
 Diaphragmatic breathing reduces belly fat after 40 by activating the transverse abdominis and lowering cortisol - two mechanisms that conventional exercise programs consistently miss.

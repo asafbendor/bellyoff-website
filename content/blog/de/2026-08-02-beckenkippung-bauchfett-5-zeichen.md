@@ -5,6 +5,9 @@ lang: "de"
 category: "posture"
 excerpt: "Eine fehlerhafte Beckenkippung ist einer der Hauptgründe, warum der Bauch auch bei trainierenden Menschen über 40 hervorsteht. Erfahre, wie du die 5 Warnsignale erkennst."
 slug: "beckenkippung-bauchfett-5-zeichen"
+image: "/blog/pelvic-tilt-symptoms-belly-2.jpg"
+image_alt: "Hohlkreuz Symptome: eine Frau steht im Profil am Fenster, die Hände in den Hüften, mit leichtem Hohlkreuz"
+image_caption: "Hohlkreuz-Symptome zeigen sich im Spiegel, bevor sie als Schmerz auftreten."
 ---
 
 ## Wie erkennst du, dass deine Beckenkippung deinen Bauch verursacht?

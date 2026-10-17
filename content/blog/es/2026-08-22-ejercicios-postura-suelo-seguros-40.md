@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "Los ejercicios de postura en el suelo son ideales para fortalecer la espalda y reducir la barriga en adultos mayores de 40 años, siempre que se realicen correctamente y con progresión gradual."
 slug: "ejercicios-postura-suelo-seguros-40"
+image: "/blog/floor-exercises-posture-40-3.jpg"
+image_alt: "ejercicios en el suelo: un hombre haciendo un puente suave en una esterilla sobre suelo de madera en una habitación luminosa"
+image_caption: "Los ejercicios en el suelo permiten que el cuerpo aprenda postura con la columna totalmente apoyada."
 ---
 
 ## ¿Cómo hacer ejercicios de postura en el suelo seguros después de los 40?

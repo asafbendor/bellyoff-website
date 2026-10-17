@@ -5,6 +5,9 @@ lang: "es"
 category: "movement"
 excerpt: "Durante 30 días de entrenamiento consistente con BellyOff, verás cambios progresivos cada semana: desde mayor conciencia corporal hasta visibilidad de resultados físicos reales."
 slug: "reduccion-vientre-30-dias-semana-semana"
+image: "/blog/30-day-belly-challenge-3.jpg"
+image_alt: "reto de 30 días: un calendario de pared con un bolígrafo colgado al lado y una esterilla enrollada apoyada en la pared debajo"
+image_caption: "Un reto de 30 días funciona cuando cada semana pide un poco más que la anterior, nunca mucho más."
 ---
 
 ## ¿Qué esperar en tu reducción de vientre en 30 días? Semana a semana

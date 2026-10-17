@@ -5,6 +5,9 @@ lang: "fr"
 category: "metabolism"
 excerpt: "Le système lymphatique évacue les déchets et le liquide des tissus, et il ralentit avec l'âge. Voici comment cela se traduit par un ventre plus plein après 40 ans, et ce qui le remet vraiment en mouvement."
 slug: "systeme-lymphatique-graisse-abdominale-40"
+image: "/blog/lymphatic-drainage-belly-fat-3.jpg"
+image_alt: "drainage lymphatique: une femme se masse doucement le cou et la clavicule, une serviette sur l'épaule"
+image_caption: "Le drainage lymphatique déplace le liquide qui fait paraître le ventre plus gros qu'il n'est."
 ---
 
 ## Comment le système lymphatique agit-il sur la graisse abdominale après 40 ans ?

@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "The vagus nerve plays a surprising role in belly fat reduction by regulating metabolism, reducing inflammation, and controlling appetite through the gut-brain connection."
 slug: "vagus-nerve-belly-fat-reduction"
+image: "/blog/vagus-nerve-belly-fat.jpg"
+image_alt: "vagus nerve: a woman sitting cross-legged on a sofa with eyes closed, one hand resting on her upper chest"
+image_caption: "The vagus nerve is the switch a long exhale flips from stress to recovery."
 ---
 
 ## How Does the Vagus Nerve Help Reduce Belly Fat?

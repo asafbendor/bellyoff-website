@@ -5,6 +5,9 @@ lang: "fr"
 category: "breathing"
 excerpt: "Le transverse abdominis est le muscle profond qui maintient votre ventre rentré naturellement. Découvrez pourquoi il est essentiel pour réduire le tour de taille après 40 ans."
 slug: "transverse-abdominis-ventre-plat"
+image: "/blog/transverse-abdominis-exercises-5.jpg"
+image_alt: "transverse abdominal exercices: gros plan d'une femme assise sur un tapis, une main posée sur le bas du ventre, une plante et une fenêtre derrière elle"
+image_caption: "Les exercices du transverse abdominal commencent par une main sur le ventre et une expiration lente, pas par un crunch."
 ---
 
 ## Qu'est-ce que le transverse abdominis et pourquoi l'ignorer vous coûte cher ?

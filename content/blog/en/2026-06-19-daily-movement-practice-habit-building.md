@@ -5,6 +5,9 @@ lang: "en"
 category: "mindset"
 excerpt: "Building a sustainable daily movement habit requires starting small, removing friction, and understanding your personal motivation. Most people fail because they aim too high too fast, not because they lack discipline."
 slug: "daily-movement-practice-habit-building"
+image: "/blog/daily-exercise-habit-that-sticks.jpg"
+image_alt: "daily exercise habit: a woman rolling out a yoga mat in the same corner of her living room, a plant and a window beside her"
+image_caption: "A daily exercise habit sticks when it is short, in the same place, at the same time."
 ---
 
 ## How to Build a Daily Movement Practice That Actually Sticks After 40

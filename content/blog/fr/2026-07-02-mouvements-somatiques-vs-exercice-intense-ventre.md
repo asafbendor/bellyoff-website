@@ -5,6 +5,9 @@ lang: "fr"
 category: "movement"
 excerpt: "Les mouvements somatiques et l'exercice intense offrent deux approches différentes pour la réduction de la graisse du ventre. Découvrez laquelle convient le mieux à votre corps après 40 ans."
 slug: "mouvements-somatiques-vs-exercice-intense-ventre"
+image: "/blog/somatic-exercise-vs-hiit.jpg"
+image_alt: "exercices somatiques: une femme effectue un mouvement lent et doux au sol sur un tapis dans le salon, détendue, à la lumière du jour"
+image_caption: "Les exercices somatiques réduisent le ventre sans le pic de cortisol d'un entraînement intense."
 ---
 
 ## Lequel choisir pour réduire la graisse abdominale : mouvements somatiques ou exercices intense ?

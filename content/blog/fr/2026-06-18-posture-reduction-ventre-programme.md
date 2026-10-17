@@ -5,6 +5,9 @@ lang: "fr"
 category: "posture"
 excerpt: "La posture est souvent négligée dans les programmes de réduction du ventre, mais elle joue un rôle crucial dans l'activation des muscles profonds et l'amélioration de votre silhouette."
 slug: "posture-reduction-ventre-programme"
+image: "/blog/posture-and-belly-fat.jpg"
+image_alt: "posture et ventre: un homme debout, bien droit et de profil dans un salon, épaules détendues, aligne sa posture"
+image_caption: "Posture et ventre sont liés : alignez la colonne et le ventre paraît déjà plus petit."
 ---
 
 ## Pourquoi la posture est l'élément manquant dans la plupart des programmes de réduction du ventre?

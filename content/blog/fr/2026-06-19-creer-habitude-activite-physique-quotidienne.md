@@ -5,6 +5,9 @@ lang: "fr"
 category: "mindset"
 excerpt: "Découvrez comment construire une pratique de mouvement durable en 10 minutes par jour, même si vous avez plus de 40 ans et une vie chargée."
 slug: "creer-habitude-activite-physique-quotidienne"
+image: "/blog/daily-exercise-habit-that-sticks.jpg"
+image_alt: "habitude de sport quotidien: une femme déroule un tapis de yoga dans le même coin de son salon, une plante et une fenêtre à côté"
+image_caption: "Une habitude de sport quotidien tient quand elle est courte, au même endroit, à la même heure."
 ---
 
 La clé pour créer une habitude d'activité physique durable repose sur trois principes fondamentaux : commencer petit, être cohérent et adapter la pratique à votre mode de vie. Pour les adultes de 40 ans et plus, il est essentiel de choisir une activité que vous appréciez réellement et de l'intégrer dans votre routine existante plutôt que de créer une nouvelle routine séparée. Commencez avec seulement 10 minutes par jour. Une pratique courte et régulière surpasse toujours une séance longue et occasionnelle. Fixez-vous un moment précis de la journée, comme le matin avant le café ou pendant la pause déjeuner. Enfin, soyez patient avec vous-même : il faut environ 21 jours pour que le cerveau commence à reconnaître un nouveau comportement, et 66 jours pour qu'il devienne automatique.

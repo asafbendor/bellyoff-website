@@ -5,6 +5,9 @@ lang: "de"
 category: "movement"
 excerpt: "Somatisches Gehen ist eine bewusste Bewegungspraxis, die Körperwahrnehmung mit gezieltem Training verbindet und besonders für Menschen ab 40 Jahren eine effektive Methode zur Bauchreduktion darstellt."
 slug: "somatisches-gehen-bauchreduktion"
+image: "/blog/walking-to-lose-belly-fat-2.jpg"
+image_alt: "Spazierengehen gegen Bauchfett: ein Paar mittleren Alters geht entspannt einen baumgesäumten Weg entlang, im späten Nachmittagslicht"
+image_caption: "Spazierengehen gegen Bauchfett wirkt, weil es Cortisol senkt statt erhöht."
 ---
 
 ## Wie funktioniert Somatisches Gehen für die Bauchreduktion?

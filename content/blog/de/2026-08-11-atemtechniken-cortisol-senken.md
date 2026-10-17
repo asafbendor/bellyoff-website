@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Gezielte Atemtechniken sind eines der wirksamsten Werkzeuge, um den Cortisolspiegel zu senken und den Bauchspeck zu reduzieren. Mit einfachen, täglich anwendbaren Methoden können Sie Ihren Stress regulieren und Ihren Körper in einen entspannteren Zustand versetzen."
 slug: "atemtechniken-cortisol-senken"
+image: "/blog/breathing-exercises-for-stress-2.jpg"
+image_alt: "Atemübungen gegen Stress: eine Frau am Schreibtisch zu Hause, Laptop zugeklappt, Augen geschlossen, atmet langsam"
+image_caption: "Atemübungen gegen Stress wirken am besten als kurze Pausen über den Tag verteilt."
 ---
 
 ## Wie senke ich meinen Cortisolspiegel durch richtige Atemtechniken?

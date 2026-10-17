@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "After 40, your body's hormonal shifts make it easier to gain belly fat, especially the dangerous visceral kind. Learn the science behind this change and what you can do about it."
 slug: "visceral-fat-hormonal-decline-after-40"
+image: "/blog/visceral-fat-after-40-2.jpg"
+image_alt: "visceral fat: a woman in her forties looking thoughtfully into a bathroom mirror, one hand on her waist"
+image_caption: "Visceral fat grows after 40 as estrogen and testosterone fall and cortisol sensitivity rises."
 ---
 
 After age 40, many people notice belly fat accumulates more easily, even without major changes to diet or exercise. This isn't vanity or coincidence - it's hormonal. Your body produces less estrogen, testosterone, and growth hormone, while stress hormones like cortisol rise. These shifts trigger your metabolism to slow and your body to preferentially store fat around your midsection, particularly as visceral fat. Visceral fat is the dangerous kind that surrounds your organs and increases disease risk. Understanding this science helps you take action. The good news is that targeted daily movement, combined with hormonal awareness, can reverse this trend.

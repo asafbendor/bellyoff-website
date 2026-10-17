@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "Discover how to engage your deepest abdominal muscle using breathing, posture, and gentle movement - no painful crunches required."
 slug: "activate-transverse-abdominis-without-crunches"
+image: "/blog/transverse-abdominis-exercises-2.jpg"
+image_alt: "transverse abdominis exercises: close-up of a woman seated on a mat with a hand resting on her lower belly, a plant and a window behind her"
+image_caption: "Transverse abdominis exercises start with a hand on the belly and a slow exhale, not a crunch."
 ---
 
 The transverse abdominis (TVA) is your body's natural corset: a deep abdominal muscle that wraps around your midsection and supports your spine. Unlike the six-pack rectus abdominis that crunches target, your TVA works best when activated through breath control and mindful tension rather than repetitive flexion. To activate it without crunches, focus on exhaling while gently drawing your belly toward your spine, maintaining upright posture throughout the day, and performing low-impact exercises that engage the core without spinal compression. These methods are safer for adults 40 and older, reduce injury risk, and create lasting core strength that shows real results for belly reduction.

@@ -29,7 +29,16 @@ export async function generateMetadata({
       title: post.title,
       description: post.excerpt,
       type: 'article',
-      images: [{ url: 'https://bellyoff.app/images/og-image.png', width: 1200, height: 630 }],
+      // The post's own photo for shared links; the site card only for a post without one.
+      images: post.image
+        ? [{ url: `https://bellyoff.app${post.image}`, width: 1200, height: 800, alt: post.imageAlt }]
+        : [{ url: 'https://bellyoff.app/images/og-image.png', width: 1200, height: 630 }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: post.title,
+      description: post.excerpt,
+      images: post.image ? [`https://bellyoff.app${post.image}`] : ['https://bellyoff.app/images/og-image.png'],
     },
   };
 }
@@ -46,16 +55,28 @@ export default async function BlogPostPage({
 
   const tr = t(lang);
   const isRTL = RTL_LANGS.includes(lang);
-  const heroImage = categoryImage(post.category);
+  const heroImage = post.image ?? categoryImage(post.category);
 
   const articleSchema = {
     '@context': 'https://schema.org',
-    '@type': 'Article',
+    '@type': 'BlogPosting',
     headline: post.title,
     description: post.excerpt,
     datePublished: post.date,
     inLanguage: lang,
-    image: `https://bellyoff.app${heroImage}`,
+    mainEntityOfPage: `https://bellyoff.app/${lang}/blog/${slug}/`,
+    // The post's photo as an ImageObject with its caption, so image search
+    // ties the picture to this page; the drawn category image otherwise.
+    image: post.image
+      ? {
+          '@type': 'ImageObject',
+          url: `https://bellyoff.app${post.image}`,
+          contentUrl: `https://bellyoff.app${post.image}`,
+          width: 1200,
+          height: 800,
+          caption: post.imageCaption || post.imageAlt,
+        }
+      : `https://bellyoff.app${heroImage}`,
     publisher: {
       '@type': 'Organization',
       name: 'BellyOff',
@@ -84,10 +105,22 @@ export default async function BlogPostPage({
 
       <section className="bg-[#0D0F14] pb-2">
         <div className="max-w-3xl mx-auto px-4">
-          <div className="aspect-[1200/630] rounded-2xl overflow-hidden border border-white/5">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={heroImage} alt={post.title} className="w-full h-full object-cover" />
-          </div>
+          {post.image ? (
+            <figure className="post-hero">
+              <div className="aspect-[3/2] rounded-2xl overflow-hidden border border-white/5">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={post.image} alt={post.imageAlt} width={1200} height={800} fetchPriority="high" decoding="async" className="w-full h-full object-cover" />
+              </div>
+              {post.imageCaption && (
+                <figcaption className="text-[13px] text-[#8A8A9A] mt-2" dir={isRTL ? 'rtl' : 'ltr'}>{post.imageCaption}</figcaption>
+              )}
+            </figure>
+          ) : (
+            <div className="aspect-[1200/630] rounded-2xl overflow-hidden border border-white/5">
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={heroImage} alt={post.title} className="w-full h-full object-cover" />
+            </div>
+          )}
         </div>
       </section>
 

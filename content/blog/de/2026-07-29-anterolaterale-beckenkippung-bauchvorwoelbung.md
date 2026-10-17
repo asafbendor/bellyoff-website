@@ -5,6 +5,9 @@ lang: "de"
 category: "posture"
 excerpt: "Anterolaterale Beckenkippung ist eine häufige Haltungsstörung, die den Bauch unnötig hervortreten lässt. Durch die Korrektur dieser Beckenhaltung können Menschen über 40 ihre Bauchkontur verbessern und ihre Kernstabilität erhöhen."
 slug: "anterolaterale-beckenkippung-bauchvorwoelbung"
+image: "/blog/anterior-pelvic-tilt-belly-2.jpg"
+image_alt: "Hohlkreuz: eine Frau in den Vierzigern steht im Profil vor einer glatten Wand, eine Hand am unteren Rücken, prüft ihre Haltung"
+image_caption: "Ein Hohlkreuz drückt den Bauch nach vorne, auch wenn kaum Fett da ist."
 ---
 
 ## Wie anterolaterale Beckenkippung zu Bauchvorwölbung führt

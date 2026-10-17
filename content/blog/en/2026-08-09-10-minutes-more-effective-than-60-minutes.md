@@ -5,6 +5,9 @@ lang: "en"
 category: "movement"
 excerpt: "Short, focused workouts align better with how bodies over 40 respond to exercise. Learn why quality beats quantity when reducing belly fat."
 slug: "10-minutes-more-effective-than-60-minutes"
+image: "/blog/10-minute-workout-after-40-2.jpg"
+image_alt: "10 minute workout: a kitchen timer and a rolled yoga mat on a wooden floor, a pair of sneakers beside them"
+image_caption: "A 10 minute workout done daily beats an hour the body is too stressed to finish."
 ---
 
 ## Why Is 10 Minutes More Effective Than 60 Minutes for the 40+ Body?

@@ -5,6 +5,9 @@ lang: "fr"
 category: "posture"
 excerpt: "Les exercices de posture au sol sont parfaits pour renforcer votre ceinture abdominale et améliorer votre alignement. Découvrez des mouvements adaptés et sécuritaires pour votre corps à 40 ans et plus."
 slug: "exercices-posture-sol-40-ans"
+image: "/blog/floor-exercises-posture-40.jpg"
+image_alt: "exercices au sol: un homme fait un pont doux sur un tapis posé sur un parquet, dans une pièce lumineuse"
+image_caption: "Les exercices au sol laissent le corps apprendre la posture avec la colonne entièrement soutenue."
 ---
 
 Les exercices de posture au sol offrent une solution douce et efficace pour renforcer votre sangle abdominale après 40 ans. Ces mouvements, pratiqués régulièrement sur un tapis confortable, aident à redresser votre silhouette, à réduire les tensions dorsales et à tonifier votre ventre sans impact articulaire excessif. Contrairement aux exercices dynamiques intenses, les exercices de posture au sol mettent l'accent sur l'alignement correct du corps, l'engagement des muscles profonds et la conscience corporelle. Ils sont particulièrement adaptés aux personnes de 40 ans et plus, car ils respectent les limites des articulations tout en offrant des bénéfices durables. BellyOff intègre ces principes fondamentaux dans son approche en trois phases, en commençant par la respiration consciente avant de progresser vers des mouvements posturaux plus complexes.

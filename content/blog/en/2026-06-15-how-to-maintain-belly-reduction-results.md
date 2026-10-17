@@ -5,6 +5,9 @@ lang: "en"
 category: "movement"
 excerpt: "Achieving a flatter belly is one thing - keeping those results is another. Learn the science-backed strategies to lock in your progress and build lasting habits that stick."
 slug: "how-to-maintain-belly-reduction-results"
+image: "/blog/keep-belly-fat-off-long-term.jpg"
+image_alt: "how to keep weight off: a tape measure and a small notebook on a kitchen table, an apple and a glass of water beside them"
+image_caption: "How to keep weight off: a short daily practice outlasts any program with an end date."
 ---
 
 # How to Maintain Your Belly Reduction Results Long-Term

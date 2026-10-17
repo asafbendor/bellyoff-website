@@ -5,6 +5,9 @@ lang: "de"
 category: "movement"
 excerpt: "In 30 Tagen kontinuierlichen Trainings mit BellyOff sehen Sie messbare Veränderungen: verbesserte Körperhaltung ab Woche 1, sichtbare Muskelaktivierung ab Woche 2, und deutliche Umfangsreduktion ab Woche 3."
 slug: "30-tage-bauchreduktion-wochenweise-erwartungen"
+image: "/blog/30-day-belly-challenge-3.jpg"
+image_alt: "30 Tage Challenge: ein Wandkalender mit einem Stift daneben und einer zusammengerollten Yogamatte, die darunter an der Wand lehnt"
+image_caption: "Eine 30-Tage-Challenge funktioniert, wenn jede Woche ein wenig mehr verlangt als die letzte, nie viel mehr."
 ---
 
 ## Was kann ich in 30 Tagen bei täglichem Bauchtraining erwarten?

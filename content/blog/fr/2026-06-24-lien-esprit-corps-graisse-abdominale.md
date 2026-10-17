@@ -5,6 +5,9 @@ lang: "fr"
 category: "mindset"
 excerpt: "Le stress chronique et les pensées négatives activent des mécanismes hormonaux qui favorisent l'accumulation de graisse au niveau du ventre. Comprendre cette connexion est essentiel pour réduire efficacement votre tour de taille après 40 ans."
 slug: "lien-esprit-corps-graisse-abdominale"
+image: "/blog/stress-belly-fat-mind-body.jpg"
+image_alt: "ventre de stress: une femme au plan de travail de la cuisine marque une pause, une main sur le ventre, lumière de milieu de matinée"
+image_caption: "Le ventre de stress, c'est le corps qui stocke une longue journée là où les récepteurs au cortisol sont les plus denses."
 ---
 
 ## Comment le lien esprit-corps influence-t-il le stockage des graisses abdominales ?

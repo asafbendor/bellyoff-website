@@ -5,6 +5,9 @@ lang: "es"
 category: "metabolism"
 excerpt: "El ejercicio matutino regula los niveles de cortisol, la hormona del estrés, lo que facilita la pérdida de grasa abdominal en adultos mayores de 40 años."
 slug: "ejercicio-matutino-cortisol-grasa-abdominal"
+image: "/blog/morning-exercise-cortisol-2.jpg"
+image_alt: "ejercicio por la mañana: un hombre de cincuenta y tantos haciendo un estiramiento suave en el balcón al amanecer"
+image_caption: "El ejercicio por la mañana acompaña el pico natural de cortisol en lugar de luchar contra él."
 ---
 
 ## ¿Cómo el ejercicio matutino ayuda a controlar el cortisol?

@@ -5,6 +5,9 @@ lang: "fr"
 category: "movement"
 excerpt: "La marche somatique est une pratique oubliée qui combine conscience corporelle et mouvement doux pour réduire la graisse abdominale chez les adultes de 40 ans et plus."
 slug: "marche-somatique-reduction-ventre"
+image: "/blog/walking-to-lose-belly-fat-2.jpg"
+image_alt: "marcher pour perdre du ventre: un couple d'âge mûr marche d'un pas tranquille sur un chemin bordé d'arbres, lumière de fin d'après-midi"
+image_caption: "Marcher pour perdre du ventre fonctionne parce que cela abaisse le cortisol au lieu de l'augmenter."
 ---
 
 ## Qu'est-ce que la marche somatique et pourquoi elle réduit le ventre ?

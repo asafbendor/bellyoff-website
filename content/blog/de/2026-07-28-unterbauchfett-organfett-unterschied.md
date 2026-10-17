@@ -5,6 +5,9 @@ lang: "de"
 category: "metabolism"
 excerpt: "Es gibt zwei Arten von Bauchfett mit sehr unterschiedlichen Auswirkungen auf die Gesundheit. Erfahren Sie, warum Organfett besonders problematisch ist und wie Sie gezielt dagegen vorgehen können."
 slug: "unterbauchfett-organfett-unterschied"
+image: "/blog/subcutaneous-vs-visceral-fat-2.jpg"
+image_alt: "subkutanes Fett: Nahaufnahme eines locker um die Taille gelegten Maßbands über einem schlichten Oberteil"
+image_caption: "Subkutanes Fett ist die Schicht, die man greifen kann; die tiefere Schicht ist die, die für die Gesundheit zählt."
 ---
 
 ## Was ist der Unterschied zwischen Unterbauchfett und Organfett?

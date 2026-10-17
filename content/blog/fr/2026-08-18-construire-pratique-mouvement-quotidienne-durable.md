@@ -5,6 +5,9 @@ lang: "fr"
 category: "mindset"
 excerpt: "Découvrez comment établir une routine d'exercice durable en 10 minutes par jour pour réduire la graisse abdominale après 40 ans."
 slug: "construire-pratique-mouvement-quotidienne-durable"
+image: "/blog/daily-exercise-habit-that-sticks-3.jpg"
+image_alt: "habitude de sport quotidien: une femme déroule un tapis de yoga dans le même coin de son salon, une plante et une fenêtre à côté"
+image_caption: "Une habitude de sport quotidien tient quand elle est courte, au même endroit, à la même heure."
 ---
 
 ## Comment construire une pratique quotidienne du mouvement qui dure ?

@@ -5,6 +5,9 @@ lang: "es"
 category: "movement"
 excerpt: "Descubre estrategias efectivas para preservar tus logros en la reducción abdominal después de comenzar con entrenamientos regulares."
 slug: "mantener-resultados-reduccion-abdominal"
+image: "/blog/keep-belly-fat-off-long-term-2.jpg"
+image_alt: "mantener el peso después de la dieta: una cinta métrica y una libreta pequeña sobre la mesa de la cocina, una manzana y un vaso de agua al lado"
+image_caption: "Mantener el peso después de la dieta: una práctica diaria corta dura más que cualquier programa con fecha de fin."
 ---
 
 ## ¿Cómo mantener los resultados de tus prácticas de reducción abdominal?

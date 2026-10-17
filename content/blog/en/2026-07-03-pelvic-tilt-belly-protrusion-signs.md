@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Poor pelvic alignment creates an anterior pelvic tilt that pushes your belly forward and makes your stomach appear larger than it actually is. Recognizing the signs of pelvic misalignment is the first step toward correcting your posture and reducing that stubborn belly bulge."
 slug: "pelvic-tilt-belly-protrusion-signs"
+image: "/blog/pelvic-tilt-symptoms-belly.jpg"
+image_alt: "pelvic tilt symptoms: a woman standing in profile by a window with hands on her hips, a slight sway in her lower back"
+image_caption: "Pelvic tilt symptoms show up in the mirror before they show up as pain."
 ---
 
 ## How Can Pelvic Tilt Cause Your Belly to Protrude?

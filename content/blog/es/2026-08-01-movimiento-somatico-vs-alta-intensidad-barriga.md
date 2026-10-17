@@ -5,6 +5,9 @@ lang: "es"
 category: "movement"
 excerpt: "El movimiento somático y el ejercicio de alta intensidad ofrecen beneficios diferentes para la reducción abdominal. Descubre cuál es más efectivo para tu edad y necesidades."
 slug: "movimiento-somatico-vs-alta-intensidad-barriga"
+image: "/blog/somatic-exercise-vs-hiit-2.jpg"
+image_alt: "ejercicios somáticos: una mujer haciendo un movimiento lento y suave en una esterilla en el salón, relajada, con luz de día"
+image_caption: "Los ejercicios somáticos reducen el abdomen sin el pico de cortisol de un entrenamiento duro."
 ---
 
 ## ¿Movimiento somático o ejercicio de alta intensidad para reducir la barriga?

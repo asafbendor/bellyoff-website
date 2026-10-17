@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "After 40, your metabolism doesn't just mysteriously slow down - specific biological changes shift how your body burns calories and stores fat. Understanding these changes helps you work with your body, not against it."
 slug: "metabolism-slows-after-40-science"
+image: "/blog/slow-metabolism-after-40.jpg"
+image_alt: "slow metabolism after 40: a plate with grilled fish, roasted vegetables and a small portion of rice on a wooden table"
+image_caption: "A slow metabolism after 40 is mostly lost muscle, and muscle can be rebuilt gently."
 ---
 
 After 40, your metabolism doesn't just mysteriously slow down. Instead, specific biological changes shift how your body burns calories, stores fat, and responds to exercise. The good news: these changes are predictable, and knowing what's happening puts you back in control.

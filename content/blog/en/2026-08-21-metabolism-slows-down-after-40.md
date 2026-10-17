@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "Your metabolism doesn't simply \"slow down\" after 40 - specific physiological changes occur that make maintaining muscle and managing weight harder. Understanding these shifts helps you work with your body instead of against it."
 slug: "metabolism-slows-down-after-40"
+image: "/blog/slow-metabolism-after-40-3.jpg"
+image_alt: "slow metabolism after 40: a plate with grilled fish, roasted vegetables and a small portion of rice on a wooden table"
+image_caption: "A slow metabolism after 40 is mostly lost muscle, and muscle can be rebuilt gently."
 ---
 
 ## What Actually Slows Down in Your Metabolism After 40?

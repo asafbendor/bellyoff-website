@@ -5,6 +5,9 @@ lang: "he"
 category: "breathing"
 excerpt: "השריר הרוחבי הוא השריר העמוק ביותר בחלקו הקדמי של הבטן, וגם הוא המפתח לשטיחת בטן אמיתית שמרבית התוכניות מתעלמות ממנו."
 slug: "transverse-abdominis-muscle-belly-flattening"
+image: "/blog/transverse-abdominis-exercises-5.jpg"
+image_alt: "שריר הבטן הרוחבי: תקריב של אישה יושבת על מזרן עם יד מונחת על הבטן התחתונה, צמח וחלון מאחוריה"
+image_caption: "שריר הבטן הרוחבי מתעורר עם יד על הבטן ונשיפה איטית, לא עם כפיפת בטן."
 ---
 
 ## מהו השריר הרוחבי של הבטן?

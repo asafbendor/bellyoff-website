@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "Morning workouts regulate cortisol, your stress hormone, which directly impacts belly fat storage. Starting your day with movement sets your metabolism up for success and helps you manage weight more effectively after 40."
 slug: "morning-exercise-cortisol-belly-fat"
+image: "/blog/morning-exercise-cortisol-2.jpg"
+image_alt: "morning exercise: a man in his fifties doing a gentle stretch on an apartment balcony at sunrise"
+image_caption: "Morning exercise works with the natural cortisol peak instead of fighting it."
 ---
 
 ## How Does Morning Exercise Help Control Cortisol and Reduce Belly Fat?

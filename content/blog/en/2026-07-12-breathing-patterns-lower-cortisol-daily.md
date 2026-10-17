@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "Chronic stress and elevated cortisol are linked to belly fat accumulation in adults over 40. Strategic breathing patterns activate your parasympathetic nervous system, naturally lowering cortisol and supporting sustainable weight management."
 slug: "breathing-patterns-lower-cortisol-daily"
+image: "/blog/breathing-exercises-for-stress.jpg"
+image_alt: "breathing exercises for stress: a woman at a home desk with the laptop closed, eyes closed, taking a slow breath"
+image_caption: "Breathing exercises for stress work best as short breaks spread through the day."
 ---
 
 ## How to Lower Cortisol Through Breathing: Simple Patterns for Daily Stress Relief

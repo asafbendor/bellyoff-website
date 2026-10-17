@@ -5,6 +5,9 @@ lang: "es"
 category: "mindset"
 excerpt: "La conexión entre la mente y el cuerpo es más fuerte de lo que imaginas. El estrés crónico dispara la producción de cortisol, una hormona que favorece la acumulación de grasa en el abdomen, especialmente después de los 40 años."
 slug: "mente-cuerpo-grasa-abdominal"
+image: "/blog/stress-belly-fat-mind-body.jpg"
+image_alt: "estrés y grasa abdominal: una mujer en la encimera de la cocina, detenida un instante con una mano en el estómago, luz de media mañana"
+image_caption: "El estrés y la grasa abdominal se unen donde los receptores de cortisol son más densos."
 ---
 
 El estrés mental y el almacenamiento de grasa abdominal están directamente conectados a través de procesos hormonales y neurológicos complejos. Cuando experimentas estrés crónico, tu cuerpo libera cortisol, una hormona del estrés que señala al organismo almacenar energía en forma de grasa, particularmente alrededor del abdomen. Esta respuesta es un mecanismo evolutivo de supervivencia, pero en la vida moderna crea un ciclo perjudicial. Para combatir esto, es fundamental abordar tanto la salud mental como la física mediante técnicas de respiración, conciencia corporal y movimiento regular. Entender esta conexión es el primer paso para transformar tu relación con la grasa abdominal y lograr cambios duraderos en tu cuerpo.

@@ -5,6 +5,9 @@ lang: "de"
 category: "metabolism"
 excerpt: "Nach 40 ist Bauchfett kein Kalorienproblem - es ist ein Cortisol-, Haltungs- und Hormondproblem. Das sagt die Wissenschaft, und das funktioniert wirklich."
 slug: "warum-bauchfett-nach-40-anders-ist"
+image: "/blog/visceral-fat-after-40.jpg"
+image_alt: "viszerales Fett: eine Frau in den Vierzigern blickt nachdenklich in den Badezimmerspiegel, eine Hand an der Taille"
+image_caption: "Viszerales Fett nimmt nach 40 zu, wenn Östrogen und Testosteron sinken und die Cortisolempfindlichkeit steigt."
 ---
 
 Nach 40 ist Bauchfett kein Kalorienproblem - es ist ein Cortisol-, Haltungs- und Hormondproblem. Das ist der Grund, warum der Standardrat (weniger essen, mehr bewegen, Sit-ups machen) für Menschen in ihren 40ern und 50ern so konsequent scheitert.

@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "La inclinación pélvica anterior es una de las causas más comunes de protuberancia abdominal en adultos mayores de 40 años. Descubre cinco señales clave que indican que tu postura pélvica podría ser la culpable de tu barriga."
 slug: "inclinacion-pelvica-vientre-sobresaliente"
+image: "/blog/pelvic-tilt-symptoms-belly-3.jpg"
+image_alt: "síntomas de anteversión pélvica: una mujer de perfil junto a una ventana con las manos en las caderas, una ligera curva en la zona lumbar"
+image_caption: "Los síntomas de anteversión pélvica se ven en el espejo antes de sentirse como dolor."
 ---
 
 ## ¿Cómo saber si tu inclinación pélvica está causando que tu vientre sobresalga?

@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Desk workers can reduce belly protrusion through proper posture, breathing techniques, and micro-movements throughout the day. Small changes to your sitting habits make a significant difference in core engagement and overall appearance."
 slug: "reduce-belly-protrusion-desk-sitting"
+image: "/blog/sitting-posture-desk-belly-3.jpg"
+image_alt: "sitting posture: a woman sitting upright at a home desk, feet flat on the floor, the monitor at eye level"
+image_caption: "Sitting posture decides where the belly goes for eight hours a day."
 ---
 
 ## How to Reduce Belly Protrusion While Sitting at a Desk

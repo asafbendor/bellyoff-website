@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "Your lymphatic system plays a crucial role in reducing belly fat after 40. Understanding how it works can help you lose weight more effectively."
 slug: "lymphatic-system-belly-fat-after-40"
+image: "/blog/lymphatic-drainage-belly-fat-2.jpg"
+image_alt: "lymphatic drainage: a woman doing gentle self-massage along her neck and collarbone, a towel over her shoulder"
+image_caption: "Lymphatic drainage moves fluid that makes the belly look bigger than it is."
 ---
 
 ## How Does Your Lymphatic System Affect Belly Fat After 40?

@@ -5,6 +5,9 @@ lang: "fr"
 category: "posture"
 excerpt: "Découvrez les exercices de posture au sol adaptés aux corps de plus de 40 ans, conçus pour renforcer votre sangle abdominale et améliorer votre alignement sans risque de blessure."
 slug: "exercices-posture-sol-40-ans"
+image: "/blog/floor-exercises-posture-40-2.jpg"
+image_alt: "exercices au sol: un homme fait un pont doux sur un tapis posé sur un parquet, dans une pièce lumineuse"
+image_caption: "Les exercices au sol laissent le corps apprendre la posture avec la colonne entièrement soutenue."
 ---
 
 ## Comment pratiquer des exercices de posture au sol sécuritaires après 40 ans ?

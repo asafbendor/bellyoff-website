@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Der Transversus abdominis ist der tiefste Bauchmuskel und wirkt wie ein natürliches Korsett. Die meisten Bauchtrainingsprogramme ignorieren ihn, obwohl gezielte Übungen und richtige Atmung diesen Muskel aktivieren und den Bauch sichtbar straffen können."
 slug: "transversus-abdominis-bauchmuskel-trainieren"
+image: "/blog/transverse-abdominis-exercises-5.jpg"
+image_alt: "Transversus abdominis Übungen: Nahaufnahme einer Frau, die auf einer Matte sitzt, eine Hand auf dem Unterbauch, Pflanze und Fenster im Hintergrund"
+image_caption: "Transversus-abdominis-Übungen beginnen mit einer Hand auf dem Bauch und einer langsamen Ausatmung, nicht mit einem Crunch."
 ---
 
 ## Wie trainiere ich den Transversus abdominis für einen flacheren Bauch?

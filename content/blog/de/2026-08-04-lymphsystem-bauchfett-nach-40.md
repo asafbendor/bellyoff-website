@@ -5,6 +5,9 @@ lang: "de"
 category: "metabolism"
 excerpt: "Das Lymphsystem spielt eine wichtige Rolle bei der Stoffwechselgesundheit und kann beeinflussen, wie der Körper Fett speichert und abbaut, besonders ab Mitte 40."
 slug: "lymphsystem-bauchfett-nach-40"
+image: "/blog/lymphatic-drainage-belly-fat-2.jpg"
+image_alt: "Lymphdrainage: eine Frau massiert sanft Hals und Schlüsselbein, ein Handtuch über der Schulter"
+image_caption: "Lymphdrainage bewegt Flüssigkeit, die den Bauch größer wirken lässt, als er ist."
 ---
 
 ## Wie beeinflusst das Lymphsystem die Bauchfettansammlung nach 40?

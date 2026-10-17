@@ -5,6 +5,9 @@ lang: "fr"
 category: "breathing"
 excerpt: "Le nerf vague joue un rôle clé dans la digestion, le métabolisme et la gestion du stress. En l'activant par des techniques de respiration spécifiques, on peut réduire efficacement la graisse du ventre et améliorer sa santé globale après 40 ans."
 slug: "nerf-vague-reduction-graisse-abdominale"
+image: "/blog/vagus-nerve-belly-fat-2.jpg"
+image_alt: "nerf vague: une femme assise en tailleur sur un canapé, yeux fermés, une main posée sur le haut de la poitrine"
+image_caption: "Le nerf vague est l'interrupteur qu'une longue expiration fait passer du stress à la récupération."
 ---
 
 ## Comment le nerf vague aide-t-il à réduire la graisse abdominale ?

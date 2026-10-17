@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "Deep breathing naturally lengthens your spine, engages core muscles, and realigns your shoulders by filling your lungs fully and activating stabilizing muscles you don't typically use during shallow breathing."
 slug: "deep-breathing-posture-improvement"
+image: "/blog/deep-breathing-benefits-posture.jpg"
+image_alt: "deep breathing benefits: a woman lying on her back on a mat with a cushion under her knees, breathing calmly"
+image_caption: "Deep breathing benefits posture first: the ribs settle, and the spine follows."
 ---
 
 Deep breathing improves posture without conscious effort because it activates your diaphragm and engages core stabilizer muscles that support spinal alignment. When you breathe deeply, your rib cage expands, your spine naturally lengthens, and your shoulders roll back into proper position. This happens automatically, without the need to think about standing taller or pulling your shoulders back. Over time, these physiological changes create lasting postural improvements, especially important for adults over 40 whose posture tends to decline with sedentary habits and muscle loss.

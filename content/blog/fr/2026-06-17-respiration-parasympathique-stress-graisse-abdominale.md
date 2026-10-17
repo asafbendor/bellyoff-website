@@ -5,6 +5,9 @@ lang: "fr"
 category: "breathing"
 excerpt: "La respiration parasympathique active votre système nerveux calme, réduisant le cortisol et la graisse du ventre. Découvrez comment l'intégrer à votre routine quotidienne."
 slug: "respiration-parasympathique-stress-graisse-abdominale"
+image: "/blog/parasympathetic-breathing-stress.jpg"
+image_alt: "système nerveux parasympathique: une femme assise sur un banc de parc, yeux fermés, expire lentement, des arbres flous derrière elle"
+image_caption: "Le système nerveux parasympathique prend le relais dès que l'expiration devient plus longue que l'inspiration."
 ---
 
 ## Comment la respiration parasympathique réduit le stress et la graisse abdominale ?

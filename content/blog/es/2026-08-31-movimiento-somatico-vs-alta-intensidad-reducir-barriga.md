@@ -5,6 +5,9 @@ lang: "es"
 category: "movement"
 excerpt: "Descubre cuál enfoque es más efectivo para reducir grasa abdominal en adultos mayores de 40 años: el movimiento somático consciente o el entrenamiento de alta intensidad."
 slug: "movimiento-somatico-vs-alta-intensidad-reducir-barriga"
+image: "/blog/somatic-exercise-vs-hiit-3.jpg"
+image_alt: "ejercicios somáticos: una mujer haciendo un movimiento lento y suave en una esterilla en el salón, relajada, con luz de día"
+image_caption: "Los ejercicios somáticos reducen el abdomen sin el pico de cortisol de un entrenamiento duro."
 ---
 
 ## ¿Movimiento somático o ejercicio de alta intensidad? La respuesta para después de los 40

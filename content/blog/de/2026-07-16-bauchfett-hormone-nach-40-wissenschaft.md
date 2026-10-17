@@ -5,6 +5,9 @@ lang: "de"
 category: "metabolism"
 excerpt: "Nach dem 40. Lebensjahr verändern sich Hormone und der Stoffwechsel - das führt zu vermehrtem Bauchfett. Verstehen Sie, warum das passiert und was Sie dagegen tun können."
 slug: "bauchfett-hormone-nach-40-wissenschaft"
+image: "/blog/visceral-fat-after-40-3.jpg"
+image_alt: "viszerales Fett: eine Frau in den Vierzigern blickt nachdenklich in den Badezimmerspiegel, eine Hand an der Taille"
+image_caption: "Viszerales Fett nimmt nach 40 zu, wenn Östrogen und Testosteron sinken und die Cortisolempfindlichkeit steigt."
 ---
 
 ## Die direkte Antwort: Warum Bauchfett nach 40 zunimmt

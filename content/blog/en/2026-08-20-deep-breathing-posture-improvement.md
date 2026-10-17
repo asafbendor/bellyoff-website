@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "Deep breathing naturally elongates your spine and engages your core muscles, correcting slouching and improving posture automatically, even while you're sitting at your desk."
 slug: "deep-breathing-posture-improvement"
+image: "/blog/deep-breathing-benefits-posture-3.jpg"
+image_alt: "deep breathing benefits: a woman lying on her back on a mat with a cushion under her knees, breathing calmly"
+image_caption: "Deep breathing benefits posture first: the ribs settle, and the spine follows."
 ---
 
 ## How Does Deep Breathing Improve Your Posture Without Conscious Effort?

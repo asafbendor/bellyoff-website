@@ -5,6 +5,9 @@ lang: "es"
 category: "mindset"
 excerpt: "Descubre las estrategias clave para establecer un hábito de ejercicio sostenible que se adapte a tu vida después de los 40."
 slug: "crear-practica-movimiento-diaria-sostenible"
+image: "/blog/daily-exercise-habit-that-sticks-2.jpg"
+image_alt: "hábito de ejercicio diario: una mujer desenrollando una esterilla en el mismo rincón del salón, una planta y una ventana al lado"
+image_caption: "Un hábito de ejercicio diario se mantiene cuando es corto, en el mismo sitio y a la misma hora."
 ---
 
 ## ¿Cómo crear una práctica diaria de movimiento que perdure?

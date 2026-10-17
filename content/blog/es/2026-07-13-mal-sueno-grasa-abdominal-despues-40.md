@@ -5,6 +5,9 @@ lang: "es"
 category: "mindset"
 excerpt: "La falta de sueño de calidad acelera la acumulación de grasa en el vientre en adultos mayores de 40 años debido a cambios hormonales y metabólicos que ocurren durante la noche."
 slug: "mal-sueno-grasa-abdominal-despues-40"
+image: "/blog/lack-of-sleep-belly-fat.jpg"
+image_alt: "falta de sueño y aumento de peso: una cama deshecha con luz suave de primera hora, una lámpara y un vaso de agua en la mesilla"
+image_caption: "La falta de sueño y el aumento de peso se unen por un cortisol que nunca llega a bajar de noche."
 ---
 
 ## ¿Por qué el mal sueño aumenta la grasa abdominal después de los 40?

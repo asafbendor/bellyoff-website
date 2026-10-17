@@ -5,6 +5,9 @@ lang: "fr"
 category: "breathing"
 excerpt: "Le transverse de l'abdomen est le muscle profond qui maintient naturellement votre ventre rentré. Découvrez pourquoi la plupart des programmes d'entraînement l'ignorent et comment BellyOff le cible en 10 minutes par jour."
 slug: "transverse-abdomen-ventre-plat"
+image: "/blog/transverse-abdominis-exercises.jpg"
+image_alt: "transverse abdominal exercices: gros plan d'une femme assise sur un tapis, une main posée sur le bas du ventre, une plante et une fenêtre derrière elle"
+image_caption: "Les exercices du transverse abdominal commencent par une main sur le ventre et une expiration lente, pas par un crunch."
 ---
 
 ## Comment renforcer le transverse de l'abdomen pour un ventre plat?

@@ -5,6 +5,9 @@ lang: "fr"
 category: "breathing"
 excerpt: "La respiration diaphragmatique engage directement les muscles profonds de la sangle abdominale, notamment le transverse de l'abdomen, en créant une pression intra-abdominale contrôlée qui renforce naturellement votre corset musculaire."
 slug: "respiration-diaphragmatique-core-profond"
+image: "/blog/diaphragmatic-breathing-deep-core-3.jpg"
+image_alt: "respiration diaphragmatique: une femme allongée sur un tapis de yoga dans un salon lumineux, une main sur la poitrine et une sur le ventre, respire calmement"
+image_caption: "La respiration diaphragmatique réveille le centre profond de l'intérieur, sans un seul crunch."
 ---
 
 ## Comment la respiration diaphragmatique active-t-elle le noyau profond ?

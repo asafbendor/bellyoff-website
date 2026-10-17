@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "Deep breathing naturally aligns your spine and engages core muscles, improving posture automatically. This effortless shift happens because proper breathing activates stabilizer muscles you don't usually notice."
 slug: "deep-breathing-improves-posture-naturally"
+image: "/blog/deep-breathing-benefits-posture-2.jpg"
+image_alt: "deep breathing benefits: a woman lying on her back on a mat with a cushion under her knees, breathing calmly"
+image_caption: "Deep breathing benefits posture first: the ribs settle, and the spine follows."
 ---
 
 ## How Deep Breathing Improves Your Posture Without Conscious Effort

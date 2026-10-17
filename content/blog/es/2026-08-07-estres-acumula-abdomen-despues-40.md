@@ -5,6 +5,9 @@ lang: "es"
 category: "mindset"
 excerpt: "Después de los 40 años, el estrés crónico se deposita específicamente en la zona abdominal debido a cambios hormonales y patrones de respiración alterados. Entender este mecanismo es el primer paso para reducir la grasa visceral y recuperar tu bienestar."
 slug: "estres-acumula-abdomen-despues-40"
+image: "/blog/stress-belly-fat-mind-body-4.jpg"
+image_alt: "estrés y grasa abdominal: una mujer en la encimera de la cocina, detenida un instante con una mano en el estómago, luz de media mañana"
+image_caption: "El estrés y la grasa abdominal se unen donde los receptores de cortisol son más densos."
 ---
 
 ## ¿Por qué el estrés se acumula en el abdomen después de los 40?

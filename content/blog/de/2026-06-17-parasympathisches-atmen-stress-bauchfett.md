@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Parasympathisches Atmen aktiviert das Nervensystem, das Stress abbaut und den Körper in einen Zustand versetzt, der Bauchfettabbau unterstützt."
 slug: "parasympathisches-atmen-stress-bauchfett"
+image: "/blog/parasympathetic-breathing-stress.jpg"
+image_alt: "Parasympathikus aktivieren: eine Frau sitzt mit geschlossenen Augen auf einer Parkbank und atmet langsam aus, Bäume unscharf im Hintergrund"
+image_caption: "Den Parasympathikus aktivieren heißt: Die Ausatmung wird länger als die Einatmung."
 ---
 
 ## Wie funktioniert parasympathisches Atmen zur Stressabbau und Bauchfettreduktion?

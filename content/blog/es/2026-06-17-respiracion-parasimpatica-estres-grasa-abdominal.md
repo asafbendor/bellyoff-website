@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "La respiración parasimpática activa el sistema nervioso de descanso, reduce el cortisol y facilita la pérdida de grasa abdominal. Aprende técnicas simples que puedes practicar en 10 minutos diarios."
 slug: "respiracion-parasimpatica-estres-grasa-abdominal"
+image: "/blog/parasympathetic-breathing-stress.jpg"
+image_alt: "sistema nervioso parasimpático: una mujer sentada en un banco del parque con los ojos cerrados, exhalando despacio, árboles desenfocados detrás"
+image_caption: "El sistema nervioso parasimpático toma el mando en cuanto la exhalación se alarga más que la inhalación."
 ---
 
 ## ¿Cómo la respiración parasimpática reduce el estrés y la grasa abdominal?

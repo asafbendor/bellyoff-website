@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "La postura correcta es fundamental para reducir el vientre, pero la mayoría de los programas la ignoran. Descubre cómo alinear tu cuerpo puede transformar tus resultados."
 slug: "postura-clave-reduccion-vientre"
+image: "/blog/posture-and-belly-fat-2.jpg"
+image_alt: "postura y abdomen: un hombre de pie, erguido y de perfil en el salón, hombros relajados, alineando su postura"
+image_caption: "Postura y abdomen van unidos: alinea la columna y el vientre ya parece más pequeño."
 ---
 
 ## ¿Por qué la postura es la pieza clave que falta en los programas de reducción de vientre?

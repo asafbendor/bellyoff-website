@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "Las rutinas de respiración nocturna ayudan a reducir el cortisol y preparar el cuerpo para dormir mejor. Aprende técnicas simples que puedes hacer en 10 minutos antes de acostarte."
 slug: "respiracion-nocturna-cortisol-recuperacion"
+image: "/blog/breathing-exercises-for-sleep-2.jpg"
+image_alt: "ejercicios de respiración para dormir: un dormitorio en penumbra por la noche, una mujer sentada en la cama con los ojos cerrados respirando despacio, una lámpara cálida al lado"
+image_caption: "Los ejercicios de respiración para dormir llevan el cortisol a su punto más bajo del día, donde debe estar de noche."
 ---
 
 ## ¿Cómo usar rutinas de respiración nocturna para recuperarte del cortisol?

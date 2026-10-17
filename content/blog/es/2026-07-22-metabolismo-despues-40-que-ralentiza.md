@@ -5,6 +5,9 @@ lang: "es"
 category: "metabolism"
 excerpt: "Después de los 40, el metabolismo se ralentiza principalmente por la pérdida de masa muscular y cambios hormonales, no simplemente por envejecer. Entender estos cambios es clave para mantener un peso saludable."
 slug: "metabolismo-despues-40-que-ralentiza"
+image: "/blog/slow-metabolism-after-40-2.jpg"
+image_alt: "metabolismo lento después de los 40: un plato con pescado a la plancha, verduras asadas y una ración pequeña de arroz sobre una mesa de madera"
+image_caption: "El metabolismo lento después de los 40 es sobre todo músculo perdido, y el músculo se recupera con suavidad."
 ---
 
 ## ¿Qué ralentiza realmente el metabolismo después de los 40?

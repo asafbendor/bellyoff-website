@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "The transverse abdominis is your deepest core muscle, and it's the key to a flatter belly. You can activate it through breathing, posture, and mindful movement - no crunches required."
 slug: "activate-transverse-abdominis-without-crunches"
+image: "/blog/transverse-abdominis-exercises-4.jpg"
+image_alt: "transverse abdominis exercises: close-up of a woman seated on a mat with a hand resting on her lower belly, a plant and a window behind her"
+image_caption: "Transverse abdominis exercises start with a hand on the belly and a slow exhale, not a crunch."
 ---
 
 ## Answer: The Direct Path to Core Activation

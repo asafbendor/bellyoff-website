@@ -5,6 +5,9 @@ lang: "fr"
 category: "breathing"
 excerpt: "Les routines de respiration du soir aident à réduire le cortisol en activant le système nerveux parasympathique. Découvrez comment intégrer ces techniques simples à votre soirée pour favoriser la récupération et réduire le ventre."
 slug: "routines-respiration-soir-cortisol-recovery"
+image: "/blog/breathing-exercises-for-sleep.jpg"
+image_alt: "exercices de respiration pour dormir: une chambre tamisée le soir, une femme assise sur le lit, yeux fermés, respire lentement, une lampe chaude à côté d'elle"
+image_caption: "Les exercices de respiration pour dormir amènent le cortisol à son point le plus bas, là où il doit être la nuit."
 ---
 
 ## Comment utiliser les routines de respiration du soir pour réduire le cortisol ?

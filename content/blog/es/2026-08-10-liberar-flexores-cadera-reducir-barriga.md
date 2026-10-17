@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "Liberar los flexores de cadera tensos es una estrategia clave para reducir la barriga, mejorar la postura y activar el core profundo en adultos mayores de 40 años."
 slug: "liberar-flexores-cadera-reducir-barriga"
+image: "/blog/hip-flexor-stretch-belly-2.jpg"
+image_alt: "estiramiento flexores de cadera: un hombre haciendo una zancada baja para estirar los flexores de cadera en una esterilla junto a una ventana"
+image_caption: "El estiramiento de los flexores de cadera deja que la pelvis vuelva atrás, y el abdomen vuelve con ella."
 ---
 
 ## ¿Cómo liberar los flexores de cadera para reducir la barriga?

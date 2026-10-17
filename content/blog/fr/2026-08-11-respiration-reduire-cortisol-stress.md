@@ -5,6 +5,9 @@ lang: "fr"
 category: "breathing"
 excerpt: "Découvrez comment maîtriser votre respiration pour abaisser naturellement votre cortisol, diminuer le stress viscéral et retrouver un ventre plus plat."
 slug: "respiration-reduire-cortisol-stress"
+image: "/blog/breathing-exercises-for-stress-2.jpg"
+image_alt: "exercices de respiration anti-stress: une femme à un bureau à la maison, ordinateur fermé, yeux clos, prend une respiration lente"
+image_caption: "Les exercices de respiration anti-stress agissent le mieux en courtes pauses réparties dans la journée."
 ---
 
 ## Comment réduire le cortisol par des techniques de respiration simples ?

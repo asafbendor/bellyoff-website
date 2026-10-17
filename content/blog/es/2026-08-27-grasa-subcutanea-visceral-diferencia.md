@@ -5,6 +5,9 @@ lang: "es"
 category: "metabolism"
 excerpt: "La grasa subcutánea se encuentra bajo la piel, mientras que la grasa visceral rodea los órganos internos. Comprender esta diferencia es clave para reducir eficazmente la grasa abdominal después de los 40."
 slug: "grasa-subcutanea-visceral-diferencia"
+image: "/blog/subcutaneous-vs-visceral-fat-3.jpg"
+image_alt: "grasa subcutánea: primer plano de una cinta métrica rodeando sin apretar una cintura sobre una camiseta lisa"
+image_caption: "La grasa subcutánea es la capa que se puede pellizcar; la capa profunda es la que importa para la salud."
 ---
 
 ## ¿Cuál es la diferencia entre grasa subcutánea y visceral?

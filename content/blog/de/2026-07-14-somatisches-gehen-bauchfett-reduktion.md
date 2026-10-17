@@ -5,6 +5,9 @@ lang: "de"
 category: "movement"
 excerpt: "Somatisches Gehen ist eine vergessene Technik, die Bewusstsein, Atmung und Bewegung verbindet und gezielt beim Bauchfettabbau hilft - besonders für Menschen über 40."
 slug: "somatisches-gehen-bauchfett-reduktion"
+image: "/blog/walking-to-lose-belly-fat.jpg"
+image_alt: "Spazierengehen gegen Bauchfett: ein Paar mittleren Alters geht entspannt einen baumgesäumten Weg entlang, im späten Nachmittagslicht"
+image_caption: "Spazierengehen gegen Bauchfett wirkt, weil es Cortisol senkt statt erhöht."
 ---
 
 ## Wie funktioniert somatisches Gehen zur Bauchfettreduktion?

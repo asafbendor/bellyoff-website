@@ -5,6 +5,9 @@ lang: "en"
 category: "movement"
 excerpt: "Your first month of targeted belly work brings measurable changes, but the timeline matters. Here's exactly what happens each week when you commit to consistent, focused training."
 slug: "30-day-belly-reduction-weekly-expectations"
+image: "/blog/30-day-belly-challenge.jpg"
+image_alt: "30 day challenge: a wall calendar with a pen hanging beside it and a rolled yoga mat leaning on the wall below"
+image_caption: "A 30 day challenge works when every week asks a little more than the last, never a lot more."
 ---
 
 ## What Can You Expect in Your First 30 Days of Belly Reduction?

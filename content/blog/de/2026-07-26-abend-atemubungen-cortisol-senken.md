@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Abendliche Atemroutinen helfen dem Körper, nach einem stressigen Tag herunterzufahren und den Cortisol-Spiegel zu senken - ein wesentlicher Schritt für besseren Schlaf und Bauchfettabbau."
 slug: "abend-atemubungen-cortisol-senken"
+image: "/blog/breathing-exercises-for-sleep-2.jpg"
+image_alt: "Atemübungen zum Einschlafen: ein gedämpft beleuchtetes Schlafzimmer am Abend, eine Frau sitzt mit geschlossenen Augen auf dem Bett und atmet langsam, eine warme Lampe neben ihr"
+image_caption: "Atemübungen zum Einschlafen bringen das Cortisol auf seinen Tiefpunkt, dorthin, wo es nachts hingehört."
 ---
 
 ## Wie senken Atemübungen am Abend den Cortisol-Spiegel?

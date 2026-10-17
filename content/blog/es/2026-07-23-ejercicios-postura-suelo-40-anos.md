@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "Los ejercicios de postura en el suelo son ideales para mayores de 40 años. Descubre cómo realizarlos de forma segura y efectiva para fortalecer tu core y reducir la grasa abdominal."
 slug: "ejercicios-postura-suelo-40-anos"
+image: "/blog/floor-exercises-posture-40-2.jpg"
+image_alt: "ejercicios en el suelo: un hombre haciendo un puente suave en una esterilla sobre suelo de madera en una habitación luminosa"
+image_caption: "Los ejercicios en el suelo permiten que el cuerpo aprenda postura con la columna totalmente apoyada."
 ---
 
 ## ¿Cómo realizar ejercicios de postura en el suelo seguros después de los 40?

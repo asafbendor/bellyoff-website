@@ -5,6 +5,9 @@ lang: "es"
 category: "metabolism"
 excerpt: "Conocer la diferencia entre estos dos tipos de grasa abdominal es clave para entender por qué el vientre es un área problemática después de los 40 años."
 slug: "grasa-subcutanea-vs-visceral-vientre"
+image: "/blog/subcutaneous-vs-visceral-fat-2.jpg"
+image_alt: "grasa subcutánea: primer plano de una cinta métrica rodeando sin apretar una cintura sobre una camiseta lisa"
+image_caption: "La grasa subcutánea es la capa que se puede pellizcar; la capa profunda es la que importa para la salud."
 ---
 
 ## ¿Cuál es la diferencia entre la grasa subcutánea y la grasa visceral del vientre?

@@ -5,6 +5,9 @@ lang: "en"
 category: "mindset"
 excerpt: "After 40, stress doesn't just affect your mood - it physically settles in your abdomen, triggering hormonal changes and stubborn fat storage that younger bodies resist more easily."
 slug: "stress-belly-fat-after-40"
+image: "/blog/stress-belly-fat-mind-body-2.jpg"
+image_alt: "stress belly: a woman at a kitchen counter pausing with a hand on her stomach, mid-morning light"
+image_caption: "A stress belly is the body storing a long day where cortisol receptors are densest."
 ---
 
 ## Why Does Stress Accumulate in Your Belly After 40?

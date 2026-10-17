@@ -5,6 +5,9 @@ lang: "fr"
 category: "posture"
 excerpt: "Les exercices de correction posturale peuvent soulager le mal de dos si on les pratique correctement. Découvrez les mouvements sûrs et efficaces adaptés aux adultes de 40 ans et plus."
 slug: "correction-posture-mal-de-dos-exercices-surs"
+image: "/blog/posture-exercises-back-pain.jpg"
+image_alt: "exercices de posture mal de dos: un homme allongé sur un tapis, genoux fléchis, les mains soutenant le bas du dos, dans une pièce ensoleillée"
+image_caption: "Les exercices de posture contre le mal de dos restent près du sol, là où la colonne est soutenue."
 ---
 
 ## Comment corriger sa posture sans aggraver son mal de dos ?

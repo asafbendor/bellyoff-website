@@ -5,6 +5,9 @@ lang: "de"
 category: "posture"
 excerpt: "Sanfte Haltungskorrektionsübungen können Rückenschmerzen lindern und die Körperhaltung verbessern, ohne den Rücken zu belasten."
 slug: "haltungskorrektur-uebungen-rueckenschmerzen"
+image: "/blog/posture-exercises-back-pain.jpg"
+image_alt: "Haltungsübungen bei Rückenschmerzen: ein Mann liegt mit angewinkelten Knien auf einer Matte, die Hände stützen den unteren Rücken, in einem sonnigen Raum"
+image_caption: "Haltungsübungen bei Rückenschmerzen bleiben nah am Boden, wo die Wirbelsäule gestützt ist."
 ---
 
 ## Wie korrigiere ich meine Körperhaltung sicher bei Rückenschmerzen?

@@ -5,6 +5,9 @@ lang: "en"
 category: "movement"
 excerpt: "Somatic walking combines mindful movement with body awareness to activate deep core muscles and reduce visceral belly fat naturally."
 slug: "somatic-walking-belly-reduction"
+image: "/blog/walking-to-lose-belly-fat-2.jpg"
+image_alt: "walking to lose belly fat: a middle-aged couple walking at a relaxed pace along a tree-lined path, late afternoon light"
+image_caption: "Walking to lose belly fat works because it lowers cortisol instead of raising it."
 ---
 
 ## How Does Somatic Walking Reduce Belly Fat in Adults Over 40?

@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "Diaphragmatic breathing engages your deepest abdominal layers by creating intra-abdominal pressure and coordinating your diaphragm with your transverse abdominis, the muscle most responsible for core stability and belly reduction."
 slug: "diaphragmatic-breathing-deep-core-activation"
+image: "/blog/diaphragmatic-breathing-deep-core-3.jpg"
+image_alt: "diaphragmatic breathing: a woman lying on a yoga mat in a bright living room, one hand on her chest and one on her belly, breathing calmly"
+image_caption: "Diaphragmatic breathing wakes up the deep core from the inside, without a single crunch."
 ---
 
 ## How Does Diaphragmatic Breathing Activate Your Deep Core Muscles?

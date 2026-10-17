@@ -5,6 +5,9 @@ lang: "fr"
 category: "posture"
 excerpt: "Découvrez des exercices de correction posturale sécuritaires, spécialement conçus pour les adultes de 40 ans et plus souffrant de douleurs dorsales."
 slug: "corriger-posture-mal-dos-exercices-securises"
+image: "/blog/posture-exercises-back-pain-2.jpg"
+image_alt: "exercices de posture mal de dos: un homme allongé sur un tapis, genoux fléchis, les mains soutenant le bas du dos, dans une pièce ensoleillée"
+image_caption: "Les exercices de posture contre le mal de dos restent près du sol, là où la colonne est soutenue."
 ---
 
 Les douleurs au dos sont l'une des plaintes les plus courantes chez les adultes de 40 ans et plus. Pourtant, la plupart de ces douleurs peuvent être soulagées ou même prévenues grâce à des exercices de correction posturale adaptés. La clé consiste à progresser lentement, en écoutant son corps, et en se concentrant sur des mouvements qui renforcent les muscles stabilisateurs du tronc sans créer de tension supplémentaire. Dans cet article, nous vous présentons des exercices sécuritaires et efficaces pour améliorer votre posture, réduire les douleurs dorsales, et retrouver une meilleure qualité de vie au quotidien.

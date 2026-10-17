@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Der transversus abdominis ist der tiefste Bauchmuskel und lässt sich am effektivsten durch Atemtechniken und bewusste Körperspannung aktivieren - ohne belastende Crunches."
 slug: "transversus-abdominis-aktivieren-ohne-crunches"
+image: "/blog/transverse-abdominis-exercises-6.jpg"
+image_alt: "Transversus abdominis Übungen: Nahaufnahme einer Frau, die auf einer Matte sitzt, eine Hand auf dem Unterbauch, Pflanze und Fenster im Hintergrund"
+image_caption: "Transversus-abdominis-Übungen beginnen mit einer Hand auf dem Bauch und einer langsamen Ausatmung, nicht mit einem Crunch."
 ---
 
 ## Wie aktivierst du deinen transversus abdominis ohne Crunches?

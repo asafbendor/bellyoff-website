@@ -5,6 +5,9 @@ lang: "es"
 category: "movement"
 excerpt: "Descubre cómo tu cuerpo cambia semana a semana durante un programa de 30 días de ejercicio enfocado en la reducción abdominal, con resultados progresivos y sostenibles."
 slug: "reduccion-vientre-30-dias-que-esperar"
+image: "/blog/30-day-belly-challenge.jpg"
+image_alt: "reto de 30 días: un calendario de pared con un bolígrafo colgado al lado y una esterilla enrollada apoyada en la pared debajo"
+image_caption: "Un reto de 30 días funciona cuando cada semana pide un poco más que la anterior, nunca mucho más."
 ---
 
 ## ¿Qué esperar en tu reducción de vientre durante 30 días?

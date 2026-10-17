@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "Stress hormones like cortisol trigger visceral fat storage around your midsection, especially after 40. Understanding this connection helps you target the real cause of stubborn belly weight."
 slug: "cortisol-belly-fat-connection-after-40"
+image: "/blog/cortisol-belly-fat-after-40.jpg"
+image_alt: "cortisol belly fat: a middle-aged man sitting on the edge of a bed at dawn with a cup of tea, calm, soft window light"
+image_caption: "Cortisol belly fat builds up when the stress hormone stays high from morning to night."
 ---
 
 ## How Does Cortisol Cause Belly Fat After 40?

@@ -5,6 +5,9 @@ lang: "es"
 category: "metabolism"
 excerpt: "Descubre cómo hacer ejercicio por la mañana reduce el cortisol y acelera la pérdida de grasa abdominal en adultos mayores de 40 años."
 slug: "ejercicio-matutino-cortisol-gestion"
+image: "/blog/morning-exercise-cortisol.jpg"
+image_alt: "ejercicio por la mañana: un hombre de cincuenta y tantos haciendo un estiramiento suave en el balcón al amanecer"
+image_caption: "El ejercicio por la mañana acompaña el pico natural de cortisol en lugar de luchar contra él."
 ---
 
 ## ¿Por qué el ejercicio matutino es clave para controlar el cortisol?

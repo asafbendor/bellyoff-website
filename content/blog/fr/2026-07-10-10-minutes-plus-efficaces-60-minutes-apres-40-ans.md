@@ -5,6 +5,9 @@ lang: "fr"
 category: "movement"
 excerpt: "À 40 ans et plus, le corps change. Découvrez pourquoi les séances courtes et ciblées surpassent les longues séances d'exercice pour brûler les graisses abdominales."
 slug: "10-minutes-plus-efficaces-60-minutes-apres-40-ans"
+image: "/blog/10-minute-workout-after-40.jpg"
+image_alt: "exercice 10 minutes: un minuteur de cuisine et un tapis de yoga roulé sur un parquet, une paire de baskets à côté"
+image_caption: "Un exercice de 10 minutes chaque jour vaut mieux qu'une heure que le corps, trop stressé, n'achève pas."
 ---
 
 ## Pourquoi 10 minutes sont plus efficaces que 60 minutes pour le corps après 40 ans ?

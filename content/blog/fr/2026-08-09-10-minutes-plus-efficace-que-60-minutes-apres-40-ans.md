@@ -5,6 +5,9 @@ lang: "fr"
 category: "movement"
 excerpt: "À 40 ans et plus, notre métabolisme change et notre récupération ralentit. Découvrez pourquoi les séances courtes et ciblées surpassent les longs entraînements pour réduire la graisse abdominale."
 slug: "10-minutes-plus-efficace-que-60-minutes-apres-40-ans"
+image: "/blog/10-minute-workout-after-40-2.jpg"
+image_alt: "exercice 10 minutes: un minuteur de cuisine et un tapis de yoga roulé sur un parquet, une paire de baskets à côté"
+image_caption: "Un exercice de 10 minutes chaque jour vaut mieux qu'une heure que le corps, trop stressé, n'achève pas."
 ---
 
 ## Pourquoi 10 minutes suffisent pour transformer votre corps après 40 ans

@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "The transverse abdominis is the deepest core muscle that wraps around your midsection like a corset. Most belly-reduction programs ignore it, but activating this muscle is key to visible results."
 slug: "transverse-abdominis-belly-flattening-muscle"
+image: "/blog/transverse-abdominis-exercises.jpg"
+image_alt: "transverse abdominis exercises: close-up of a woman seated on a mat with a hand resting on her lower belly, a plant and a window behind her"
+image_caption: "Transverse abdominis exercises start with a hand on the belly and a slow exhale, not a crunch."
 ---
 
 ## What Is the Transverse Abdominis and Why Does It Matter?

@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Anterior pelvic tilt pushes your belly forward by tilting your pelvis downward and forward, exaggerating the natural curve of your lower spine and making your stomach appear larger than it actually is."
 slug: "anterior-pelvic-tilt-belly-protrusion"
+image: "/blog/anterior-pelvic-tilt-belly.jpg"
+image_alt: "anterior pelvic tilt: a woman in her forties standing in profile by a plain wall, one hand on her lower back, checking her posture"
+image_caption: "Anterior pelvic tilt pushes the belly forward even when there is little fat to push."
 ---
 
 ## How Does Anterior Pelvic Tilt Cause Belly Protrusion?

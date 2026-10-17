@@ -5,6 +5,9 @@ lang: "de"
 category: "metabolism"
 excerpt: "Nach dem 40. Lebensjahr verändert sich der Körper: Hormonelle Umbrüche fördern die Ansammlung von viszeralem Fett am Bauch. Erfahren Sie, wie diese biologischen Prozesse ablaufen und was Sie dagegen tun können."
 slug: "viszerales-fett-hormone-ab-40"
+image: "/blog/visceral-fat-after-40-4.jpg"
+image_alt: "viszerales Fett: eine Frau in den Vierzigern blickt nachdenklich in den Badezimmerspiegel, eine Hand an der Taille"
+image_caption: "Viszerales Fett nimmt nach 40 zu, wenn Östrogen und Testosteron sinken und die Cortisolempfindlichkeit steigt."
 ---
 
 ## Warum sammelt sich Fett ab 40 vermehrt am Bauch an?

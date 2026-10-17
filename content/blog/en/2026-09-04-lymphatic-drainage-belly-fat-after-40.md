@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "The lymphatic system moves waste and fluid out of your tissues, and it slows with age. Here is how that shows up as a fuller belly after 40, and what actually gets it moving again."
 slug: "lymphatic-drainage-belly-fat-after-40"
+image: "/blog/lymphatic-drainage-belly-fat-3.jpg"
+image_alt: "lymphatic drainage: a woman doing gentle self-massage along her neck and collarbone, a towel over her shoulder"
+image_caption: "Lymphatic drainage moves fluid that makes the belly look bigger than it is."
 ---
 
 ## How Does the Lymphatic System Affect Belly Fat After 40?

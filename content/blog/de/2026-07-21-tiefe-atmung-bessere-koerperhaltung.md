@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Tiefe Atmung aktiviert automatisch die tiefen Bauchmuskelgruppen und unterstützt eine aufrechte Körperhaltung - ohne dass Sie bewusst Ihre Schultern zurückziehen müssen."
 slug: "tiefe-atmung-bessere-koerperhaltung"
+image: "/blog/deep-breathing-benefits-posture-2.jpg"
+image_alt: "tiefes Atmen Wirkung: eine Frau liegt auf dem Rücken auf einer Matte, ein Kissen unter den Knien, atmet ruhig"
+image_caption: "Tiefes Atmen wirkt zuerst auf die Haltung: Die Rippen senken sich, die Wirbelsäule folgt."
 ---
 
 ## Wie tiefe Atemzüge Ihre Körperhaltung ohne Anstrengung verbessern

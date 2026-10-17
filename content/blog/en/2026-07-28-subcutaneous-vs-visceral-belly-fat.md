@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "Belly fat comes in two types: subcutaneous fat under your skin and visceral fat around your organs. Understanding the difference matters for your health, especially after 40."
 slug: "subcutaneous-vs-visceral-belly-fat"
+image: "/blog/subcutaneous-vs-visceral-fat-2.jpg"
+image_alt: "subcutaneous fat: close-up of a tape measure wrapped loosely around a waist over a plain neutral top"
+image_caption: "Subcutaneous fat is the layer you can pinch; the deeper layer is the one that matters for health."
 ---
 
 Belly fat isn't all the same. The fat you can pinch under your skin is subcutaneous fat, while the fat wrapped around your internal organs is visceral fat. This distinction matters significantly for your health, metabolism, and how effectively you can reduce belly weight. Subcutaneous fat is generally less dangerous, though excess amounts can still affect appearance and health. Visceral fat, on the other hand, is metabolically active and linked to serious health risks including heart disease, type 2 diabetes, and inflammation. After 40, understanding where your belly fat sits and how to address it becomes crucial for long-term wellness.

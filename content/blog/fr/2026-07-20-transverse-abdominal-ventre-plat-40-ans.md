@@ -5,6 +5,9 @@ lang: "fr"
 category: "breathing"
 excerpt: "Le transverse abdominal est le muscle profond qui maintient votre ventre rentré naturellement. Découvrez pourquoi la plupart des programmes l'ignorent et comment l'activer efficacement."
 slug: "transverse-abdominal-ventre-plat-40-ans"
+image: "/blog/transverse-abdominis-exercises-3.jpg"
+image_alt: "transverse abdominal exercices: gros plan d'une femme assise sur un tapis, une main posée sur le bas du ventre, une plante et une fenêtre derrière elle"
+image_caption: "Les exercices du transverse abdominal commencent par une main sur le ventre et une expiration lente, pas par un crunch."
 ---
 
 ## Comment activer le transverse abdominal pour un ventre plus plat après 40 ans ?

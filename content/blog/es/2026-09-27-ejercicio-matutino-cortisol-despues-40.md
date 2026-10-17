@@ -5,6 +5,9 @@ lang: "es"
 category: "metabolism"
 excerpt: "El cortisol alcanza su pico en la primera hora después de despertar. Moverse con suavidad por la mañana acompaña ese ritmo natural, ayuda a que el cortisol baje a tiempo y reduce la acumulación de grasa abdominal durante el día."
 slug: "ejercicio-matutino-cortisol-despues-40"
+image: "/blog/morning-exercise-cortisol-3.jpg"
+image_alt: "ejercicio por la mañana: un hombre de cincuenta y tantos haciendo un estiramiento suave en el balcón al amanecer"
+image_caption: "El ejercicio por la mañana acompaña el pico natural de cortisol en lugar de luchar contra él."
 ---
 
 ## ¿Por qué el ejercicio por la mañana es clave para controlar el cortisol después de los 40?

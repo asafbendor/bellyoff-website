@@ -5,6 +5,9 @@ lang: "fr"
 category: "movement"
 excerpt: "Les mouvements somatiques et les exercices intensifs offrent tous deux des bénéfices pour la réduction du ventre, mais ils fonctionnent différemment. Découvrez quelle approche convient le mieux à votre corps après 40 ans."
 slug: "mouvements-somatiques-vs-intensifs-ventre"
+image: "/blog/somatic-exercise-vs-hiit-3.jpg"
+image_alt: "exercices somatiques: une femme effectue un mouvement lent et doux au sol sur un tapis dans le salon, détendue, à la lumière du jour"
+image_caption: "Les exercices somatiques réduisent le ventre sans le pic de cortisol d'un entraînement intense."
 ---
 
 ## Mouvements somatiques ou exercices intensifs : quelle approche choisir pour réduire le ventre ?

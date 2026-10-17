@@ -5,6 +5,9 @@ lang: "de"
 category: "movement"
 excerpt: "Intensives Training über lange Zeit ist für den Körper ab 40 Jahren kontraproduktiv. Kurze, fokussierte Workouts mit gezielten Bewegungen zeigen bessere Ergebnisse für Bauchfettabbau und langfristige Erfolge."
 slug: "10-minuten-effektiver-als-60-minuten-ab-40"
+image: "/blog/10-minute-workout-after-40-2.jpg"
+image_alt: "10 Minuten Training: ein Küchentimer und eine zusammengerollte Yogamatte auf einem Holzboden, daneben ein Paar Turnschuhe"
+image_caption: "Ein tägliches 10-Minuten-Training schlägt eine Stunde, die der Körper vor Stress nicht durchhält."
 ---
 
 ## Warum ist kurzes Training ab 40 Jahren wirkungsvoller?

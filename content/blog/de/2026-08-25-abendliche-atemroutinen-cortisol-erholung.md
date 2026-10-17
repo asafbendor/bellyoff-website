@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Abendliche Atemroutinen reduzieren Cortisol, senken Stress und fördern besseren Schlaf - ideal für alle über 40, die gezielt Bauchfett abbauen möchten."
 slug: "abendliche-atemroutinen-cortisol-erholung"
+image: "/blog/breathing-exercises-for-sleep-3.jpg"
+image_alt: "Atemübungen zum Einschlafen: ein gedämpft beleuchtetes Schlafzimmer am Abend, eine Frau sitzt mit geschlossenen Augen auf dem Bett und atmet langsam, eine warme Lampe neben ihr"
+image_caption: "Atemübungen zum Einschlafen bringen das Cortisol auf seinen Tiefpunkt, dorthin, wo es nachts hingehört."
 ---
 
 ## Wie funktionieren abendliche Atemroutinen bei der Cortisol-Erholung?

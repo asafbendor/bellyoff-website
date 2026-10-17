@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Most belly reduction programs miss a critical factor: posture. Poor alignment weakens core muscles, increases visceral fat storage, and prevents your body from engaging the deep abdominal muscles that flatten your midsection."
 slug: "posture-belly-reduction-missing-piece"
+image: "/blog/posture-and-belly-fat.jpg"
+image_alt: "posture and belly fat: a man standing tall in profile in a living room, shoulders relaxed, stacking his posture"
+image_caption: "Posture and belly fat are tied together: stack the spine and the belly already looks smaller."
 ---
 
 ## How Does Posture Fix Belly Fat When Diet and Exercise Aren't Working?

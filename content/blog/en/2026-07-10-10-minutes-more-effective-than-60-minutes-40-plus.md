@@ -5,6 +5,9 @@ lang: "en"
 category: "movement"
 excerpt: "A focused 10-minute workout aligns with how bodies over 40 actually respond to exercise, delivering better results than longer sessions that drain energy and increase injury risk."
 slug: "10-minutes-more-effective-than-60-minutes-40-plus"
+image: "/blog/10-minute-workout-after-40.jpg"
+image_alt: "10 minute workout: a kitchen timer and a rolled yoga mat on a wooden floor, a pair of sneakers beside them"
+image_caption: "A 10 minute workout done daily beats an hour the body is too stressed to finish."
 ---
 
 ## Why 10 Minutes Works Better for Your Body After 40

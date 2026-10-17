@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "Diaphragmatic breathing engages your deepest abdominal muscles by creating internal pressure and movement that strengthens the core from the inside out, making it essential for effective belly reduction after 40."
 slug: "diaphragmatic-breathing-deep-core-activation"
+image: "/blog/diaphragmatic-breathing-deep-core-2.jpg"
+image_alt: "diaphragmatic breathing: a woman lying on a yoga mat in a bright living room, one hand on her chest and one on her belly, breathing calmly"
+image_caption: "Diaphragmatic breathing wakes up the deep core from the inside, without a single crunch."
 ---
 
 ## How Does Diaphragmatic Breathing Activate Your Deep Core?

@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "Los flexores de cadera tensos contribuyen a la postura encorvada y la acumulación de grasa abdominal. Aprender a liberarlos es clave para mejorar tu postura y reducir el vientre de forma efectiva."
 slug: "liberar-flexores-cadera-reducir-vientre"
+image: "/blog/hip-flexor-stretch-belly.jpg"
+image_alt: "estiramiento flexores de cadera: un hombre haciendo una zancada baja para estirar los flexores de cadera en una esterilla junto a una ventana"
+image_caption: "El estiramiento de los flexores de cadera deja que la pelvis vuelva atrás, y el abdomen vuelve con ella."
 ---
 
 ## ¿Cómo liberar los flexores de cadera para reducir el vientre?

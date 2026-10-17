@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "Parasympathetic breathing activates your body's natural relaxation response, lowering cortisol levels that drive belly fat storage while simultaneously reducing daily stress."
 slug: "parasympathetic-breathing-stress-belly-fat"
+image: "/blog/parasympathetic-breathing-stress.jpg"
+image_alt: "parasympathetic nervous system: a woman sitting on a park bench with eyes closed, exhaling slowly, trees out of focus behind her"
+image_caption: "The parasympathetic nervous system takes over the moment the exhale gets longer than the inhale."
 ---
 
 ## How Can Parasympathetic Breathing Reduce Stress and Belly Fat?

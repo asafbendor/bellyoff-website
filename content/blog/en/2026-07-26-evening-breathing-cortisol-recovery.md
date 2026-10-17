@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "Evening breathing routines activate your parasympathetic nervous system, signaling your body to wind down and lower cortisol levels. This natural stress reduction helps reduce stubborn belly fat, especially for adults over 40."
 slug: "evening-breathing-cortisol-recovery"
+image: "/blog/breathing-exercises-for-sleep-2.jpg"
+image_alt: "breathing exercises for sleep: a dim bedroom in the evening, a woman sitting on the bed with eyes closed breathing slowly, a warm lamp beside her"
+image_caption: "Breathing exercises for sleep bring cortisol to its lowest point of the day, where it belongs at night."
 ---
 
 ## How Evening Breathing Routines Help Lower Cortisol and Reduce Belly Fat

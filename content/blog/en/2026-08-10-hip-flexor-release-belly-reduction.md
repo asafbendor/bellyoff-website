@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Tight hip flexors pull your pelvis forward, creating slouch and belly protrusion. Learning to release them properly can improve posture, reduce belly appearance, and enhance your core stability."
 slug: "hip-flexor-release-belly-reduction"
+image: "/blog/hip-flexor-stretch-belly-2.jpg"
+image_alt: "hip flexor stretch: a man doing a low lunge hip flexor stretch on a mat near a window, shoulders relaxed"
+image_caption: "A hip flexor stretch lets the pelvis drop back, and the belly drops back with it."
 ---
 
 ## How to Release Hip Flexors for Better Posture and Belly Reduction

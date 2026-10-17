@@ -5,6 +5,9 @@ lang: "es"
 category: "metabolism"
 excerpt: "El cortisol elevado tras los 40 años favorece el almacenamiento de grasa en el abdomen. Controlar el estrés mediante ejercicio y técnicas de respiración ayuda a normalizar este hormona y reducir la barriga."
 slug: "cortisol-grasa-abdominal-despues-40"
+image: "/blog/cortisol-belly-fat-after-40-2.jpg"
+image_alt: "cortisol y grasa abdominal: un hombre de mediana edad sentado en el borde de la cama al amanecer con una taza de té, tranquilo, luz suave de la ventana"
+image_caption: "El cortisol y la grasa abdominal van juntos cuando la hormona del estrés se mantiene alta todo el día."
 ---
 
 ## ¿Cómo reduce el cortisol la grasa abdominal después de los 40?

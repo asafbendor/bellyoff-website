@@ -5,6 +5,9 @@ lang: "es"
 category: "movement"
 excerpt: "Descubre estrategias comprobadas para mantener tus resultados de reducción abdominal a largo plazo y evitar que vuelvan los kilos perdidos."
 slug: "mantener-resultados-reduccion-vientre-mayores-40"
+image: "/blog/keep-belly-fat-off-long-term.jpg"
+image_alt: "mantener el peso después de la dieta: una cinta métrica y una libreta pequeña sobre la mesa de la cocina, una manzana y un vaso de agua al lado"
+image_caption: "Mantener el peso después de la dieta: una práctica diaria corta dura más que cualquier programa con fecha de fin."
 ---
 
 ## ¿Cómo mantener los resultados de la reducción de vientre después de los 40?

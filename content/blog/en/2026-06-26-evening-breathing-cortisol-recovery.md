@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "Evening breathing routines can help regulate cortisol levels, your body's stress hormone, which directly impacts belly fat storage. Learn simple techniques to calm your nervous system and support your weight management goals before bed."
 slug: "evening-breathing-cortisol-recovery"
+image: "/blog/breathing-exercises-for-sleep.jpg"
+image_alt: "breathing exercises for sleep: a dim bedroom in the evening, a woman sitting on the bed with eyes closed breathing slowly, a warm lamp beside her"
+image_caption: "Breathing exercises for sleep bring cortisol to its lowest point of the day, where it belongs at night."
 ---
 
 ## How Evening Breathing Routines Lower Cortisol and Support Belly Reduction

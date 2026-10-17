@@ -5,6 +5,9 @@ lang: "fr"
 category: "metabolism"
 excerpt: "Le système lymphatique joue un rôle clé dans l'élimination des toxines et la régulation du métabolisme. Après 40 ans, un système lymphatique ralenti peut contribuer à l'accumulation de graisse au niveau du ventre."
 slug: "systeme-lymphatique-graisse-abdominale-40-ans"
+image: "/blog/lymphatic-drainage-belly-fat.jpg"
+image_alt: "drainage lymphatique: une femme se masse doucement le cou et la clavicule, une serviette sur l'épaule"
+image_caption: "Le drainage lymphatique déplace le liquide qui fait paraître le ventre plus gros qu'il n'est."
 ---
 
 ## Comment le système lymphatique influence-t-il l'accumulation de graisse abdominale après 40 ans ?

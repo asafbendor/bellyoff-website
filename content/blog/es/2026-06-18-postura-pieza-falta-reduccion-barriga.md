@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "La mayoría de programas para reducir la barriga se enfocuan en dieta y ejercicio, pero ignoran un factor fundamental: la postura. Una postura correcta activa los músculos profundos del abdomen, mejora la digestión y transforma tu apariencia en minutos."
 slug: "postura-pieza-falta-reduccion-barriga"
+image: "/blog/posture-and-belly-fat.jpg"
+image_alt: "postura y abdomen: un hombre de pie, erguido y de perfil en el salón, hombros relajados, alineando su postura"
+image_caption: "Postura y abdomen van unidos: alinea la columna y el vientre ya parece más pequeño."
 ---
 
 ## ¿Por qué la postura es la pieza que falta en los programas de reducción de barriga?

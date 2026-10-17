@@ -5,6 +5,9 @@ lang: "es"
 category: "mindset"
 excerpt: "El sueño insuficiente acelera la acumulación de grasa abdominal en adultos mayores de 40 años al alterar los niveles de cortisol e insulina. Descubre cómo mejorar tu descanso y reducir la grasa del vientre."
 slug: "sueno-deficiente-grasa-abdominal-40"
+image: "/blog/lack-of-sleep-belly-fat-2.jpg"
+image_alt: "falta de sueño y aumento de peso: una cama deshecha con luz suave de primera hora, una lámpara y un vaso de agua en la mesilla"
+image_caption: "La falta de sueño y el aumento de peso se unen por un cortisol que nunca llega a bajar de noche."
 ---
 
 ## ¿Cómo afecta el sueño deficiente a la grasa abdominal después de los 40?

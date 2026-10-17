@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "Cortisol peaks in the first hour after waking. Moving gently in the morning works with that natural rhythm, helps cortisol fall on time, and makes belly fat storage less likely for the rest of the day."
 slug: "morning-exercise-cortisol-management"
+image: "/blog/morning-exercise-cortisol-3.jpg"
+image_alt: "morning exercise: a man in his fifties doing a gentle stretch on an apartment balcony at sunrise"
+image_caption: "Morning exercise works with the natural cortisol peak instead of fighting it."
 ---
 
 ## Why does morning exercise matter for cortisol management after 40?

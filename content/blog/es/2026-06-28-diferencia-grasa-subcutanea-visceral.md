@@ -5,6 +5,9 @@ lang: "es"
 category: "metabolism"
 excerpt: "Descubre por qué la grasa visceral es más peligrosa que la subcutánea y cómo reducir ambas tipos con ejercicio específico."
 slug: "diferencia-grasa-subcutanea-visceral"
+image: "/blog/subcutaneous-vs-visceral-fat.jpg"
+image_alt: "grasa subcutánea: primer plano de una cinta métrica rodeando sin apretar una cintura sobre una camiseta lisa"
+image_caption: "La grasa subcutánea es la capa que se puede pellizcar; la capa profunda es la que importa para la salud."
 ---
 
 ## ¿Cuál es la diferencia entre la grasa subcutánea y visceral?

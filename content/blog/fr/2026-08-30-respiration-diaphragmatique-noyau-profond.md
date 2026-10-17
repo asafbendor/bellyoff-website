@@ -5,6 +5,9 @@ lang: "fr"
 category: "breathing"
 excerpt: "La respiration diaphragmatique active les muscles profonds de la sangle abdominale en engageant le diaphragme, ce qui crée une stabilité interne et renforce naturellement le core."
 slug: "respiration-diaphragmatique-noyau-profond"
+image: "/blog/diaphragmatic-breathing-deep-core-4.jpg"
+image_alt: "respiration diaphragmatique: une femme allongée sur un tapis de yoga dans un salon lumineux, une main sur la poitrine et une sur le ventre, respire calmement"
+image_caption: "La respiration diaphragmatique réveille le centre profond de l'intérieur, sans un seul crunch."
 ---
 
 ## Comment la respiration diaphragmatique active-t-elle le noyau profond ?

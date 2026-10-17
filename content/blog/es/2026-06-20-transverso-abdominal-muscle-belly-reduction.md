@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "El transverso abdominal es el músculo más profundo del abdomen y clave para un vientre plano, pero la mayoría de programas de ejercicio lo ignoran. Descubre cómo activarlo correctamente."
 slug: "transverso-abdominal-muscle-belly-reduction"
+image: "/blog/transverse-abdominis-exercises.jpg"
+image_alt: "transverso abdominal ejercicios: primer plano de una mujer sentada en una esterilla con una mano sobre el bajo vientre, una planta y una ventana detrás"
+image_caption: "Los ejercicios de transverso abdominal empiezan con una mano en el vientre y una exhalación lenta, no con un abdominal."
 ---
 
 ## ¿Cómo activar el transverso abdominal para reducir vientre sin hacer crunches?

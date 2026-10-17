@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "Las rutinas de respiración vespertina reducen los niveles de cortisol, el estrés acumulado del día y favorecen la recuperación metabólica necesaria para la reducción de grasa abdominal en adultos mayores de 40 años."
 slug: "respiracion-nocturna-recuperar-cortisol"
+image: "/blog/breathing-exercises-for-sleep.jpg"
+image_alt: "ejercicios de respiración para dormir: un dormitorio en penumbra por la noche, una mujer sentada en la cama con los ojos cerrados respirando despacio, una lámpara cálida al lado"
+image_caption: "Los ejercicios de respiración para dormir llevan el cortisol a su punto más bajo del día, donde debe estar de noche."
 ---
 
 ## ¿Cómo usar rutinas de respiración nocturna para recuperar el equilibrio del cortisol?

@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Floor-based posture exercises offer a low-impact way for adults 40 and older to build core strength and improve alignment without strain on joints."
 slug: "floor-posture-exercises-over-40"
+image: "/blog/floor-exercises-posture-40.jpg"
+image_alt: "floor exercises: a man doing a gentle bridge pose on a mat on a wooden floor in a bright room"
+image_caption: "Floor exercises let the body learn posture with the spine fully supported."
 ---
 
 ## How to Strengthen Your Posture with Floor-Based Exercises Safe for Adults Over 40

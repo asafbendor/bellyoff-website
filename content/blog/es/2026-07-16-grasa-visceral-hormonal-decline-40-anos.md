@@ -5,6 +5,9 @@ lang: "es"
 category: "metabolism"
 excerpt: "Después de los 40, el cuerpo experimenta cambios hormonales que favorecen la acumulación de grasa visceral alrededor de los órganos internos, afectando la salud metabólica y aumentando riesgos cardiovasculares."
 slug: "grasa-visceral-hormonal-decline-40-anos"
+image: "/blog/visceral-fat-after-40-3.jpg"
+image_alt: "grasa visceral: una mujer de cuarenta y tantos mirándose pensativa en el espejo del baño, una mano en la cintura"
+image_caption: "La grasa visceral crece después de los 40 cuando bajan el estrógeno y la testosterona y sube la sensibilidad al cortisol."
 ---
 
 ## ¿Por qué la grasa visceral aumenta después de los 40?

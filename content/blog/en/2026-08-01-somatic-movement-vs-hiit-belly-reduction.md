@@ -5,6 +5,9 @@ lang: "en"
 category: "movement"
 excerpt: "For adults over 40, somatic movement and high-intensity exercise offer different paths to belly reduction. Discover which approach - or combination - works best for your body."
 slug: "somatic-movement-vs-hiit-belly-reduction"
+image: "/blog/somatic-exercise-vs-hiit-2.jpg"
+image_alt: "somatic exercises: a woman doing a slow, gentle floor movement on a mat in a living room, relaxed, daylight"
+image_caption: "Somatic exercises build the belly down without the cortisol spike of a hard workout."
 ---
 
 ## Which Is Better: Somatic Movement or High-Intensity Exercise for Belly Reduction?

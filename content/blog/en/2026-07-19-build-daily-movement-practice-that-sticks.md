@@ -5,6 +5,9 @@ lang: "en"
 category: "mindset"
 excerpt: "Building a sustainable movement habit doesn't require willpower alone. It requires the right structure, environment, and realistic expectations tailored to your life after 40."
 slug: "build-daily-movement-practice-that-sticks"
+image: "/blog/daily-exercise-habit-that-sticks-2.jpg"
+image_alt: "daily exercise habit: a woman rolling out a yoga mat in the same corner of her living room, a plant and a window beside her"
+image_caption: "A daily exercise habit sticks when it is short, in the same place, at the same time."
 ---
 
 ## How to Build a Daily Movement Practice That Actually Sticks

@@ -5,6 +5,9 @@ lang: "en"
 category: "mindset"
 excerpt: "Chronic stress triggers cortisol release, which signals your body to store fat around your midsection. Understanding this mind-body link is key to reducing belly fat effectively."
 slug: "stress-belly-fat-mind-body-connection"
+image: "/blog/stress-belly-fat-mind-body-3.jpg"
+image_alt: "stress belly: a woman at a kitchen counter pausing with a hand on her stomach, mid-morning light"
+image_caption: "A stress belly is the body storing a long day where cortisol receptors are densest."
 ---
 
 ## How Does Stress Affect Belly Fat? Understanding the Mind-Body Connection

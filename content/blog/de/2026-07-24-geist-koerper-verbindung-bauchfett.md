@@ -5,6 +5,9 @@ lang: "de"
 category: "mindset"
 excerpt: "Der Zusammenhang zwischen Stress, Emotionen und Bauchfett ist wissenschaftlich belegt. Wenn wir verstehen, wie unser Geist unseren Körper beeinflusst, können wir gezielter gegen Bauchfett ankämpfen."
 slug: "geist-koerper-verbindung-bauchfett"
+image: "/blog/stress-belly-fat-mind-body-3.jpg"
+image_alt: "Stressbauch: eine Frau an der Küchenzeile hält kurz inne, eine Hand auf dem Bauch, im Vormittagslicht"
+image_caption: "Ein Stressbauch entsteht dort, wo die Cortisolrezeptoren am dichtesten sitzen."
 ---
 
 ## Wie beeinflusst die Geist-Körper-Verbindung die Bauchfetteinlagerung?

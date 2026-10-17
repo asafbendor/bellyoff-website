@@ -5,6 +5,9 @@ lang: "fr"
 category: "posture"
 excerpt: "La libération des fléchisseurs de la hanche améliore la posture, réduit la tension abdominale et facilite l'activation du transverse abdominal pour un ventre plus plat."
 slug: "liberation-flechisseurs-hanche-ventre"
+image: "/blog/hip-flexor-stretch-belly-2.jpg"
+image_alt: "étirement psoas: un homme en fente basse étire ses fléchisseurs de hanche sur un tapis près d'une fenêtre, épaules détendues"
+image_caption: "L'étirement du psoas laisse le bassin revenir en arrière, et le ventre suit."
 ---
 
 ## Comprendre le lien entre les fléchisseurs de la hanche et le ventre

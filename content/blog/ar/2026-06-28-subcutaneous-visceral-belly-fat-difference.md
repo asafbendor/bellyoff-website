@@ -5,6 +5,9 @@ lang: "ar"
 category: "metabolism"
 excerpt: "تعرفوا على الفرق بين نوعي دهون البطن وتأثيرهما على صحتكم، وكيف يمكنكم استهدافهما بفعالية."
 slug: "subcutaneous-visceral-belly-fat-difference"
+image: "/blog/subcutaneous-vs-visceral-fat.jpg"
+image_alt: "الدهون تحت الجلد: لقطة قريبة لشريط قياس ملفوف بارتخاء حول الخصر فوق قميص سادة"
+image_caption: "الدهون تحت الجلد هي الطبقة التي يمكن قرصها؛ أما الطبقة الأعمق فهي الأهم للصحة."
 ---
 
 ## ما الفرق بين دهون البطن تحت الجلد والدهون الحشوية؟

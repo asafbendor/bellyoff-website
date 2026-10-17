@@ -5,6 +5,9 @@ lang: "de"
 category: "metabolism"
 excerpt: "Das Lymphsystem spielt eine zentrale Rolle bei der Fettverbrennung und dem Stoffwechsel. Nach dem 40. Lebensjahr verlangsamt sich die Lymphzirkulation, was zu Bauchfettansammlung führen kann - aber gezielte Bewegung und Atemtechniken können das ändern."
 slug: "lymphsystem-bauchfett-nach-40"
+image: "/blog/lymphatic-drainage-belly-fat.jpg"
+image_alt: "Lymphdrainage: eine Frau massiert sanft Hals und Schlüsselbein, ein Handtuch über der Schulter"
+image_caption: "Lymphdrainage bewegt Flüssigkeit, die den Bauch größer wirken lässt, als er ist."
 ---
 
 ## Wie beeinflusst das Lymphsystem die Bauchfettansammlung nach 40?

@@ -5,6 +5,9 @@ lang: "de"
 category: "movement"
 excerpt: "Erfahren Sie, welche Veränderungen Sie Woche für Woche beim gezielten Bauchtraining erwarten können und wie Sie mit BellyOff nachhaltige Ergebnisse erzielen."
 slug: "30-tage-bauchreduktion-was-erwartet-sie"
+image: "/blog/30-day-belly-challenge-2.jpg"
+image_alt: "30 Tage Challenge: ein Wandkalender mit einem Stift daneben und einer zusammengerollten Yogamatte, die darunter an der Wand lehnt"
+image_caption: "Eine 30-Tage-Challenge funktioniert, wenn jede Woche ein wenig mehr verlangt als die letzte, nie viel mehr."
 ---
 
 ## Was erwartet Sie in den ersten 30 Tagen einer Bauchreduktion?

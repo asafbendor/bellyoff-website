@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Der Vagusnerv spielt eine Schlüsselrolle bei der Bauchfettreduktion, indem er den Stress reduziert und die Verdauung verbessert. Durch gezielte Atemtechniken und Bewegung können Sie diesen wichtigen Nerv aktivieren."
 slug: "vagusnerv-bauchfett-reduktion"
+image: "/blog/vagus-nerve-belly-fat-2.jpg"
+image_alt: "Vagusnerv: eine Frau sitzt im Schneidersitz auf dem Sofa, Augen geschlossen, eine Hand auf der oberen Brust"
+image_caption: "Der Vagusnerv ist der Schalter, den eine lange Ausatmung von Stress auf Erholung umlegt."
 ---
 
 ## Wie aktiviert man den Vagusnerv zur Reduktion von Bauchfett?

@@ -5,6 +5,9 @@ lang: "fr"
 category: "posture"
 excerpt: "Découvrez comment améliorer votre posture au bureau et réduire la protrusion abdominale avec des exercices simples et des ajustements posturaux efficaces."
 slug: "reduire-ventre-assis-bureau"
+image: "/blog/sitting-posture-desk-belly-2.jpg"
+image_alt: "bien s'asseoir au bureau: une femme assise bien droite à un bureau à la maison, pieds à plat, l'écran à hauteur des yeux"
+image_caption: "Bien s'asseoir au bureau décide de la place du ventre pendant huit heures par jour."
 ---
 
 ## Comment réduire la protrusion du ventre en restant assis à un bureau ?

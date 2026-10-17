@@ -5,6 +5,9 @@ lang: "es"
 category: "metabolism"
 excerpt: "El sistema linfático juega un papel crucial en la acumulación de grasa abdominal después de los 40. Descubre cómo activarlo para mejorar tu metabolismo y reducir la barriga."
 slug: "sistema-linfatico-grasa-abdominal-40"
+image: "/blog/lymphatic-drainage-belly-fat-2.jpg"
+image_alt: "drenaje linfático: una mujer haciéndose un suave automasaje en el cuello y la clavícula, con una toalla al hombro"
+image_caption: "El drenaje linfático mueve el líquido que hace que el abdomen parezca más grande de lo que es."
 ---
 
 ## ¿Cómo afecta el sistema linfático a la grasa abdominal después de los 40?

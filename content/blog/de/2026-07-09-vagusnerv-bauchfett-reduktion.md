@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Der Vagusnerv ist ein kraftvoller Regulator des Stoffwechsels und der Stressreaktion. Durch gezielte Atemtechniken und Bewegung können Sie diesen \"Ruhehormon-Schalter\" aktivieren und Bauchfett effizienter reduzieren."
 slug: "vagusnerv-bauchfett-reduktion"
+image: "/blog/vagus-nerve-belly-fat.jpg"
+image_alt: "Vagusnerv: eine Frau sitzt im Schneidersitz auf dem Sofa, Augen geschlossen, eine Hand auf der oberen Brust"
+image_caption: "Der Vagusnerv ist der Schalter, den eine lange Ausatmung von Stress auf Erholung umlegt."
 ---
 
 ## Wie aktiviert der Vagusnerv den Fettabbau am Bauch?

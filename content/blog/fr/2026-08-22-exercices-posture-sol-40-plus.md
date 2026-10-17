@@ -5,6 +5,9 @@ lang: "fr"
 category: "posture"
 excerpt: "Les exercices de posture au sol adaptés aux adultes de 40+ combinent stabilité, sécurité et efficacité pour renforcer le core et réduire la tension abdominale."
 slug: "exercices-posture-sol-40-plus"
+image: "/blog/floor-exercises-posture-40-3.jpg"
+image_alt: "exercices au sol: un homme fait un pont doux sur un tapis posé sur un parquet, dans une pièce lumineuse"
+image_caption: "Les exercices au sol laissent le corps apprendre la posture avec la colonne entièrement soutenue."
 ---
 
 ## Comment pratiquer des exercices de posture au sol sécuritaires après 40 ans?

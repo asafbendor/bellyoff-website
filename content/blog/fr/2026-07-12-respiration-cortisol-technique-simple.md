@@ -5,6 +5,9 @@ lang: "fr"
 category: "breathing"
 excerpt: "Découvrez comment maîtriser votre respiration pour abaisser naturellement votre cortisol et réduire le stress viscéral, même à 40 ans et plus."
 slug: "respiration-cortisol-technique-simple"
+image: "/blog/breathing-exercises-for-stress.jpg"
+image_alt: "exercices de respiration anti-stress: une femme à un bureau à la maison, ordinateur fermé, yeux clos, prend une respiration lente"
+image_caption: "Les exercices de respiration anti-stress agissent le mieux en courtes pauses réparties dans la journée."
 ---
 
 ## Comment réduire le cortisol par des techniques de respiration simples?

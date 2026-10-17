@@ -5,6 +5,9 @@ lang: "de"
 category: "mindset"
 excerpt: "Schlechter Schlaf ist einer der verstecktesten Faktoren für Bauchfettansammlung ab 40. Wer nachts zu wenig oder schlecht schläft, regt den Cortisolspiegel an und verstärkt das Verlangen nach ungesunden Lebensmitteln."
 slug: "schlechter-schlaf-bauchfett-nach-40"
+image: "/blog/lack-of-sleep-belly-fat-2.jpg"
+image_alt: "Schlafmangel Gewichtszunahme: ein ungemachtes Bett im weichen Morgenlicht, Nachttischlampe und ein Glas Wasser auf dem Nachttisch"
+image_caption: "Schlafmangel und Gewichtszunahme hängen über Cortisol zusammen, das nachts nie absinkt."
 ---
 
 ## Warum verschlimmert schlechter Schlaf die Bauchfetteinlagerung nach 40?

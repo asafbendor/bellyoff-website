@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Anterior pelvic tilt shifts your spine forward and pushes your abdominal contents outward, creating the appearance of a larger belly even when you have minimal body fat."
 slug: "anterior-pelvic-tilt-belly-protrusion"
+image: "/blog/anterior-pelvic-tilt-belly-2.jpg"
+image_alt: "anterior pelvic tilt: a woman in her forties standing in profile by a plain wall, one hand on her lower back, checking her posture"
+image_caption: "Anterior pelvic tilt pushes the belly forward even when there is little fat to push."
 ---
 
 ## How Does Anterior Pelvic Tilt Cause Belly Protrusion?

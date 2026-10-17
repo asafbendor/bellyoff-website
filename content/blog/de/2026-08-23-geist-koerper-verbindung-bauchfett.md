@@ -5,6 +5,9 @@ lang: "de"
 category: "mindset"
 excerpt: "Stress, Schlaf und emotionale Belastung beeinflussen direkt, wo und wie der Körper Fett speichert. Die Geist-Körper-Verbindung spielt eine zentrale Rolle bei der Bauchfettreduktion."
 slug: "geist-koerper-verbindung-bauchfett"
+image: "/blog/stress-belly-fat-mind-body-5.jpg"
+image_alt: "Stressbauch: eine Frau an der Küchenzeile hält kurz inne, eine Hand auf dem Bauch, im Vormittagslicht"
+image_caption: "Ein Stressbauch entsteht dort, wo die Cortisolrezeptoren am dichtesten sitzen."
 ---
 
 ## Wie beeinflusst die Geist-Körper-Verbindung die Bauchfetteinlagerung?

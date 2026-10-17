@@ -5,6 +5,9 @@ lang: "de"
 category: "posture"
 excerpt: "Anteriore Beckenneigung ist eine Fehlhaltung, bei der das Becken nach vorne kippt und die Bauchmuskulatur überdehnt wird. Dies führt zu einer sichtbaren Bauchvorwölbung, selbst wenn man nicht übergewichtig ist."
 slug: "anteriore-beckenneigung-bauchvorwolbung"
+image: "/blog/anterior-pelvic-tilt-belly.jpg"
+image_alt: "Hohlkreuz: eine Frau in den Vierzigern steht im Profil vor einer glatten Wand, eine Hand am unteren Rücken, prüft ihre Haltung"
+image_caption: "Ein Hohlkreuz drückt den Bauch nach vorne, auch wenn kaum Fett da ist."
 ---
 
 ## Wie anteriore Beckenneigung zu Bauchvorwölbung führt

@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Zwerchfellatmung ist der Schlüssel zur Aktivierung deiner tiefsten Bauchmuskulatur. Durch bewusstes, tiefes Atmen engagierst du den Transversus abdominis und stabilisierst deinen Kern auf natürliche Weise."
 slug: "zwerchfellatmung-tiefe-bauchmuskulatur"
+image: "/blog/diaphragmatic-breathing-deep-core-3.jpg"
+image_alt: "Zwerchfellatmung: eine Frau liegt auf einer Yogamatte in einem hellen Wohnzimmer, eine Hand auf der Brust, eine auf dem Bauch, atmet ruhig"
+image_caption: "Zwerchfellatmung weckt die tiefe Rumpfmuskulatur von innen, ganz ohne Crunches."
 ---
 
 ## Wie aktiviert Zwerchfellatmung die tiefe Bauchmuskulatur?

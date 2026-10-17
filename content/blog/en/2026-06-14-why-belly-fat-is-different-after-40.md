@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "After 40, belly fat isn't a calorie problem - it's a cortisol, posture, and hormonal problem. Here's what the science says and what actually works."
 slug: "why-belly-fat-is-different-after-40"
+image: "/blog/visceral-fat-after-40.jpg"
+image_alt: "visceral fat: a woman in her forties looking thoughtfully into a bathroom mirror, one hand on her waist"
+image_caption: "Visceral fat grows after 40 as estrogen and testosterone fall and cortisol sensitivity rises."
 ---
 
 After 40, belly fat isn't a calorie problem - it's a cortisol, posture, and hormonal problem. This is why the standard advice (eat less, move more, do crunches) fails so consistently for people in their 40s and 50s.

@@ -5,6 +5,9 @@ lang: "de"
 category: "posture"
 excerpt: "Eine Beckenkippung nach vorne ist eine häufige Haltungsfehler bei Erwachsenen über 40, der einen Bauchvorsprung verursachen kann. Wenn Sie diese fünf Warnsignale bei sich bemerken, könnte eine fehlerhafte Beckenhaltung das Problem sein."
 slug: "beckenkippung-bauchvorsprung-erkennen"
+image: "/blog/pelvic-tilt-symptoms-belly-3.jpg"
+image_alt: "Hohlkreuz Symptome: eine Frau steht im Profil am Fenster, die Hände in den Hüften, mit leichtem Hohlkreuz"
+image_caption: "Hohlkreuz-Symptome zeigen sich im Spiegel, bevor sie als Schmerz auftreten."
 ---
 
 ## Wie erkenne ich, ob meine Beckenkippung meinen Bauch zum Vorschein bringt?

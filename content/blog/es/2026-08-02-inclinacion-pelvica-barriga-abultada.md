@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "La inclinación pélvica es uno de los factores posturales más ignorados que contribuye a un abdomen prominente. Descubre los 5 signos clave que indican que tu pelvis está desalineada y cómo corregirlo."
 slug: "inclinacion-pelvica-barriga-abultada"
+image: "/blog/pelvic-tilt-symptoms-belly-2.jpg"
+image_alt: "síntomas de anteversión pélvica: una mujer de perfil junto a una ventana con las manos en las caderas, una ligera curva en la zona lumbar"
+image_caption: "Los síntomas de anteversión pélvica se ven en el espejo antes de sentirse como dolor."
 ---
 
 ## ¿Cómo saber si la inclinación pélvica está causando tu barriga abultada?

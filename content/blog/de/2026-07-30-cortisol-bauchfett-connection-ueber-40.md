@@ -5,6 +5,9 @@ lang: "de"
 category: "metabolism"
 excerpt: "Cortisol ist ein Stresshormon, das nach dem 40. Lebensjahr vermehrt zu Bauchfettansammlung führt. Verstehen Sie die Verbindung und lernen Sie, wie Sie gegensteuern können."
 slug: "cortisol-bauchfett-connection-ueber-40"
+image: "/blog/cortisol-belly-fat-after-40-2.jpg"
+image_alt: "Cortisol Bauchfett: ein Mann mittleren Alters sitzt im Morgengrauen auf der Bettkante mit einer Tasse Tee, ruhig, weiches Fensterlicht"
+image_caption: "Cortisol und Bauchfett hängen zusammen, wenn das Stresshormon von morgens bis abends hoch bleibt."
 ---
 
 ## Wie wirkt sich Cortisol nach 40 auf Bauchfett aus?

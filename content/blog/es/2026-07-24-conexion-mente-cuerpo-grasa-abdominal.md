@@ -5,6 +5,9 @@ lang: "es"
 category: "mindset"
 excerpt: "El estrés crónico y la ansiedad disparan la producción de cortisol, una hormona que favorece la acumulación de grasa en el vientre. Comprender esta conexión mente-cuerpo es clave para reducir la grasa abdominal de forma efectiva."
 slug: "conexion-mente-cuerpo-grasa-abdominal"
+image: "/blog/stress-belly-fat-mind-body-3.jpg"
+image_alt: "estrés y grasa abdominal: una mujer en la encimera de la cocina, detenida un instante con una mano en el estómago, luz de media mañana"
+image_caption: "El estrés y la grasa abdominal se unen donde los receptores de cortisol son más densos."
 ---
 
 ## ¿Cómo afecta el estrés mental al almacenamiento de grasa abdominal?

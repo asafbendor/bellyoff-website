@@ -5,6 +5,9 @@ lang: "de"
 category: "metabolism"
 excerpt: "Nach 40 Jahren verlangsamt sich der Stoffwechsel hauptsächlich durch den Verlust von Muskelmasse, sinkende Hormonproduktion und reduzierte körperliche Aktivität. Mit gezieltem Training und bewusster Ernährung lässt sich dieser natürliche Prozess deutlich verlangsamen."
 slug: "stoffwechsel-verlangsamt-nach-40"
+image: "/blog/slow-metabolism-after-40-2.jpg"
+image_alt: "Stoffwechsel ab 40: ein Teller mit gegrilltem Fisch, Ofengemüse und einer kleinen Portion Reis auf einem Holztisch"
+image_caption: "Ein langsamer Stoffwechsel ab 40 ist vor allem verlorener Muskel, und Muskel lässt sich sanft wieder aufbauen."
 ---
 
 ## Warum verlangsamt sich der Stoffwechsel nach 40 wirklich?

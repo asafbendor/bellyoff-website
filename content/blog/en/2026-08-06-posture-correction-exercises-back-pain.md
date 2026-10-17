@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Learn safe posture correction exercises designed for adults 40+ that strengthen your core without aggravating existing back pain."
 slug: "posture-correction-exercises-back-pain"
+image: "/blog/posture-exercises-back-pain-2.jpg"
+image_alt: "posture exercises for back pain: a man lying on a mat with knees bent, hands supporting his lower back, in a sunny room"
+image_caption: "Posture exercises for back pain stay close to the floor, where the spine is supported."
 ---
 
 ## How Can You Fix Your Posture When You Have Back Pain?

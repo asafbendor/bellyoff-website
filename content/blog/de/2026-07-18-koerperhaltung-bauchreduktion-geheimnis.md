@@ -5,6 +5,9 @@ lang: "de"
 category: "posture"
 excerpt: "Die richtige Körperhaltung ist der Schlüssel zum Erfolg bei der Bauchreduktion, den die meisten Programme übersehen. Sie aktiviert tiefe Bauchmuskulatur, verbessert die Verdauung und verstärkt jeden anderen Trainingseffekt um ein Vielfaches."
 slug: "koerperhaltung-bauchreduktion-geheimnis"
+image: "/blog/posture-and-belly-fat-2.jpg"
+image_alt: "Körperhaltung und Bauch: ein Mann steht aufrecht im Profil im Wohnzimmer, Schultern locker, richtet seine Haltung aus"
+image_caption: "Körperhaltung und Bauch hängen zusammen: Wirbelsäule aufrichten, und der Bauch wirkt sofort kleiner."
 ---
 
 ## Warum Körperhaltung das fehlende Element in Bauchreduktions-Programmen ist

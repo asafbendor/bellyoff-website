@@ -5,6 +5,9 @@ lang: "de"
 category: "posture"
 excerpt: "Anteriore Beckenkippung ist eine häufige Fehlhaltung, bei der das Becken nach vorne kippt und den unteren Rücken übermäßig wölbt. Dies drückt die Bauchorgane nach vorne und erzeugt den Eindruck eines Bauches, selbst wenn wenig Körperfett vorhanden ist."
 slug: "anteriore-beckenkippung-bauchvorwoelbung"
+image: "/blog/anterior-pelvic-tilt-belly-3.jpg"
+image_alt: "Hohlkreuz: eine Frau in den Vierzigern steht im Profil vor einer glatten Wand, eine Hand am unteren Rücken, prüft ihre Haltung"
+image_caption: "Ein Hohlkreuz drückt den Bauch nach vorne, auch wenn kaum Fett da ist."
 ---
 
 ## Wie anteriore Beckenkippung zu Bauchvorwölbung führt

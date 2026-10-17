@@ -5,6 +5,9 @@ lang: "de"
 category: "mindset"
 excerpt: "Nach dem 40. Lebensjahr lagert der Körper Stress vermehrt als Bauchfett ein. Dies liegt an hormonellen Veränderungen und einem verlangsamten Stoffwechsel."
 slug: "stress-bauch-nach-40"
+image: "/blog/stress-belly-fat-mind-body-4.jpg"
+image_alt: "Stressbauch: eine Frau an der Küchenzeile hält kurz inne, eine Hand auf dem Bauch, im Vormittagslicht"
+image_caption: "Ein Stressbauch entsteht dort, wo die Cortisolrezeptoren am dichtesten sitzen."
 ---
 
 ## Warum sammelt sich Stress nach 40 im Bauch an?

@@ -5,6 +5,9 @@ lang: "de"
 category: "movement"
 excerpt: "Beide Trainingsarten können beim Abbau von Bauchfett helfen, aber somatische Bewegung bietet für Menschen über 40 oft nachhaltigere Ergebnisse mit weniger Verletzungsrisiko."
 slug: "somatische-bewegung-vs-hochintensives-training"
+image: "/blog/somatic-exercise-vs-hiit-2.jpg"
+image_alt: "somatische Übungen: eine Frau macht eine langsame, sanfte Bodenübung auf einer Matte im Wohnzimmer, entspannt, bei Tageslicht"
+image_caption: "Somatische Übungen verkleinern den Bauch ohne den Cortisolschub eines harten Workouts."
 ---
 
 ## Die kurze Antwort

@@ -5,6 +5,9 @@ lang: "de"
 category: "posture"
 excerpt: "Die meisten Berufstätigen ab 40 Jahren sitzen täglich mehrere Stunden am Schreibtisch. Mit gezielten Haltungskorektionen, Atemtechniken und regelmässigen Bewegungspausen lässt sich Bauchvorwölbung deutlich reduzieren - auch während der Arbeitszeit."
 slug: "bauchvorwolbung-schreibtisch-reduzieren"
+image: "/blog/sitting-posture-desk-belly-2.jpg"
+image_alt: "richtig sitzen am Schreibtisch: eine Frau sitzt aufrecht am Schreibtisch zu Hause, Füße flach auf dem Boden, der Monitor auf Augenhöhe"
+image_caption: "Richtig sitzen am Schreibtisch entscheidet, wohin der Bauch acht Stunden am Tag geht."
 ---
 
 ## Wie reduziert man Bauchvorwölbung im Sitzen am Schreibtisch?

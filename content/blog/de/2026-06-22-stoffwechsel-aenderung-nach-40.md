@@ -5,6 +5,9 @@ lang: "de"
 category: "metabolism"
 excerpt: "Nach dem 40. Geburtstag verlangsamt sich der Stoffwechsel tatsächlich, aber nicht so dramatisch wie oft behauptet. Erfahren Sie, welche Faktoren wirklich eine Rolle spielen und wie Sie aktiv gegensteuern können."
 slug: "stoffwechsel-aenderung-nach-40"
+image: "/blog/slow-metabolism-after-40.jpg"
+image_alt: "Stoffwechsel ab 40: ein Teller mit gegrilltem Fisch, Ofengemüse und einer kleinen Portion Reis auf einem Holztisch"
+image_caption: "Ein langsamer Stoffwechsel ab 40 ist vor allem verlorener Muskel, und Muskel lässt sich sanft wieder aufbauen."
 ---
 
 ## Wie verändert sich der Stoffwechsel nach 40 wirklich?

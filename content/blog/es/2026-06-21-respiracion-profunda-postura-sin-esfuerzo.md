@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "La respiración profunda realinea naturalmente la columna vertebral y los hombros, mejorando tu postura sin necesidad de ejercicios incómodos."
 slug: "respiracion-profunda-postura-sin-esfuerzo"
+image: "/blog/deep-breathing-benefits-posture.jpg"
+image_alt: "beneficios de la respiración profunda: una mujer tumbada boca arriba en una esterilla con un cojín bajo las rodillas, respirando con calma"
+image_caption: "Los beneficios de la respiración profunda empiezan en la postura: las costillas se asientan y la columna sigue."
 ---
 
 ## ¿Cómo la respiración profunda cambia tu postura sin esfuerzo?

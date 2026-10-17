@@ -5,6 +5,9 @@ lang: "fr"
 category: "posture"
 excerpt: "Un bassin mal aligné peut être la raison cachée derrière votre ventre qui s'arrondit. Découvrez les 5 signes qui révèlent un problème de basculement pelvien."
 slug: "5-signes-bassin-bascule-ventre-protrusion"
+image: "/blog/pelvic-tilt-symptoms-belly-2.jpg"
+image_alt: "bascule du bassin symptômes: une femme de profil près d'une fenêtre, mains sur les hanches, légère cambrure du bas du dos"
+image_caption: "Les symptômes de la bascule du bassin se voient dans le miroir avant de se sentir comme une douleur."
 ---
 
 ## Comment savoir si votre bassin basculé provoque votre ventre qui s'arrondit ?

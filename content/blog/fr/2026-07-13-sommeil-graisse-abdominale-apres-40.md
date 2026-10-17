@@ -5,6 +5,9 @@ lang: "fr"
 category: "mindset"
 excerpt: "Le sommeil insuffisant booste la production de cortisol et perturbe l'équilibre hormonal, ce qui favorise l'accumulation de graisse au niveau du ventre chez les adultes de 40 ans et plus."
 slug: "sommeil-graisse-abdominale-apres-40"
+image: "/blog/lack-of-sleep-belly-fat.jpg"
+image_alt: "manque de sommeil prise de poids: un lit défait dans la lumière douce du petit matin, une lampe de chevet et un verre d'eau sur la table de nuit"
+image_caption: "Manque de sommeil et prise de poids sont liés par un cortisol qui ne redescend jamais la nuit."
 ---
 
 ## Comment le manque de sommeil crée de la graisse abdominale après 40 ans ?

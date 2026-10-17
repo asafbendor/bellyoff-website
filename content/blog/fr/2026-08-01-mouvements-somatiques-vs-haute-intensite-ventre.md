@@ -5,6 +5,9 @@ lang: "fr"
 category: "movement"
 excerpt: "Les mouvements somatiques et l'exercice haute intensité offrent tous deux des résultats pour la réduction du ventre, mais ils fonctionnent différemment. Découvrez l'approche qui convient le mieux à votre corps après 40 ans."
 slug: "mouvements-somatiques-vs-haute-intensite-ventre"
+image: "/blog/somatic-exercise-vs-hiit-2.jpg"
+image_alt: "exercices somatiques: une femme effectue un mouvement lent et doux au sol sur un tapis dans le salon, détendue, à la lumière du jour"
+image_caption: "Les exercices somatiques réduisent le ventre sans le pic de cortisol d'un entraînement intense."
 ---
 
 ## Mouvements somatiques ou exercice haute intensité : lequel choisir pour réduire le ventre ?

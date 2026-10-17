@@ -5,6 +5,9 @@ lang: "en"
 category: "posture"
 excerpt: "Floor exercises are excellent for improving posture in adults over 40, but they require careful modifications to protect joints and prevent injury. Learn which movements are safest and how to perform them correctly."
 slug: "floor-posture-exercises-40-plus"
+image: "/blog/floor-exercises-posture-40-2.jpg"
+image_alt: "floor exercises: a man doing a gentle bridge pose on a mat on a wooden floor in a bright room"
+image_caption: "Floor exercises let the body learn posture with the spine fully supported."
 ---
 
 Floor-based posture exercises are some of the safest and most effective ways to strengthen the muscles that support your spine and improve your overall alignment. For adults over 40, working on the floor offers stability, reduces fall risk, and allows you to focus on proper form without balance challenges. The key is choosing movements that support your body's changing needs and avoiding positions that strain your neck, lower back, or knees. In this guide, we'll walk you through the safest floor exercises for posture, explain why they work, and show you how to modify them if needed.

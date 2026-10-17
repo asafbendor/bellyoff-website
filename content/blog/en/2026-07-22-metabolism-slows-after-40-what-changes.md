@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "After 40, your metabolism doesn't just slow down randomly - specific changes in muscle, hormones, and cellular function actually shift how your body burns calories and stores fat."
 slug: "metabolism-slows-after-40-what-changes"
+image: "/blog/slow-metabolism-after-40-2.jpg"
+image_alt: "slow metabolism after 40: a plate with grilled fish, roasted vegetables and a small portion of rice on a wooden table"
+image_caption: "A slow metabolism after 40 is mostly lost muscle, and muscle can be rebuilt gently."
 ---
 
 After 40, your metabolism doesn't just slow down randomly. Specific changes happen in your muscle tissue, hormonal balance, and how your cells produce energy. Research shows metabolism typically declines about 2-8% per decade after age 30, but the real culprit isn't age itself. It's the combination of sarcopenia (muscle loss), hormonal shifts, reduced physical activity, and changes in mitochondrial function that create the "slowdown" many people experience. Understanding these changes helps you take control instead of accepting belly fat as inevitable.

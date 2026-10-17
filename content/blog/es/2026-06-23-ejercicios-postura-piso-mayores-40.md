@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "Los ejercicios de postura en el piso son seguros y efectivos para personas mayores de 40 años, mejorando la alineación corporal y reduciendo el dolor de espalda mientras fortalecen el core."
 slug: "ejercicios-postura-piso-mayores-40"
+image: "/blog/floor-exercises-posture-40.jpg"
+image_alt: "ejercicios en el suelo: un hombre haciendo un puente suave en una esterilla sobre suelo de madera en una habitación luminosa"
+image_caption: "Los ejercicios en el suelo permiten que el cuerpo aprenda postura con la columna totalmente apoyada."
 ---
 
 ## ¿Cuáles son los mejores ejercicios de postura en el piso seguros para mayores de 40?

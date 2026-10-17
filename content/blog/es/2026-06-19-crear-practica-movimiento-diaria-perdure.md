@@ -5,6 +5,9 @@ lang: "es"
 category: "mindset"
 excerpt: "Descubre cómo establecer un hábito de ejercicio sostenible que se adapte a tu vida, sin abandonarlo después de dos semanas."
 slug: "crear-practica-movimiento-diaria-perdure"
+image: "/blog/daily-exercise-habit-that-sticks.jpg"
+image_alt: "hábito de ejercicio diario: una mujer desenrollando una esterilla en el mismo rincón del salón, una planta y una ventana al lado"
+image_caption: "Un hábito de ejercicio diario se mantiene cuando es corto, en el mismo sitio y a la misma hora."
 ---
 
 ## ¿Cómo crear una práctica diaria de movimiento que perdure?

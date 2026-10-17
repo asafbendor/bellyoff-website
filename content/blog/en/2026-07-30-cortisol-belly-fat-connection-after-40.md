@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "Cortisol, your body's stress hormone, directly triggers belly fat storage after 40 by slowing metabolism and promoting fat accumulation around your midsection."
 slug: "cortisol-belly-fat-connection-after-40"
+image: "/blog/cortisol-belly-fat-after-40-2.jpg"
+image_alt: "cortisol belly fat: a middle-aged man sitting on the edge of a bed at dawn with a cup of tea, calm, soft window light"
+image_caption: "Cortisol belly fat builds up when the stress hormone stays high from morning to night."
 ---
 
 ## How Does Cortisol Cause Belly Fat After 40?

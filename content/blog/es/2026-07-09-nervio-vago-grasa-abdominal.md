@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "El nervio vago es una estructura clave del sistema nervioso que regula el metabolismo, la digestión y la inflamación. Activarlo mediante técnicas específicas de respiración y movimiento puede acelerar la pérdida de grasa en la zona abdominal, especialmente después de los 40 años."
 slug: "nervio-vago-grasa-abdominal"
+image: "/blog/vagus-nerve-belly-fat.jpg"
+image_alt: "nervio vago: una mujer sentada con las piernas cruzadas en el sofá, ojos cerrados, una mano sobre la parte alta del pecho"
+image_caption: "El nervio vago es el interruptor que una exhalación larga pasa de estrés a recuperación."
 ---
 
 ## ¿Cómo activa el nervio vago la reducción de grasa abdominal?

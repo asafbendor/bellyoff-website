@@ -5,6 +5,9 @@ lang: "de"
 category: "posture"
 excerpt: "Die meisten Bauchreduktionsprogramme ignorieren einen entscheidenden Faktor: die Körperhaltung. Eine aufrechte Haltung aktiviert die Tiefenmuskulatur, verbessert die Atmung und hilft dabei, Bauchfett effizienter zu reduzieren."
 slug: "koerperhaltung-bauchreduktion-missing-piece"
+image: "/blog/posture-and-belly-fat.jpg"
+image_alt: "Körperhaltung und Bauch: ein Mann steht aufrecht im Profil im Wohnzimmer, Schultern locker, richtet seine Haltung aus"
+image_caption: "Körperhaltung und Bauch hängen zusammen: Wirbelsäule aufrichten, und der Bauch wirkt sofort kleiner."
 ---
 
 ## Wie verbessert man die Körperhaltung für eine effektive Bauchreduktion?

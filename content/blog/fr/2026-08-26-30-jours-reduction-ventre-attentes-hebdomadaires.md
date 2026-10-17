@@ -5,6 +5,9 @@ lang: "fr"
 category: "movement"
 excerpt: "Découvrez les changements concrets que vous pouvez attendre semaine après semaine en suivant un programme de 30 jours de réduction du ventre adapté aux adultes de 40 ans et plus."
 slug: "30-jours-reduction-ventre-attentes-hebdomadaires"
+image: "/blog/30-day-belly-challenge-3.jpg"
+image_alt: "défi 30 jours: un calendrier mural avec un stylo suspendu à côté et un tapis de yoga roulé appuyé au mur en dessous"
+image_caption: "Un défi 30 jours fonctionne quand chaque semaine demande un peu plus que la précédente, jamais beaucoup plus."
 ---
 
 ## Que se passe-t-il pendant 30 jours de réduction du ventre : à quoi s'attendre chaque semaine

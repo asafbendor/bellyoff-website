@@ -5,6 +5,9 @@ lang: "en"
 category: "breathing"
 excerpt: "The transverse abdominis is your deepest core muscle, and you can activate it effectively using breathing, posture, and gentle movement - no crunches required."
 slug: "activate-transverse-abdominis-without-crunches"
+image: "/blog/transverse-abdominis-exercises-6.jpg"
+image_alt: "transverse abdominis exercises: close-up of a woman seated on a mat with a hand resting on her lower belly, a plant and a window behind her"
+image_caption: "Transverse abdominis exercises start with a hand on the belly and a slow exhale, not a crunch."
 ---
 
 ## Direct Answer: Activate Your Transverse Abdominis Without Crunches

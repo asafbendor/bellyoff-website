@@ -5,6 +5,9 @@ lang: "en"
 category: "movement"
 excerpt: "Learn proven strategies to keep your hard-earned belly reduction results lasting long-term with consistent daily habits and smart lifestyle choices."
 slug: "maintain-belly-reduction-results"
+image: "/blog/keep-belly-fat-off-long-term-2.jpg"
+image_alt: "how to keep weight off: a tape measure and a small notebook on a kitchen table, an apple and a glass of water beside them"
+image_caption: "How to keep weight off: a short daily practice outlasts any program with an end date."
 ---
 
 ## How to Maintain Belly Reduction Results After Your Workout Program

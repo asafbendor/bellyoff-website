@@ -5,6 +5,9 @@ lang: "fr"
 category: "mindset"
 excerpt: "Découvrez comment créer une habitude d'exercice durable en commençant petit, en alignant vos mouvements avec votre style de vie, et en utilisant des outils simples pour rester motivé."
 slug: "pratique-quotidienne-mouvement-durable"
+image: "/blog/daily-exercise-habit-that-sticks-2.jpg"
+image_alt: "habitude de sport quotidien: une femme déroule un tapis de yoga dans le même coin de son salon, une plante et une fenêtre à côté"
+image_caption: "Une habitude de sport quotidien tient quand elle est courte, au même endroit, à la même heure."
 ---
 
 ## Comment construire une pratique quotidienne du mouvement qui dure?

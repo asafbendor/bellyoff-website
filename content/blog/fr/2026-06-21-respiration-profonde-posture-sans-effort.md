@@ -5,6 +5,9 @@ lang: "fr"
 category: "breathing"
 excerpt: "La respiration profonde active naturellement vos muscles stabilisateurs, redressant votre colonne vertébrale et réduisant les tensions sans exercice supplémentaire."
 slug: "respiration-profonde-posture-sans-effort"
+image: "/blog/deep-breathing-benefits-posture.jpg"
+image_alt: "respiration profonde bienfaits: une femme allongée sur le dos sur un tapis, un coussin sous les genoux, respire calmement"
+image_caption: "Les bienfaits de la respiration profonde commencent par la posture : les côtes se posent, la colonne suit."
 ---
 
 ## Comment la respiration profonde améliore votre posture sans effort ?

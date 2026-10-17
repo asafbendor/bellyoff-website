@@ -5,6 +5,9 @@ lang: "de"
 category: "movement"
 excerpt: "Erfahren Sie, wie Sie Ihre mühsam erreichten Ergebnisse beim Bauchtraining dauerhaft bewahren und welche täglichen Gewohnheiten den größten Unterschied machen."
 slug: "bauchtraining-ergebnisse-langfristig-halten"
+image: "/blog/keep-belly-fat-off-long-term.jpg"
+image_alt: "Gewicht halten nach Diät: ein Maßband und ein kleines Notizbuch auf dem Küchentisch, daneben ein Apfel und ein Glas Wasser"
+image_caption: "Gewicht halten nach einer Diät: Eine kurze tägliche Routine überdauert jedes Programm mit Enddatum."
 ---
 
 ## Wie können Sie die Ergebnisse Ihrer Bauchreduktion langfristig halten?

@@ -5,6 +5,9 @@ lang: "fr"
 category: "metabolism"
 excerpt: "Après 40 ans, la graisse abdominale n'est pas principalement un problème de calories - c'est un problème de cortisol, de posture et d'hormones."
 slug: "pourquoi-la-graisse-abdominale-est-differente-apres-40"
+image: "/blog/visceral-fat-after-40.jpg"
+image_alt: "graisse viscérale: une femme d'une quarantaine d'années se regarde pensivement dans le miroir de la salle de bain, une main sur la taille"
+image_caption: "La graisse viscérale augmente après 40 ans quand œstrogènes et testostérone baissent et que la sensibilité au cortisol monte."
 ---
 
 Après 40 ans, la graisse abdominale n'est pas principalement un problème de calories - c'est un problème de cortisol, de posture et d'hormones. C'est pourquoi les conseils standard (mangez moins, bougez plus, faites des abdominaux) échouent si régulièrement pour les personnes dans la quarantaine et la cinquantaine.

@@ -5,6 +5,9 @@ lang: "fr"
 category: "metabolism"
 excerpt: "L'exercice matinal est l'une des stratégies les plus efficaces pour équilibrer le cortisol, l'hormone du stress. En vous entraînant le matin, vous maîtrisez les pics de cortisol naturels et favorisez une meilleure gestion du poids, particulièrement au niveau abdominal."
 slug: "exercice-matinal-cortisol-graisse-abdominale"
+image: "/blog/morning-exercise-cortisol-2.jpg"
+image_alt: "sport le matin: un homme d'une cinquantaine d'années s'étire doucement sur un balcon au lever du soleil"
+image_caption: "Le sport le matin accompagne le pic naturel de cortisol au lieu de le combattre."
 ---
 
 ## Comment l'exercice matinal régule le cortisol et réduit la graisse abdominale ?

@@ -5,6 +5,9 @@ lang: "fr"
 category: "metabolism"
 excerpt: "Le cortisol atteint son pic dans l'heure qui suit le réveil. Bouger en douceur le matin accompagne ce rythme naturel, aide le cortisol à redescendre à temps et limite le stockage de graisse abdominale tout au long de la journée."
 slug: "exercice-matin-cortisol-apres-40-ans"
+image: "/blog/morning-exercise-cortisol-3.jpg"
+image_alt: "sport le matin: un homme d'une cinquantaine d'années s'étire doucement sur un balcon au lever du soleil"
+image_caption: "Le sport le matin accompagne le pic naturel de cortisol au lieu de le combattre."
 ---
 
 ## Pourquoi bouger le matin aide-t-il à réguler le cortisol après 40 ans ?

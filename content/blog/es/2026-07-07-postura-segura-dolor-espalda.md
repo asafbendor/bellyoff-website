@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "Descubre ejercicios de corrección postural diseñados específicamente para personas mayores de 40 años que experimentan dolor de espalda, sin riesgo de lesiones."
 slug: "postura-segura-dolor-espalda"
+image: "/blog/posture-exercises-back-pain.jpg"
+image_alt: "ejercicios de postura para dolor de espalda: un hombre tumbado en una esterilla con las rodillas flexionadas, las manos sosteniendo la zona lumbar, en una habitación soleada"
+image_caption: "Los ejercicios de postura para el dolor de espalda se hacen cerca del suelo, donde la columna está apoyada."
 ---
 
 ## ¿Cómo corregir la postura de forma segura si tengo dolor de espalda?

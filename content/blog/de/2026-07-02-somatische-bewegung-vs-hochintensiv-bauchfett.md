@@ -5,6 +5,9 @@ lang: "de"
 category: "movement"
 excerpt: "Für Menschen über 40 ist somatische Bewegung oft effektiver gegen Bauchfett als hochintensives Training, da sie weniger belastend ist und nachhaltige Ergebnisse liefert."
 slug: "somatische-bewegung-vs-hochintensiv-bauchfett"
+image: "/blog/somatic-exercise-vs-hiit.jpg"
+image_alt: "somatische Übungen: eine Frau macht eine langsame, sanfte Bodenübung auf einer Matte im Wohnzimmer, entspannt, bei Tageslicht"
+image_caption: "Somatische Übungen verkleinern den Bauch ohne den Cortisolschub eines harten Workouts."
 ---
 
 ## Somatische Bewegung oder hochintensives Training: Was hilft besser gegen Bauchfett?

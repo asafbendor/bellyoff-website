@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "Descubre técnicas efectivas de respiración y movimiento para activar tu transverso abdominal, el músculo profundo clave para reducir la barriga después de los 40."
 slug: "activar-transverso-abdominal-sin-abdominales"
+image: "/blog/transverse-abdominis-exercises-6.jpg"
+image_alt: "transverso abdominal ejercicios: primer plano de una mujer sentada en una esterilla con una mano sobre el bajo vientre, una planta y una ventana detrás"
+image_caption: "Los ejercicios de transverso abdominal empiezan con una mano en el vientre y una exhalación lenta, no con un abdominal."
 ---
 
 ## ¿Cómo activar el transverso abdominal sin hacer abdominales?

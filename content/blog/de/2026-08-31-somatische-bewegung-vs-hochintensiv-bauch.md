@@ -5,6 +5,9 @@ lang: "de"
 category: "movement"
 excerpt: "Für Menschen über 40 ist somatische Bewegung oft effektiver als intensives Training, wenn es um nachhaltige Bauchreduktion geht. Sie aktiviert tiefe Muskeln, reduziert Stress und schont die Gelenke."
 slug: "somatische-bewegung-vs-hochintensiv-bauch"
+image: "/blog/somatic-exercise-vs-hiit-3.jpg"
+image_alt: "somatische Übungen: eine Frau macht eine langsame, sanfte Bodenübung auf einer Matte im Wohnzimmer, entspannt, bei Tageslicht"
+image_caption: "Somatische Übungen verkleinern den Bauch ohne den Cortisolschub eines harten Workouts."
 ---
 
 ## Somatische Bewegung oder hochintensives Training: Was ist besser für die Bauchreduktion?

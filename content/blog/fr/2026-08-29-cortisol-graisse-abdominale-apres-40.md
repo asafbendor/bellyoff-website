@@ -5,6 +5,9 @@ lang: "fr"
 category: "metabolism"
 excerpt: "Le cortisol, l'hormone du stress, favorise l'accumulation de graisse au niveau du ventre chez les adultes de 40 ans et plus. Découvrez comment réduire ce phénomène naturellement."
 slug: "cortisol-graisse-abdominale-apres-40"
+image: "/blog/cortisol-belly-fat-after-40-3.jpg"
+image_alt: "cortisol et graisse abdominale: un homme d'âge mûr assis au bord du lit à l'aube avec une tasse de thé, calme, lumière douce de la fenêtre"
+image_caption: "Cortisol et graisse abdominale vont de pair quand l'hormone du stress reste élevée du matin au soir."
 ---
 
 ## Comment le cortisol crée-t-il de la graisse abdominale après 40 ans ?

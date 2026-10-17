@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "La inclinación pélvica anterior es una postura donde la pelvis se inclina hacia adelante, lo que empuja automáticamente el abdomen hacia afuera. Esta posición común en adultos mayores de 40 años causa que el vientre se vea más prominente, aunque no haya ganancia de peso."
 slug: "inclinacion-pelvica-anterior-barriga"
+image: "/blog/anterior-pelvic-tilt-belly-3.jpg"
+image_alt: "anteversión pélvica: una mujer de cuarenta y tantos de perfil frente a una pared lisa, una mano en la zona lumbar, revisando su postura"
+image_caption: "La anteversión pélvica empuja el abdomen hacia delante aunque haya poca grasa."
 ---
 
 ## ¿Cómo causa la inclinación pélvica anterior una protrusión abdominal?

@@ -5,6 +5,9 @@ lang: "de"
 category: "mindset"
 excerpt: "Nach dem 40. Lebensjahr reagiert der Körper anders auf Stress: Das Hormon Cortisol fördert Fetteinlagerung genau dort, wo wir sie am wenigsten möchten - im Bauchraum. Erfahren Sie, wie dieser biologische Prozess funktioniert und was Sie dagegen tun können."
 slug: "stress-bauch-nach-40-jahren"
+image: "/blog/stress-belly-fat-mind-body-2.jpg"
+image_alt: "Stressbauch: eine Frau an der Küchenzeile hält kurz inne, eine Hand auf dem Bauch, im Vormittagslicht"
+image_caption: "Ein Stressbauch entsteht dort, wo die Cortisolrezeptoren am dichtesten sitzen."
 ---
 
 ## Warum sammelt sich Stress nach 40 Jahren im Bauch an?

@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Der Transversus abdominis ist ein tiefes Bauchmuskel, das die meisten Fitnessprogramme ignorieren - aber gerade dieser Muskel ist entscheidend für einen flachen Bauch bei Menschen über 40."
 slug: "transversus-abdominis-bauchmuskel-training"
+image: "/blog/transverse-abdominis-exercises-3.jpg"
+image_alt: "Transversus abdominis Übungen: Nahaufnahme einer Frau, die auf einer Matte sitzt, eine Hand auf dem Unterbauch, Pflanze und Fenster im Hintergrund"
+image_caption: "Transversus-abdominis-Übungen beginnen mit einer Hand auf dem Bauch und einer langsamen Ausatmung, nicht mit einem Crunch."
 ---
 
 ## Wie trainiere ich den Transversus abdominis für einen flacheren Bauch?

@@ -5,6 +5,9 @@ lang: "es"
 category: "posture"
 excerpt: "Pasar horas sentado en el escritorio puede aumentar la protuberancia abdominal, pero existen técnicas posturales y movimientos simples que puedes realizar durante tu jornada laboral para reducir la grasa abdominal y mejorar tu salud."
 slug: "reducir-protuberancia-abdominal-sentado-escritorio"
+image: "/blog/sitting-posture-desk-belly.jpg"
+image_alt: "postura correcta para sentarse: una mujer sentada erguida en un escritorio en casa, pies apoyados en el suelo, el monitor a la altura de los ojos"
+image_caption: "La postura correcta para sentarse decide dónde va el abdomen durante ocho horas al día."
 ---
 
 ## ¿Cómo reducir la protuberancia abdominal mientras trabajas sentado en el escritorio?

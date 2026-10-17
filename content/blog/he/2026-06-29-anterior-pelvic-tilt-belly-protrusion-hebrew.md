@@ -5,6 +5,9 @@ lang: "he"
 category: "posture"
 excerpt: "הטיית האגן קדימה (anterior pelvic tilt) היא עמדה גופנית שבה האגן נוטה קדימה, מה שגורם לשרירי הבטן להימתח ולהיראות בולטים יותר - גם אם אין עודף משקל."
 slug: "anterior-pelvic-tilt-belly-protrusion-hebrew"
+image: "/blog/anterior-pelvic-tilt-belly.jpg"
+image_alt: "הטיה קדמית של האגן: אישה בשנות הארבעים עומדת בפרופיל מול קיר חלק בבית, יד אחת על הגב התחתון, בודקת את היציבה"
+image_caption: "הטיה קדמית של האגן דוחפת את הבטן קדימה גם כשאין הרבה שומן."
 ---
 
 ## כיצד הטיית האגן קדימה גורמת לבליטת בטן?

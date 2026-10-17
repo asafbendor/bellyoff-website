@@ -5,6 +5,9 @@ lang: "es"
 category: "breathing"
 excerpt: "La respiración diafragmática es la clave para activar los músculos abdominales profundos que sostienen el vientre y mejoran la postura."
 slug: "respiracion-diafragmatica-core-profundo"
+image: "/blog/diaphragmatic-breathing-deep-core-2.jpg"
+image_alt: "respiración diafragmática: una mujer tumbada en una esterilla en un salón luminoso, una mano en el pecho y otra en el vientre, respirando con calma"
+image_caption: "La respiración diafragmática despierta el core profundo desde dentro, sin un solo abdominal."
 ---
 
 ## ¿Cómo activa la respiración diafragmática el core profundo?

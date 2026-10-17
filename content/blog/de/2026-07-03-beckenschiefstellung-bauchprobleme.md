@@ -5,6 +5,9 @@ lang: "de"
 category: "posture"
 excerpt: "Eine Beckenschiefstellung kann dazu führen, dass der Bauch stärker hervortritt, als er eigentlich sollte. Erfahren Sie, welche fünf Zeichen auf dieses weit verbreitete Haltungsproblem hindeuten."
 slug: "beckenschiefstellung-bauchprobleme"
+image: "/blog/pelvic-tilt-symptoms-belly.jpg"
+image_alt: "Hohlkreuz Symptome: eine Frau steht im Profil am Fenster, die Hände in den Hüften, mit leichtem Hohlkreuz"
+image_caption: "Hohlkreuz-Symptome zeigen sich im Spiegel, bevor sie als Schmerz auftreten."
 ---
 
 ## Wie erkenne ich, ob meine Beckenschiefstellung meinen Bauch hervorbringt?

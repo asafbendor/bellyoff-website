@@ -5,6 +5,9 @@ lang: "en"
 category: "metabolism"
 excerpt: "Subcutaneous fat sits under your skin, while visceral fat wraps around your organs. Understanding which type you're carrying is crucial for your health and fitness strategy."
 slug: "subcutaneous-vs-visceral-belly-fat"
+image: "/blog/subcutaneous-vs-visceral-fat.jpg"
+image_alt: "subcutaneous fat: close-up of a tape measure wrapped loosely around a waist over a plain neutral top"
+image_caption: "Subcutaneous fat is the layer you can pinch; the deeper layer is the one that matters for health."
 ---
 
 ## What's the Difference Between Subcutaneous and Visceral Belly Fat?

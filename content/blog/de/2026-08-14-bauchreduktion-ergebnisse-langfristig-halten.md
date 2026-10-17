@@ -5,6 +5,9 @@ lang: "de"
 category: "movement"
 excerpt: "Regelmässiges Training, eine bewusste Ernährung und die Fortsetzung täglicher Bewegungsroutinen sind der Schlüssel, um Ihre Bauchreduktions-Ergebnisse zu bewahren."
 slug: "bauchreduktion-ergebnisse-langfristig-halten"
+image: "/blog/keep-belly-fat-off-long-term-2.jpg"
+image_alt: "Gewicht halten nach Diät: ein Maßband und ein kleines Notizbuch auf dem Küchentisch, daneben ein Apfel und ein Glas Wasser"
+image_caption: "Gewicht halten nach einer Diät: Eine kurze tägliche Routine überdauert jedes Programm mit Enddatum."
 ---
 
 ## Wie Sie Ihre Bauchreduktions-Ergebnisse langfristig halten

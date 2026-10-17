@@ -5,6 +5,9 @@ lang: "de"
 category: "breathing"
 excerpt: "Zwerchfellatmung ist der Schlüssel zur Aktivierung der tiefen Bauchmuskulatur. Diese natürliche Atemtechnik stärkt den Core und reduziert Bauchfett gezielt."
 slug: "zwerchfellatmung-tiefe-rumpfmuskulatur"
+image: "/blog/diaphragmatic-breathing-deep-core-2.jpg"
+image_alt: "Zwerchfellatmung: eine Frau liegt auf einer Yogamatte in einem hellen Wohnzimmer, eine Hand auf der Brust, eine auf dem Bauch, atmet ruhig"
+image_caption: "Zwerchfellatmung weckt die tiefe Rumpfmuskulatur von innen, ganz ohne Crunches."
 ---
 
 ## Wie aktiviert Zwerchfellatmung die tiefe Rumpfmuskulatur?
