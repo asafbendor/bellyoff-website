@@ -1,0 +1,43 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "PYTHONUTF8=1 python \"$CLAUDE_PROJECT_DIR\"/.claude/hooks/capture_correction.py"
+          }
+        ]
+      },
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "PYTHONUTF8=1 python \"$CLAUDE_PROJECT_DIR\"/.claude/hooks/capture_correction.py --classify",
+            "async": true
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "PYTHONUTF8=1 python \"$CLAUDE_PROJECT_DIR\"/.claude/hooks/capture_correction.py --stop"
+          }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat \"$CLAUDE_PROJECT_DIR\"/lessons/LESSONS_ACTIVE.md 2>/dev/null || true"
+          }
+        ]
+      }
+    ]
+  }
+}
