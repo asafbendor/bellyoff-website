@@ -3,9 +3,11 @@ interface Props {
   width?: number;
   className?: string;
   alt?: string;
+  /** The one screen visible on every width gets priority; side screens are hidden on mobile and load lazily. */
+  priority?: boolean;
 }
 
-export default function PhoneMockup({ src, width = 200, className = '', alt = 'BellyOff app screen' }: Props) {
+export default function PhoneMockup({ src, width = 200, className = '', alt = 'BellyOff app screen', priority = false }: Props) {
   const h = Math.round(width * 2.164);
   const r = Math.round(width * 0.183);
   const ri = r - 4;
@@ -68,6 +70,11 @@ export default function PhoneMockup({ src, width = 200, className = '', alt = 'B
         <img
           src={src}
           alt={alt}
+          width={width - 8}
+          height={h - 8}
+          loading={priority ? 'eager' : 'lazy'}
+          decoding="async"
+          {...(priority ? { fetchPriority: 'high' as const } : {})}
           className="absolute inset-0 w-full h-full object-cover"
           draggable={false}
         />

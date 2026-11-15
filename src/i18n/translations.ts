@@ -21,6 +21,7 @@ export const translations = {
     nav_how: 'How It Works',
     nav_blog: 'Blog',
     nav_download: 'Download Free',
+    lang_label: 'Language',
 
     hero_badge: 'Designed for the 40+ body',
     hero_title: '10 Minutes a Day to a Flatter Belly After 40',
@@ -86,7 +87,6 @@ export const translations = {
     cta_title: 'Start Your 10-Minute Daily Practice',
     cta_sub: 'Free to download. No credit card needed. Upgrade to premium anytime.',
     cta_btn: 'Get BellyOff Free',
-    cta_coming: 'App Store coming soon',
 
     blog_title: 'Blog',
     blog_sub: 'Evidence-based tips on belly reduction, breathing, and posture after 40.',
@@ -128,6 +128,7 @@ export const translations = {
     nav_how: 'איך זה עובד',
     nav_blog: 'בלוג',
     nav_download: 'הורדה חינם',
+    lang_label: 'שפה',
 
     hero_badge: 'מתוכנן לגוף בגיל 40+',
     hero_title: '10 דקות ביום לבטן שטוחה יותר אחרי גיל 40',
@@ -193,7 +194,6 @@ export const translations = {
     cta_title: 'התחילו את השגרה היומית של 10 דקות',
     cta_sub: 'חינמי להורדה. ללא כרטיס אשראי. שדרוג לפרימיום בכל עת.',
     cta_btn: 'קבלו את BellyOff חינם',
-    cta_coming: 'App Store בקרוב',
 
     blog_title: 'בלוג',
     blog_sub: 'טיפים מבוססי מחקר על הפחתת בטן, נשימה ויציבה אחרי גיל 40.',
@@ -235,6 +235,7 @@ export const translations = {
     nav_how: 'كيف يعمل',
     nav_blog: 'المدونة',
     nav_download: 'تنزيل مجاناً',
+    lang_label: 'اللغة',
 
     hero_badge: 'مصمم لجسم ما بعد 40',
     hero_title: '10 دقائق يومياً لبطن أكثر نعومة بعد سن 40',
@@ -300,7 +301,6 @@ export const translations = {
     cta_title: 'ابدأوا ممارستكم اليومية لمدة 10 دقائق',
     cta_sub: 'مجاني للتنزيل. لا بطاقة ائتمان. ترقية إلى البريميوم في أي وقت.',
     cta_btn: 'احصلوا على BellyOff مجاناً',
-    cta_coming: 'App Store قريباً',
 
     blog_title: 'المدونة',
     blog_sub: 'نصائح مبنية على الأدلة حول تقليل الدهون البطنية والتنفس والوضعية بعد سن 40.',
@@ -342,6 +342,7 @@ export const translations = {
     nav_how: 'Cómo Funciona',
     nav_blog: 'Blog',
     nav_download: 'Descargar Gratis',
+    lang_label: 'Idioma',
 
     hero_badge: 'Diseñado para el cuerpo 40+',
     hero_title: '10 Minutos al Día para un Vientre Más Plano Después de los 40',
@@ -407,7 +408,6 @@ export const translations = {
     cta_title: 'Comienza Tu Práctica Diaria de 10 Minutos',
     cta_sub: 'Gratis para descargar. Sin tarjeta de crédito. Actualiza a premium cuando quieras.',
     cta_btn: 'Obtener BellyOff Gratis',
-    cta_coming: 'App Store próximamente',
 
     blog_title: 'Blog',
     blog_sub: 'Consejos basados en evidencia sobre reducción abdominal, respiración y postura después de los 40.',
@@ -449,6 +449,7 @@ export const translations = {
     nav_how: 'Wie es funktioniert',
     nav_blog: 'Blog',
     nav_download: 'Kostenlos herunterladen',
+    lang_label: 'Sprache',
 
     hero_badge: 'Für den Körper 40+',
     hero_title: '10 Minuten täglich für einen flacheren Bauch nach 40',
@@ -514,7 +515,6 @@ export const translations = {
     cta_title: 'Starten Sie Ihre 10-minütige tägliche Praxis',
     cta_sub: 'Kostenlos herunterladen. Keine Kreditkarte. Jederzeit auf Premium upgraden.',
     cta_btn: 'BellyOff kostenlos erhalten',
-    cta_coming: 'App Store demnächst',
 
     blog_title: 'Blog',
     blog_sub: 'Evidenzbasierte Tipps zu Bauchfettabbau, Atmung und Haltung nach 40.',
@@ -556,6 +556,7 @@ export const translations = {
     nav_how: 'Comment ça marche',
     nav_blog: 'Blog',
     nav_download: 'Télécharger gratuitement',
+    lang_label: 'Langue',
 
     hero_badge: 'Conçu pour le corps 40+',
     hero_title: '10 Minutes par Jour pour un Ventre Plus Plat après 40 ans',
@@ -621,7 +622,6 @@ export const translations = {
     cta_title: 'Commencez Votre Pratique Quotidienne de 10 Minutes',
     cta_sub: 'Gratuit à télécharger. Sans carte bancaire. Passez au premium à tout moment.',
     cta_btn: 'Obtenir BellyOff gratuitement',
-    cta_coming: 'App Store bientôt disponible',
 
     blog_title: 'Blog',
     blog_sub: 'Conseils basés sur des preuves sur la réduction abdominale, la respiration et la posture après 40 ans.',

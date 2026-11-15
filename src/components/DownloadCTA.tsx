@@ -20,7 +20,6 @@ export default function DownloadCTA({ lang }: { lang: Lang }) {
             </svg>
             {tr.cta_btn}
           </a>
-          <span className="text-sm text-[#555]">{tr.cta_coming}</span>
         </div>
       </div>
     </section>

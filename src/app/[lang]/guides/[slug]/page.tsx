@@ -146,7 +146,7 @@ export default async function GuidePage({
           </div>
         </section>
 
-        <p className="text-xs text-gray-400 dark:text-[#555] border-t border-gray-200 dark:border-[#22252E] pt-5">
+        <p className="text-xs text-gray-400 dark:text-[#8A8A9A] border-t border-gray-200 dark:border-[#22252E] pt-5">
           {disclaimer}
         </p>
       </article>

@@ -11,7 +11,7 @@ export default function Footer({ lang }: { lang: Lang }) {
             <div className="text-lg font-semibold text-white mb-1">
               Belly<span className="text-[#6C63FF]">Off</span>
             </div>
-            <div className="text-sm text-[#555]">{tr.footer_tagline}</div>
+            <div className="text-sm text-[#8A8A9A]">{tr.footer_tagline}</div>
           </div>
           <nav className="flex flex-wrap justify-center gap-6 text-sm text-[#8A8A9A]">
             {(lang === 'en' || lang === 'he') && (
@@ -23,7 +23,7 @@ export default function Footer({ lang }: { lang: Lang }) {
             <Link href={`/${lang}/terms/`} className="hover:text-white transition-colors">{tr.footer_terms}</Link>
             <a href="mailto:hello@bellyoff.app" className="hover:text-white transition-colors">{tr.footer_contact}</a>
           </nav>
-          <div className="text-xs text-[#444] flex flex-col items-center md:items-end gap-2">
+          <div className="text-xs text-[#8A8A9A] flex flex-col items-center md:items-end gap-2">
             <span>{tr.footer_copy}</span>
             <a
               href="https://www.goai.co.il"

@@ -40,7 +40,7 @@ export default async function BlogPage({ params }: { params: Promise<{ lang: str
       <section className="py-12 bg-white dark:bg-[#111216]">
         <div className="max-w-6xl mx-auto px-4">
           {posts.length === 0 ? (
-            <div className="text-center py-20 text-gray-400 dark:text-[#555]">{tr.blog_empty}</div>
+            <div className="text-center py-20 text-gray-400 dark:text-[#8A8A9A]">{tr.blog_empty}</div>
           ) : (
             <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
               {posts.map((post) => (

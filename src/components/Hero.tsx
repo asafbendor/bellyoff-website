@@ -36,17 +36,17 @@ export default function Hero({ lang }: { lang: Lang }) {
             <div className="flex items-center gap-6 sm:gap-8 mb-8">
               <div>
                 <div className="text-3xl sm:text-4xl font-bold text-white">10</div>
-                <div className="text-[#555] text-xs mt-0.5 whitespace-nowrap">{tr.stat_minutes}</div>
+                <div className="text-[#8A8A9A] text-xs mt-0.5 whitespace-nowrap">{tr.stat_minutes}</div>
               </div>
               <div className="h-10 w-px bg-[#1E2030]" />
               <div>
                 <div className="text-3xl sm:text-4xl font-bold text-white">3</div>
-                <div className="text-[#555] text-xs mt-0.5 whitespace-nowrap">{tr.stat_phases}</div>
+                <div className="text-[#8A8A9A] text-xs mt-0.5 whitespace-nowrap">{tr.stat_phases}</div>
               </div>
               <div className="h-10 w-px bg-[#1E2030]" />
               <div>
                 <div className="text-3xl sm:text-4xl font-bold text-[#9C95FF]">40+</div>
-                <div className="text-[#555] text-xs mt-0.5 whitespace-nowrap">{tr.stat_age}</div>
+                <div className="text-[#8A8A9A] text-xs mt-0.5 whitespace-nowrap">{tr.stat_age}</div>
               </div>
             </div>
 
@@ -81,7 +81,7 @@ export default function Hero({ lang }: { lang: Lang }) {
 
               {/* Center - Premium */}
               <div className="relative z-10 -mx-4 sm:-mx-8">
-                <PhoneMockup src={`/screenshots/${lang}/screen-premium.jpg`} width={224} alt={tr.phone_label_summary} />
+                <PhoneMockup src={`/screenshots/${lang}/screen-premium.jpg`} width={224} alt={tr.phone_label_summary} priority />
               </div>
 
               {/* Right - Alex */}

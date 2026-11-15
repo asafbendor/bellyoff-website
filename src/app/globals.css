@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Heebo:wght@400;500;600;700&display=swap');
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -19,9 +17,14 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-[lang="he"] body,
-[lang="ar"] body {
+/* lang sits on <html> (per-language root layout), so these match. */
+html[lang="he"] body {
   font-family: 'Heebo', system-ui, sans-serif;
+}
+
+/* Heebo has no Arabic glyphs. Latin runs fall through to Inter. */
+html[lang="ar"] body {
+  font-family: 'Noto Sans Arabic', 'Inter', system-ui, sans-serif;
 }
 
 /* ===== Blog article typography ===== */

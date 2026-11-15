@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import '../globals.css';
 import { notFound } from 'next/navigation';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
@@ -73,15 +74,36 @@ export default async function LangLayout({
     publisher: { '@type': 'Organization', name: 'BellyOff', url: 'https://bellyoff.app' },
   };
 
+  const fontFamilies = lang === 'ar'
+    ? 'family=Inter:wght@400;500;600;700&family=Noto+Sans+Arabic:wght@400;500;600;700'
+    : 'family=Inter:wght@400;500;600;700&family=Heebo:wght@400;500;600;700';
+
   return (
-    <div dir={isRTL ? 'rtl' : 'ltr'} lang={lang} className="bg-white dark:bg-[#0D0F14] text-gray-900 dark:text-white min-h-screen flex flex-col">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
-      <Header lang={lang} />
-      <main className="flex-1">{children}</main>
-      <Footer lang={lang} />
-    </div>
+    <html lang={lang} dir={isRTL ? 'rtl' : 'ltr'} suppressHydrationWarning>
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        {/* eslint-disable-next-line @next/next/no-page-custom-font */}
+        <link rel="stylesheet" href={`https://fonts.googleapis.com/css2?${fontFamilies}&display=swap`} />
+        {/* eslint-disable-next-line @next/next/no-sync-scripts */}
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JVM77H82ZH" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-JVM77H82ZH');`,
+          }}
+        />
+      </head>
+      <body suppressHydrationWarning>
+        <div className="bg-white dark:bg-[#0D0F14] text-gray-900 dark:text-white min-h-screen flex flex-col">
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+          />
+          <Header lang={lang} />
+          <main className="flex-1">{children}</main>
+          <Footer lang={lang} />
+        </div>
+      </body>
+    </html>
   );
 }

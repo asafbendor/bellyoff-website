@@ -2,7 +2,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Lang, LANG_LABELS, RTL_LANGS, t, PLAY_STORE_URL } from '@/i18n/translations';
+import { Lang, LANG_LABELS, LANG_NAMES, RTL_LANGS, t, PLAY_STORE_URL } from '@/i18n/translations';
 
 const LANGS: Lang[] = ['en', 'he', 'ar', 'es', 'de', 'fr'];
 
@@ -51,32 +51,40 @@ export default function Header({ lang }: { lang: Lang }) {
         </Link>
 
         {/* Desktop nav */}
-        <nav className={`hidden md:flex items-center gap-6 text-sm text-[#8A8A9A] ${isRTL ? 'flex-row-reverse' : ''}`}>
+        <nav className="hidden md:flex items-center gap-6 text-sm text-[#8A8A9A]">
           {navLinks}
         </nav>
 
-        <div className={`flex items-center gap-3 ${isRTL ? 'flex-row-reverse' : ''}`}>
+        <div className="flex items-center gap-3">
           {/* Desktop lang pills */}
-          <div className="hidden sm:flex items-center gap-1">
+          <div className="hidden sm:flex items-center">
             {LANGS.map((l) => (
               <Link
                 key={l}
                 href={switchLang(l)}
                 onClick={() => rememberLang(l)}
-                className={`px-2 py-1 rounded text-xs font-medium transition-colors ${
-                  l === lang
-                    ? 'bg-[#6C63FF] text-white'
-                    : 'text-[#8A8A9A] hover:text-white hover:bg-white/5'
-                }`}
+                aria-label={LANG_NAMES[l]}
+                aria-current={l === lang ? 'true' : undefined}
+                lang={l}
+                className="group inline-flex items-center justify-center min-h-[48px] min-w-[44px]"
               >
-                {LANG_LABELS[l]}
+                <span
+                  className={`px-2 py-1 rounded text-xs font-medium transition-colors ${
+                    l === lang
+                      ? 'bg-[#6C63FF] text-white'
+                      : 'text-[#8A8A9A] group-hover:text-white group-hover:bg-white/5'
+                  }`}
+                >
+                  {LANG_LABELS[l]}
+                </span>
               </Link>
             ))}
           </div>
 
           {/* Mobile lang select */}
           <select
-            className="block sm:hidden bg-[#1A1D26] border border-white/10 text-[#8A8A9A] text-xs rounded px-2 py-1.5 focus:outline-none focus:border-[#6C63FF]"
+            aria-label={tr.lang_label}
+            className="block sm:hidden min-h-[48px] bg-[#1A1D26] border border-white/10 text-[#8A8A9A] text-xs rounded px-2 py-1.5 focus:outline-none focus:border-[#6C63FF]"
             value={lang}
             onChange={(e) => { rememberLang(e.target.value as Lang); window.location.href = switchLang(e.target.value as Lang); }}
           >
@@ -100,7 +108,7 @@ export default function Header({ lang }: { lang: Lang }) {
             aria-label="Menu"
             aria-expanded={menuOpen}
             onClick={() => setMenuOpen((v) => !v)}
-            className="md:hidden flex items-center justify-center w-9 h-9 rounded text-white hover:bg-white/5 transition-colors"
+            className="md:hidden flex items-center justify-center w-12 h-12 rounded text-white hover:bg-white/5 transition-colors"
           >
             <svg viewBox="0 0 24 24" className="w-6 h-6" fill="none" stroke="currentColor" strokeWidth="2">
               {menuOpen ? (

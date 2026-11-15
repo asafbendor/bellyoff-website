@@ -97,7 +97,7 @@ export default async function BlogPostPage({
             <span className="text-xs font-semibold text-[#6C63FF] bg-[#6C63FF]/10 px-2 py-0.5 rounded-full uppercase">
               {post.category}
             </span>
-            <span className="text-xs text-[#555]">{post.date} · {post.readingMinutes} {tr.blog_min}</span>
+            <span className="text-xs text-[#8A8A9A]">{post.date} · {post.readingMinutes} {tr.blog_min}</span>
           </div>
           <h1 className="text-2xl md:text-3xl font-bold text-white leading-tight">{post.title}</h1>
         </div>
