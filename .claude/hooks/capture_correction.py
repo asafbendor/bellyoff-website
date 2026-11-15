@@ -86,9 +86,24 @@ def save_pending(path, ids, corrupt):
         json.dump({"ids": ids, "corrupt": corrupt, "ts": datetime.datetime.now().isoformat(timespec="seconds")}, f)
 
 
+def not_from_user(text):
+    """הודעה שלא נכתבה על ידי המשתמש: דוח של סוכן, התראת מערכת, אירוע של סשן אחר או הפסקה.
+    היא מגיעה ל-hook כאילו היא הודעה שלו, ומילה כמו "שוב" בדוח הייתה נרשמת כתיקון
+    (#mk-b9bb14 ו-#mk-fc1886 ב-goai-site, 15 בנובמבר 2026)."""
+    head = (text or "").lstrip()[:400]
+    if head.startswith(("<agent-message", "<task-notification", "<system-reminder", "<side-sessions-event",
+                        "<ci-monitor-event", "[Request interrupted", "[SYSTEM NOTIFICATION")):
+        return True
+    return any(s in head for s in ("Another Claude session sent a message", "[Subagent hand-back]",
+                                   "This is an automated background-task event"))
+
+
 try:
     data = json.load(sys.stdin)
 except Exception:
+    sys.exit(0)
+
+if "--stop" not in sys.argv[1:] and not_from_user(data.get("prompt")):
     sys.exit(0)
 
 if "--stop" in sys.argv[1:]:
